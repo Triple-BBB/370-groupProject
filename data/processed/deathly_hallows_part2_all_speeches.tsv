@@ -1,0 +1,692 @@
+character	speech_id	text
+HARRY	1	What did you put on me?
+HERMIONE	2	A Stinging Jinx.
+HARRY	3	How long will it last?
+HERMIONE	4	Not long.
+BELLATRIX	5	Show me.
+BELLATRIX	6	Get Draco.
+LUCIUS	7	Why Draco?
+BELLATRIX	8	Just sit back and watch, Lucius. Hm? Pour yourself another glass of wine.
+BELLATRIX	9	Where’d you find them?
+SCABIOR	10	In the North Forest.
+BELLATRIX	11	Lovely scarf, Scabior. Though I’m not sure it’s your color.
+SCABIOR	12	It’s not mine.
+BELLATRIX	13	You don’t say.
+BELLATRIX	14	Fancy her, do you, Scabior? Can’t say I blame you. Maybe we’ll work out a little reward for you, hm? That is, assuming all is as it appears. Ah, Draco. Come here, darling. From the shadows at the far end of the room Draco separates from Narcissa, steps cautiously forward.
+BELLATRIX	15	My friends here say they’ve got
+BELLATRIX	16	Well...?
+DRACO	17	I can’t... I can’t be sure.
+LUCIUS	18	Look close, Draco. If we’re the ones who hand Potter over to the Dark Lord, everything will be forgiven. Do you understand --
+BELLATRIX	19	Of course not.
+SCABIOR	20	He came to us that way. I reckon
+BELLATRIX	21	Or ran into a Stinging Jinx. Bellatrix, eyes flashing, steps up close to Hermione.
+BELLATRIX	22	Was it you, dearie? Give me her wand. We’ll see what the last spell was.
+BELLATRIX	23	What is that?
+BELLATRIX	24	Where did you get that!
+SNATCHER	25	It was in her bag when we searched
+SCABIOR	26	Are you mad!
+SCABIOR	27	How dare you! Release me, woman!
+BELLATRIX	28	Go. GO!
+BELLATRIX	29	Wormtail. Put these two in the cellar. I want to have a little conversation with this one. Girl to girl.
+RON	30	Harry! What’re we going to do? We can’t just leave Hermione alone
+LUNA	31	Ron? Harry...?
+HARRY	32	Luna...? 7.
+HERMIONE	33	I don’t know what you’re talking about.
+BELLATRIX	34	Liar. What else did you take?
+LUNA	35	You look strange, Harry. Mr. Ollivander, look who’s here. It’s
+HARRY	36	Hello, sir.
+RON	37	We have to do something, Harry!
+OLLIVANDER	38	There’s no way out. We’ve tried everything.
+LUNA	39	You’re bleeding, Harry.
+LUNA	40	That’s a curious thing to hide in your sock. Taking the shard, Harry turns the silvery side toward himself (and only himself) -- and for a split second --
+LUNA	41	You were hiding it, weren’t you? Before Harry can respond, Hermione SCREAMS again. Pained
+HARRY	42	Help us.
+WORMTAIL	43	Shut it! You. Goblin. Come with me.
+HARRY	44	Dobby. What’re you doing here?
+DOBBY	45	Dobby has come to rescue Harry Potter, of course. Everyone stares, stunned. Harry stares in similar
+HARRY	46	Do you mean to say you can Apparate in and out of here? And take us with you?
+DOBBY	47	Of course. I’m an elf.
+RON	48	Works for me.
+HARRY	49	Right. Dobby, I want you to take
+RON	50	Shell Cottage on the outskirts of Tinworth.
+HARRY	51	You’ll see to Mr. Ollivander?
+LUNA	52	Of course.
+RON	53	Sss.
+NEW ANGLE	54	As Harry joins Ron and looks: Slowly, Bellatrix comes INTO VIEW, towering over Griphook, who holds the sword, studying it. Hermione
+BELLATRIX	55	Well?
+GRIPHOOK	56	I left Gringotts employ many weeks ago, but when I was last in your vault, the sword was there.
+BELLATRIX	57	Perhaps it just walked out on its own then.
+GRIPHOOK	58	There is no place safer than Gringotts, Madam LeStrange. ... and catches on Hermione’s shirt.
+BELLATRIX	59	Liar! You can’t deceive me! As Hermione looks up, away from the hair, Bellatrix slashes the dagger across Griphook’s cheek and a deep
+BELLATRIX	60	Consider yourself lucky, Goblin.
+RON	61	Like hell!
+RON	62	Expelliarmus! Bellatrix’s dangling wand shoots free, tumbles end over end... right into Harry’s hand.
+HARRY	63	Stupefy!
+BELLATRIX	64	Drop your wands.
+BELLATRIX	65	I said drop them!
+HARRY	66	Stupefy!
+BELLATRIX	67	You dirty little monkey! You could have killed me!
+DOBBY	68	Dobby meant only to maim or seriously injure, not kill.
+BELLATRIX	69	For God’s sake, Cissy, you’ve got a wand! Use it!
+BELLATRIX	70	How dare you take a witch’s wand. How dare you defy your masters.
+DOBBY	71	Dobby has no master! Dobby is a free elf, and Dobby has come to
+HARRY	72	Give the Dark Lord our regards. Harry’s hand closes on Dobby’s and the drawing room begins to SPIN. Bellatrix’s face twists into an ugly
+HARRY	73	It’s all right, Hermione. You’re safe. We’re all safe.
+HARRY	74	Dobby... no...
+HARRY	75	It’s okay... Here... Just hold on, Dobby... I’ll fix you -- Hermione -- your bag -- you must have something -- Essence of Dittany -- something... Hermione! Help me!
+DOBBY	76	Such a beautiful night... to be with friends. Dobby is happy...
+BILL	77	Fleur’s seeing to Ollivander. Anyone else need tending --
+LUNA	78	We should close his eyes. Don’t you think?
+LUNA	79	Harry. It’s all right. That it hurts. That’s what reminds us how lucky we are to be alive.
+HARRY	80	I want to bury him properly. Without magic.
+LUNA	81	It’s beautiful here.
+BILL	82	It was our Aunt’s. We used to come here as kids. The Order uses it now as a safe house -- what’s left of us, at least.
+LUNA	83	Muggles think these keep evil
+HARRY	84	I need to talk to the goblin.
+HARRY	85	How are you?
+GRIPHOOK	86	Alive.
+HARRY	87	You probably don’t remember --
+GRIPHOOK	88	-- that I showed you to your vault
+HARRY	89	Yes.
+GRIPHOOK	90	And brought me here.
+GRIPHOOK	91	You are a very unusual wizard.
+HARRY	92	Why did you leave Gringotts?
+GRIPHOOK	93	Soon the Death Eaters will control it. That was unacceptable to me.
+RON	94	Then you’re on our side.
+HARRY	95	I need to get inside Gringotts,
+GRIPHOOK	96	It is impossible.
+HARRY	97	Alone, yes. With you, no.
+GRIPHOOK	98	How did you come by this sword?
+HARRY	99	It’s complicated. Why did
+GRIPHOOK	100	It’s complicated.
+GRIPHOOK	101	There is a sword in Madam Lestrange’s vault identical to
+RON	102	Who put it there? The fake.
+GRIPHOOK	103	It was not my place to ask, nor did I desire to. There are more than a few curious things in the vaults at Gringotts.
+HARRY	104	And in Madam Lestrange’s vault as well?
+GRIPHOOK	105	Perhaps.
+HARRY	106	I have gold. Lots of it.
+GRIPHOOK	107	I have no interest in gold.
+HARRY	108	Then what?
+GRIPHOOK	109	That is my price.
+GRIPHOOK	110	I have your word, Harry Potter, that you will give me the Sword of Gryffindor if I help you?
+HERMIONE	111	Harry, are you thinking there’s a Horcrux in Bellatrix’s vault?
+RON	112	And if we find one? How’re we supposed to destroy it if we’ve given Griphook the sword?
+HARRY	113	I’m still working on that part.
+OLLIVANDER	114	Forgive me if I don’t get up.
+HARRY	115	Mr. Ollivander, I need to ask you a few questions.
+OLLIVANDER	116	Anything, m’boy, anything.
+HARRY	117	Can you identify these, sir? Harry removes TWO WANDS. Ollivander takes one in hand.
+OLLIVANDER	118	Walnut and dragon heartstring. Twelve and three quarter inches. Unyielding. This belongs to
+HARRY	119	And this?
+OLLIVANDER	120	Hawthorn. Unicorn hair. Ten inches. Reasonably pliant. This was the wand of Draco Malfoy.
+HARRY	121	Was? Isn’t it still?
+OLLIVANDER	122	Perhaps not -- if you won it from him. I sense its allegiance has changed.
+HARRY	123	You talk about wands like they’ve got feelings. Can think.
+HARRY	124	What do you know about the Deathly Hallows, sir?
+OLLIVANDER	125	There are rumored to be three:
+HARRY	126	But you, sir? Do you believe they exist?
+OLLIVANDER	127	I see no reason to put stock in an old wives tale --
+HARRY	128	You’re lying. You know one exists and you told him about it. You
+OLLIVANDER	129	He tortured me! Besides, I conveyed only rumors. There’s no
+HARRY	130	That’s all, sir. We’ll leave you to get some rest now.
+OLLIVANDER	131	He’s after you, Mr. Potter. If it’s true, what you say, that he has the Elder Wand, I’m afraid you really don’t stand a chance.
+HARRY	132	Then I guess I’ll just have to
+RON	133	You’re sure it’s hers?
+HERMIONE	134	Positive.
+HARRY	135	I reckon you should take this then.
+HERMIONE	136	Can’t I use the other?
+RON	137	You heard Ollivander. It’s Harry’s now.
+HERMIONE	138	But I hate that thing -- that’s
+HARRY	139	If I can hold it, you can.
+RON	140	How will we know what it is when we get in there? After all, a Horcrux can be anything.
+HARRY	141	I’ll know. I can’t explain. It’s like...
+RON	142	That’s a bit scary.
+HERMIONE	143	It is, Harry. Did Dumbledore ever say anything to you, something that might explain why --
+HARRY	144	No. I just know. When one’s near.
+HERMIONE	145	It’s perfect. Thank you, Fleur.
+BILL	146	You’re leaving, aren’t you.
+HARRY	147	In the morning.
+BILL	148	And Griphook?
+BILL	149	Listen, I don’t know what you’re up to, but I know goblins. If you’ve struck any kind of bargain with Griphook, you must be exceptionally careful to live up to it. If you don’t... he won’t be forgiving.
+LUNA	150	My father used to say that when a child died.
+LUNA	151	Funny how Mr. Dobby knew exactly where to find us.
+HARRY	152	Yeah. Funny. Listen, Luna, about your father, I don’t want you to think I --
+LUNA	153	I know you understand why my
+HARRY	154	Hogwarts?
+HARRY	155	It’s not the place you left, you know. It’s not the same.
+LUNA	156	Neither am I.
+RON	157	What d’you think?
+HARRY	158	Wouldn’t know you if I didn’t know you.
+RON	159	You want to tell me what that is?
+RON	160	You mean he could see you?
+HARRY	161	Something like that. I don’t know. He died before I ever got to use it. The thing is...
+RON	162	Go on.
+HARRY	163	You’ll think I’m mental, but more than once, when I’ve looked into it -- I think I’ve seen Dumbledore. As Ron reacts, Harry’s eyes shift. Bellatrix Lestrange and Griphook, clutching the sword, approach from the cottage.
+RON	164	Bloody hell... that’s a sight.
+RON	165	Hideous.
+RON	166	Couldn’t do anything about that bit in the back that’s always flipping up, could you? Dead annoying --
+RON	167	Never mind. I’m good.
+HARRY	168	You can give that to Hermione to hold, all right, Griphook?
+GRIPHOOK	169	Good morning? Good morning? You’re Bellatrix Lestrange, not some dewy-eyed schoolgirl!
+RON	170	Hey. Easy.
+GRIPHOOK	171	She gives us away and we might as well use that sword to slit our own throats. Understand?
+HERMIONE	172	He’s right. I was being stupid.
+HARRY	173	C’mon. Let’s do it. A GUST of WIND BLOWS and we SHIFT TO a FADING POSTER of
+AGED GOBLIN	174	Identification.
+AGED GOBLIN	175	I see. Very well. Excuse me, won’t you?
+TALL GOBLIN	176	Next.
+RON	177	What do you mean?
+RON	178	Harry, what do we do? Harry...?
+ANOTHER ANGLE	179	CAMERA MOVING TOWARDS Hermione, simulating Harry’s
+BOGROD	180	It’s the bank’s policy. I’m sure you understand, given the current climate --
+BOGROD	181	I’m afraid I must insist. As the guard closes on Ron, Ron looks about frantically,
+BOGROD	182	Very well, Madam Lestrange. If you will follow me.
+AGED GOBLIN	183	But... Bogrod, there have been special instructions regarding the Lestrange vault.
+BOGROD	184	I’m fully aware of that. I’m also aware the Lestranges are one of our oldest and most respected families.
+AGED GOBLIN	185	Yes, sir, but our instructions are very specific --
+BOGROD	186	Let me be specific with you, Ricbert. I’ve run this bank for forty-five years, long before anyone had even heard of a Death
+BOGROD	187	Madam, if you will, I will escort you myself.
+GRIPHOOK	188	Time will tell. Harry’s eyes meet Griphook’s in the flickering darkness, then Ron’s face appears over Harry’s shoulder.
+RON	189	What’s that? Up ahead. Ron points. In the distance, directly over the tracks, something SHIMMERS like a CURTAIN of WATER.
+GRIPHOOK	190	I should have known -- Furiously, Griphook starts to throw levers, trying to slow the cart.
+HARRY	191	What is that, Griphook?
+HARRY	192	Griphook! What is that!
+HARRY	193	Well done. Hey.
+RON	194	You don’t say.
+GRIPHOOK	195	No. Before the trio can savor this tidbit:
+BOGROD	196	What the devil are you all doing down here!
+GRIPHOOK	197	We need him!
+BOGROD	198	Is this your doing, Griphook? You have no rights here anymore. When you gave up your keys, you --
+RON	199	Imperio!
+GRIPHOOK	200	Well done.
+RON	201	No. It’s not possible...
+RON	202	Bloody hell. That’s a Welsh Green.
+HERMIONE	203	It looks like it’s been down here forever.
+GRIPHOOK	204	Go on.
+RON	205	It’s been trained to expect pain when it hears the noise. Hermione’s eyes flash to Ron, then to the SCARS on the dragon’s face and neck.
+HERMIONE	206	That’s barbaric. I...
+GRIPHOOK	207	We’ll only have a few seconds. In
+GRIPHOOK	208	Ready, Bogrod?
+BOGROD	209	Hm? Oh. Yes. Of course.
+RON	210	Blimey...
+HERMIONE	211	Look. Hermione crosses to what appears to be the Sword of Gryffindor.
+HERMIONE	212	No wonder Bellatrix thought it was real.
+RON	213	Is it here, Harry? Can you feel anything?
+HERMIONE	214	It’s hot! All eyes turn to the bowl, WOBBLING MADLY on the floor, when... it SPLITS APART and begins to MULTIPLY.
+HERMIONE	215	Ron, your foot! It’s SMOKING. As Ron stamps the ground, Harry pivots, tipping a towering STACK of GALLEONS to the floor where
+GRIPHOOK	216	We’ll be crushed! Hurry!
+HARRY	217	That’s it. Up there.
+HERMIONE	218	How’re we going to reach it?
+HARRY	219	Give me the sword! The real one.
+RON	220	Keep going!
+HERMIONE	221	Harry! Behind you!
+HERMIONE	222	In here!
+HARRY	223	We have a deal, Griphook.
+GRIPHOOK	224	I said I’d get you in. I never said anything about getting you out.
+HARRY	225	Griphook! Griphook! But Griphook merely looks back, grins madly and, sword in hand, rushes to join the approaching throng.
+GRIPHOOK	226	Thieves! Help! Thieves!
+RON	227	Foul little git. Least we’ve got Bogrod.
+RON	228	That’s unfortunate.
+HERMIONE	229	We can’t just stand here! Who’s got an idea?
+RON	230	You’re asking us? You’re the brilliant one.
+HERMIONE	231	I’ve got something. But it’s mad.
+HERMIONE	232	Relashio!
+RON	233	That’s your idea?
+HARRY	234	Come on!
+HERMIONE	235	It doesn’t realize it’s free!
+RON	236	That was brilliant! BRILLIANT!
+RON	237	Bloody hell.
+HARRY	238	We’re dropping!
+RON	239	I say we jump!
+HERMIONE	240	When?
+HARRY	241	NOW!
+HERMIONE	242	How is it you --
+HARRY	243	I saw him.
+HERMIONE	244	You let him in! Harry, you can’t --
+HARRY	245	I can’t always help it, Hermione!
+RON	246	Never mind! What did you see?
+HARRY	247	I reckon he’ll do anything to stop us from finding the rest. There’s
+HERMIONE	248	You saw it?
+HARRY	249	I saw the castle. And Rowena Ravenclaw. I think it must have something to do with her. We have to go there, now.
+HERMIONE	250	Tonight? But we have to plan. We have to figure out what --
+HARRY	251	Honestly, Hermione, when have any of our plans actually worked? We plan, we get there and all hell breaks loose.
+HARRY	252	We’ll go to Hogsmeade. To Honeydukes. Take the secret passage in the cellar. Harry looks off then, over the lake, in the direction the dragon flew off.
+RON	253	Maybe it’s because of the
+HERMIONE	254	They were ready for us. Suddenly BEAMS of LIGHT fracture the mist. DEATH EATER #1 (O.S.) We know you’re here, Potter. There’s no getting away.
+HERMIONE	255	No, you’ll give us away.
+HARRY	256	Expecto Patronum!
+ABERFORTH	257	In here, Potter. 211-212 OMITTED 211-212
+RON	258	Did you get a look at him! For a second I thought it was --
+HERMIONE	259	Harry! I can see you! In here!
+ABERFORTH	260	You bloody fools! What were you thinking coming here? Do you have any idea how dangerous it is --
+HARRY	261	You’re Aberforth.
+HARRY	262	Dumbledore’s brother. It’s you I’ve been seeing -- here. It’s you who sent Dobby.
+ABERFORTH	263	Where’ve you left him?
+ABERFORTH	264	Sorry to hear it. I liked that elf.
+HARRY	265	How’d you come by it? Harry nods to the shard in Hermione’s hand.
+ABERFORTH	266	Mundungus Fletcher, ‘bout a year ago.
+HARRY	267	Dung had no right selling you that. It belonged to --
+ABERFORTH	268	Right then. Reckon you’re hungry. Let’s get you fed, then think of
+HERMIONE	269	Do you hear much from the others? From the Order?
+HARRY	270	We need to get into Hogwarts.
+ABERFORTH	271	You know what to do... *
+HERMIONE	272	Mr. Dumbledore... thank you.
+HERMIONE	273	Did save our lives twice. Kept an eye on us in that mirror. That doesn’t seem like someone who’s given up, does it?
+NEVILLE	274	I knew you’d come! I told them all! Harry Potter would never abandon Hogwarts! *
+HARRY	275	Neville, you look...
+NEVILLE	276	Like hell? I reckon. This is nothing. Seamus is worse. You’ll see. Hermione! Ron!
+NEVILLE	277	Hey, Ab. There might be a couple more people on the way.
+NEVILLE	278	Well? Ready?
+RON	279	I don’t remember this being on the Marauder’s Map.
+NEVILLE	280	That’s because it never existed till now. The seven secret passages were sealed off before
+HERMIONE	281	How bad is it, Neville? With
+HERMIONE	282	They did that to you? But why?
+NEVILLE	283	Today’s Dark Arts lesson had us practicing the Cruciatus Curse. On First Years. I refused. Hogwarts has changed.
+NEVILLE	284	Aw, c’mon. Don’t be grim. We’re all used to it by now. And the thing is, it helps when people stand up, gives everyone hope. I used to notice that when you did it, Harry. C’mon, we’re almost there.
+NEVILLE	285	Let’s have a bit of fun, shall we?
+SEAMUS	286	Blimey. ... VOICES EXPLODE. Madness ensues as the trio is swallowed up in a scrum of backslaps and handshakes. Many familiar faces are present. Luna. Dean Thomas.
+NEVILLE	287	Get the word out to Remus and the others that Harry’s back.
+NIGEL	288	River, DA calling. Do you read? We have a new weather report: Lightning has struck. I repeat, lightning has struck...
+NEVILLE	289	Okay, okay! Stand down! Let’s not kill them before You-Know-Who gets the chance!
+HARRY	290	Okay. There’s something we need to find, something hidden here in
+NEVILLE	291	What is it?
+HARRY	292	We don’t know.
+DEAN	293	Where is it?
+HARRY	294	Don’t know that either.
+HARRY	295	I realize it’s not much to go on.
+SEAMUS	296	That’s nothing to go on.
+HARRY	297	I think it might have something to do with Ravenclaw. It would be small, easy to conceal, valuable. Any ideas?
+LUNA	298	Well, there’s Rowena Ravenclaw’s lost diadem.
+CHO	299	Yes, but Luna, it’s lost. For centuries now. There’s not a person alive today who’s seen it.
+RON	300	Excuse me. But would someone tell me: what’s a bloody diadem?
+CHO	301	It’s a kind of crown. You know, like a tiara.
+CHO	302	Ravenclaw’s was rumored to have magical properties, to enhance the wisdom of the wearer.
+GINNY	303	Harry.
+HARRY	304	Hey there.
+SEAMUS	305	Got loads of those, though,
+RON	306	Shut up, Seamus.
+NEVILLE	307	What is it, Ginny?
+ALECTO CARROW	308	Put a smile on, Miss Reynolds. Wouldn’t want me to have to pay a visit to Daddy again, would you?
+SNAPE	309	Many of you are surely wondering why I have summoned you here at
+SNAPE	310	I mention this in the hopes that truth will not be supplanted by rumor.
+SNAPE	311	Now then. If anyone here has knowledge of Mr. Potter’s movements this evening... I invite
+FOOTSTEPS.	312	A FIGURE appears in the shadows at the back of the Hall. McGonagall’s chin rises in disbelief. Maisy’s face blooms with hope. And then...
+HARRY	313	It would seem that, despite your exhaustive defensive strategies, you have a bit of a security problem, Headmaster.
+HARRY	314	And I’m afraid it’s rather extensive.
+HARRY	315	How dare you stand where he stood.
+HARRY	316	I’m a Gryffindor. PROFESSOR McGONAGALL I thought it might have something to do with that.
+FILCH	317	Students out of bed! Students in
+FILCH	318	Oh. Sorry, mum. Filch begins to turn away. PROFESSOR McGONAGALL Wait! As it turns out, Mr. Filch, your arrival is most opportune. If you would, I’d like you to lead Miss Parkinson and the rest of Slytherin House from the Hall.
+FILCH	319	Right away.
+HARRY	320	Time. As much as you can give me. PROFESSOR McGONAGALL Do what you have to do. I’ll secure the castle.
+HARRY	321	Is that possible, Professor? PROFESSOR McGONAGALL We teachers are rather good at magic, Potter. We’ve even been known to turn out a worthwhile witch or wizard on occasion.
+HARRY	322	I think you’re right. McGonagall nods, still sizing up Neville and the others. Harry turns, starts to exit. PROFESSOR McGONAGALL
+HARRY	323	You, too, Professor. 231-232 OMITTED 231-232
+NEVILLE	324	Let me get this straight, Professor. You’re giving us permission to do this? PROFESSOR McGONAGALL That is correct, Longbottom.
+NEVILLE	325	To blow it up. Boom. PROFESSOR McGONAGALL Boom.
+NEVILLE	326	Wicked.
+SEAMUS	327	I can bring ‘er down. PROFESSOR McGONAGALL That’s the spirit. Now off you go. Neville, Ginny, Seamus and the DA peel off.
+FLITWICK	328	You realize, of course, that nothing we do will be able to keep out You-Know-Who indefinitely.
+MADAM SPROUT	329	That doesn’t mean we can’t hold
+INTO VIEW.	330	PROFESSOR McGONAGALL Hogwarts is threatened! Man the boundaries and protect us! Do your duty to our school! As the statues thunder past, heading toward the viaduct, McGonagall watches with evident pleasure.
+TEACHERS	331	Protego Maxima... Finato Duri... Repello Inimicum...
+RON	332	Harry, Hermione and I have been thinking. It doesn’t really matter if we find the Horcrux.
+HERMIONE	333	Unless we can destroy it.
+RON	334	So we were thinking --
+HERMIONE	335	You were thinking. It’s Ron’s idea. And it’s brilliant.
+RON	336	You destroyed Tom Riddle’s Diary with a Basilisk fang, right? Well, we know where we might find one, don’t we?
+HARRY	337	Okay. But take this. That way you can find me when you get back. Harry hands Hermione the MARAUDER’S MAP.
+HERMIONE	338	Where are you going?
+HARRY	339	Ravenclaw Common Room. Got to start somewhere.
+LUNA	340	Harry! Wait! I need to talk to you!
+HARRY	341	I’m a bit preoccupied right now, Luna.
+LUNA	342	But you won’t find anything where you’re going. You’re wasting your time.
+HARRY	343	We’ll talk later, Luna.
+HARRY	344	Later.
+LUNA	345	Don’t you remember what Cho said about Rowena Ravenclaw’s diadem: ‘There’s not a person alive who’s seen it.’
+LUNA	346	It’s obvious, isn’t it? We have to talk to someone who’s dead.
+VOLDEMORT	347	Begin.
+THICKNESSE	348	But, my Lord, shouldn’t we wait -- Voldemort’s eyes shift, killing the remainder of
+FRED	349	Nice night for it!
+HARRY	350	Okay, Luna. Who’ve you got in mind?
+NEVILLE	351	You do know what you’re doing, don’t you, Seamus?
+NEVILLE	352	Blimey. Neville looks off then, peering back along the bridge’s
+NEVILLE	353	Not good.
+LUNA	354	If you’re to find her, you’ll find
+HARRY	355	Aren’t you coming?
+LUNA	356	No. I think it best if you two
+KINGSLEY SHACKLEBOLT	357	Tell Professor McGonagall Remus and I will handle this side of the castle.
+DEAN	358	Yes, sir. As Dean starts off, the grounds beyond and below come
+KINGSLEY SHACKLEBOLT	359	Dean!
+LUPIN	360	It’s the quality of one’s conviction that determines success, not the number of one’s followers. Lupin stares straight ahead, as does Shacklebolt.
+KINGSLEY SHACKLEBOLT	361	Who said that?
+LUPIN	362	Me.
+LUPIN	363	Speaking of quality.
+LUPIN	364	You shouldn’t have. It’s Teddy who needs you.
+HARRY	365	It’s you...
+NEVILLE	366	Ha! Ha!
+NEVILLE	367	Yeah! You and whose army!
+SEAMUS	368	Woah! Easy up there!
+NEVILLE	369	Sorry.
+HERMIONE	370	No. Of course not.
+RON	371	I’ve never got this far before.
+HERMIONE	372	I’m scared.
+RON	373	Me too.
+HERMIONE	374	I didn’t expect it to be like this.
+RON	375	What did you expect it to be like?
+HERMIONE	376	Not this.
+HARRY	377	You’re the Grey Lady, the ghost of Ravenclaw Tower.
+THE GREY LADY	378	I do not answer to that name.
+HARRY	379	I’m sorry. It’s Helena, isn’t it? Helena Ravenclaw. Rowena’s daughter. Luna told me.
+THE GREY LADY	380	Are you a friend of Luna’s?
+HARRY	381	Yes. She thought you might be able to help me.
+THE GREY LADY	382	You seek my mother’s diadem.
+HARRY	383	Yes! That’s right --
+HARRY	384	Wait! Please!
+THE GREY LADY	385	Many have sought my mother’s diadem. Its powers are legendary...
+HARRY	386	But I don’t care about its powers! Honestly --
+HARRY	387	I don’t seek it for myself! You have to believe me!
+HARRY	388	I want to destroy it.
+HARRY	389	That’s what you want, isn’t it, Helena? You want it destroyed.
+HARRY	390	I’ll end your pain, Helena. Tell me where it is and I’ll destroy it, I swear, on my mother’s memory --
+HARRY	391	Tom Riddle --
+THE GREY LADY	392	I know what he’s done! I know who
+HARRY	393	Yes. That’s right. But I can undo that, Helena. I can destroy it once and for all. But only if you tell me where he hid it. You know where he hid it, don’t you, Helena? You just have to tell me. Please.
+THE GREY LADY	394	Strange... you remind me of him a bit...
+THE GREY LADY	395	It’s here. In the castle. In the place where everything is hidden...
+THE GREY LADY	396	If you have to ask, you’ll never know. If you know, you need only ask...
+HARRY	397	Thank you... ... then turning...
+HARRY	398	Thank you... ... then running.
+RON	399	You do it.
+RON	400	Yes, you can.
+NEVILLE	401	Not good. Neville starts to back up slowly, then turns heel and pelts back up the bridge. Plumes rain down from the sky.
+GINNY	402	Ready!?
+NEVILLE	403	Are you bloody joking?!
+GINNY	404	What?
+NEVILLE	405	That was kind of exciting.
+GINNY	406	Mad. The both of you. Just then, a thundering RUMBLE almost sends Neville
+NEVILLE	407	Not good.
+FILCH	408	Night-tee night.
+PANSY PARKINSON	409	You let us out of here, you filthy squib!
+HARRY	410	Ginny! Neville! You alright?
+NEVILLE	411	Never better! Feel like I could spit fire! Haven’t seen Luna, have you?
+NEVILLE	412	I’m mad for her! Think it’s about time I told her, seeing as there’s a pretty good chance we’ll both be dead by dawn!
+GINNY	413	I know.
+RON	414	Bloody hell. We’ll never find him on this.
+RON	415	What? As Hermione points to Harry’s name amidst the ant colony
+RON	416	Brilliant.
+HERMIONE	417	He vanished. Just now. I saw it.
+RON	418	Let’s go.
+HERMIONE	419	Brilliant. 279 OMITTED 279
+DRACO	420	Take my hand.
+DRACO	421	Well, well, what brings you here, Potter?
+HARRY	422	I could ask you the same.
+DRACO	423	I virtually lived here last year. Remember?
+HARRY	424	I remember.
+DRACO	425	You have something of mine. I’d like it back. Draco gestures to the wand sticking out of Harry’s pocket.
+HARRY	426	What’s wrong with the one you have?
+DRACO	427	Easy.
+HARRY	428	Why didn’t you tell her?
+HARRY	429	Bellatrix. You knew it was me. But you didn’t say anything. Blaise and Goyle, confused by this, regard Draco dimly
+DRACO	430	Give me my wand.
+HARRY	431	No. I don’t think so...
+HARRY	432	Besides, its allegiance is to me now. If you want it, you’ll have to win it back. Perhaps even kill me...
+GOYLE	433	C’mon, Draco. Don’t be a prat. Just do ’im.
+GOYLE	434	Avada Kedavra!
+HARRY	435	Expelliarmus!
+HERMIONE	436	Did you see where it went? The diadem!
+HARRY	437	It’s gone! We’ll never -- Ting! Ting! Ting! The diadem drops from the sky and
+HARRY	438	Well done. Let’s find Ron and get out of here.
+RON	439	RUN! Goyle’s set the bloody place on fire! As one, the trio dashes through the remaining aisles as
+HARRY	440	Split up! Each goes a separate way, but it’s no use. The fire simply divides, the serpent slithering after Harry, the chimaera after Hermione, the dragon after Ron. Harry glances up, sees Malfoy and Blaise scaling a mountain of
+HERMIONE	441	Do we climb!
+HARRY	442	No, it’ll just follow us!
+HARRY	443	Here! Take one!
+HERMIONE	444	C’mon! This way!
+HARRY	445	Wait! What about Malfoy and Blaise!
+RON	446	IF WE DIE FOR THEM, I’LL KILL YOU, HARRY!
+RON	447	Brilliant.
+VOLDEMORT	448	Nagini. Come. Voldemort begins to slip away, BLASTING anyone who stands
+RON	449	You’re bloody well welcome!
+HARRY	450	Ron, you once asked me if I
+HERMIONE	451	Someplace safe.
+RON	452	Find out where he is. If we find him, we find the snake. Then we’re one step closer to ending this.
+LUCIUS MALFOY	453	Forgive me, my Lord, but wouldn’t it be more prudent to call off
+VOLDEMORT	454	I do not need to seek the boy!
+LUCIUS MALFOY	455	Of c-course, my Lord.
+VOLDEMORT	456	How do you live with yourself, Lucius?
+HARRY	457	I know where he is.
+TRELAWNEY	458	There’s more to me than incense and tea leaves, Mr. Finnegan.
+LUNA	459	Thanks.
+NEVILLE	460	Don’t mention it.
+HERMIONE	461	NO! Hermione’s wand flashes. A DEAFENING BLAST. Greyback takes it straight to the chest, pitches up into the air and drops. Unmoving.
+VOLDEMORT	462	Why doesn’t it work for me?
+SNAPE	463	You have performed extraordinary magic with this wand, my Lord. In
+VOLDEMORT	464	No! I am extraordinary! But the wand resists me!
+SNAPE	465	There is no wand more powerful.
+VOLDEMORT	466	Does it?
+SNAPE	467	My Lord?
+VOLDEMORT	468	You’re a clever man, Severus. Surely you must know.
+VOLDEMORT	469	Where, Severus? Where does its loyalty lie?
+SNAPE	470	With you, of course, my Lord.
+SNAPE	471	My Lord --
+VOLDEMORT	472	You have been a good and faithful servant, Severus. Voldemort raises the wand, points it at Snape’s throat.
+VOLDEMORT	473	But only I can live forever...
+VOLDEMORT	474	Kill. Snape’s eyes shift... meet the snake’s. The snake strikes. Harry’s SCREAM is swallowed by Snape’s own. Voldemort runs a finger along the wand, eyeing it with wonder, transfixed, then turns away.
+VOLDEMORT	475	Nagini! Come!
+SNAPE	476	Please. Snape holds Harry captive briefly, then drops back to the floor. Harry blinks, shaken.
+HARRY	477	Give me something! Quickly! A flask! Anything. Instantly, Hermione CONJURES a flask from thin air. Hands trembling, Harry presses it to Snape’s ashen cheek, letting the fluid flow within.
+SNAPE	478	You have your mother’s eyes... Snape’s face goes slack. Harry shivers. Ron reappears.
+RON	479	Never! Do you hear me! NEVER!
+HERMIONE	480	Where is everyone?
+NIGHT	481	... poised on the threshold, looking in.
+THEIR POV	482	Triage. The House tables have been pushed to the walls.
+PETUNIA EVANS	483	We’re going home.
+LILY EVANS	484	That’s mean.
+YOUNG SNAPE	485	It’s true. You know so yourself.
+SNAPE	486	No! Don’t kill me!
+DUMBLEDORE	487	That wasn’t my intention.
+DUMBLEDORE	488	Stand up, Severus. I haven’t much time. What message do you bring from Lord Voldemort this time?
+DUMBLEDORE	489	Is this about the Prophecy?
+SNAPE	490	Yes.
+DUMBLEDORE	491	How much did you relay?
+SNAPE	492	Only what I heard. But now... he
+DUMBLEDORE	493	If she means so much to you, surely Lord Voldemort would spare
+SNAPE	494	I have asked.
+DUMBLEDORE	495	You disgust me. You would sacrifice the life of an innocent child over a schoolboy crush?
+DUMBLEDORE	496	And should I do so, what will you give me in return, Severus?
+SNAPE	497	Anything.
+SNAPE	498	You said you would keep her safe!
+SNAPE	499	DON’T!
+DUMBLEDORE	500	If you loved Lily Evans, Severus. If you truly loved her. Then your way is clear.
+SNAPE	501	No one can know. Your word.
+DUMBLEDORE	502	My word that I shall never reveal
+DUMBLEDORE	503	Sometimes we see what we expect to see, Severus. Other teachers indicate the boy is modest, likeable and while no prodigy, possesses above-average gifts. Personally, I find him rather engaging.
+SNAPE	504	You see what you want to see. Severus walks on. Dumbledore smiles with amusement.
+DUMBLEDORE	505	Perhaps. Oh. Severus.
+SNAPE	506	Why did you put it on? Surely you realized it carried a curse.
+DUMBLEDORE	507	I was... foolish... greedy...
+SNAPE	508	Drink the rest. It will contain
+DUMBLEDORE	509	For the time being?
+SNAPE	510	It will spread.
+DUMBLEDORE	511	How long?
+SNAPE	512	Maybe a year.
+DUMBLEDORE	513	Well, this makes matters much more straightforward.
+DUMBLEDORE	514	Do not ignore me, Severus. Was it not you who told me of Lord Voldemort’s plan to have the Malfoy boy murder me?
+DUMBLEDORE	515	You must agree.
+DUMBLEDORE	516	Yes. You must be the one to kill me, Severus. It is the only way. Only then will the Dark Lord trust you completely.
+SNAPE	517	You ask too much.
+DUMBLEDORE	518	There will come a time when Harry Potter must be told something. But you must wait until Voldemort
+DUMBLEDORE	519	On the night Lord Voldemort went to Godric’s Hollow to kill Harry, and Lily Potter cast herself
+DUMBLEDORE	520	There’s a reason Harry can speak
+SNAPE	521	So when the time comes, the boy must die.
+DUMBLEDORE	522	Yes. And Voldemort himself must do it. That is essential.
+SNAPE	523	You’ve kept him alive so that he can die at the proper moment. You’ve been raising him like a pig for slaughter.
+DUMBLEDORE	524	But this is touching, Severus. Don’t tell me you’ve grown to care for the boy?
+SNAPE	525	Expecto Patronum!
+DUMBLEDORE	526	Lily. After all this time?
+SNAPE	527	Always... We GO TO BLACK...
+HERMIONE	528	Where’ve you been?
+RON	529	We thought you’d gone to the forest, we thought you might be --
+HARRY	530	I’m going there now.
+RON	531	Are you mad! No!
+HARRY	532	It’s... meant to be.
+RON	533	Rubbish! You can’t just give
+HERMIONE	534	What is it, Harry? What is it you know?
+HARRY	535	There’s a reason I can... hear
+HARRY	536	I think I’ve known for awhile.
+HERMIONE	537	I’ll go with you. I’ll --
+HARRY	538	Kill the snake. Kill the snake
+OLIVER WOOD	539	I’ll take him from here.
+GINNY	540	It’s all right. We’re going to get you inside. Ginny crouches over the tiny Ravenclaw girl, who is
+YOUNG GIRL	541	I kept calling. No one came.
+GINNY	542	Don’t worry. I won’t leave you. I promise.
+LILY POTTER	543	You’ve been so brave, sweetheart.
+HARRY	544	Why are you here? All of you?
+LILY POTTER	545	We never left, dear.
+HARRY	546	Does it hurt? Dying?
+SIRIUS BLACK	547	Quicker than falling asleep.
+JAMES POTTER	548	You’re nearly there, son.
+HARRY	549	I’m sorry. I didn’t want any of you to die for me. And Remus, your son...
+HARRY	550	You’ll stay with me?
+JAMES POTTER	551	Until the end.
+HARRY	552	He won’t be able to see you?
+SIRIUS BLACK	553	No. We’re here, you see.
+HARRY	554	Stay close to me.
+LILY POTTER	555	Always...
+YAXLEY	556	No sign of him, my Lord.
+VOLDEMORT	557	I thought he would come. I was, it seems... mistaken.
+HARRY	558	You weren’t. All eyes shift to Harry, standing at the clearing’s edge.
+HAGRID	559	HARRY! NO! WHAT’RE YEH DOIN’ ‘ERE!
+YAXLEY	560	Quiet!
+DUMBLEDORE	561	You cannot help.
+DUMBLEDORE	562	Harry. You wonderful boy. You brave, brave man. Let us walk.
+HARRY	563	Sir, this, is this... I mean, forgive me, but you are dead, aren’t you, sir?
+DUMBLEDORE	564	Oh, yes.
+HARRY	565	Then... I’m dead too?
+DUMBLEDORE	566	Ah. That is the question, isn’t it? On the whole I think not.
+HARRY	567	Not?
+DUMBLEDORE	568	Not.
+HARRY	569	But I didn’t defend myself. I let
+DUMBLEDORE	570	And that will, I think, have made all the difference. I suspect you now realize that you and Voldemort have been connected by something other than fate since that night in Godric’s Hollow all those years ago, Harry.
+HARRY	571	It’s true, isn’t it, sir? A bit
+DUMBLEDORE	572	Did. It was just destroyed only moments ago by none other than
+DUMBLEDORE	573	You were the seventh Horcrux,
+HARRY	574	And you knew this? That’s why you were certain I wouldn’t die?
+DUMBLEDORE	575	Certain? No. Little is certain in this world, Harry. Call it an educated guess. Dumbledore smiles. Harry ponders this, then, deep in the mist, the THUMPING returns.
+HARRY	576	Professor, is that -- ?
+DUMBLEDORE	577	Something beyond either of our help.
+HARRY	578	Exactly where are we, sir?
+DUMBLEDORE	579	I was going to ask you that. Where would you say that we are?
+HARRY	580	It looks like King’s Cross station -- only a lot cleaner. And without the trains.
+DUMBLEDORE	581	King’s Cross! Is that right?
+HARRY	582	Sir, why didn’t you just tell me about the Deathly Hallows?
+DUMBLEDORE	583	You will have to forgive me, Harry. You see... I didn’t trust you.
+DUMBLEDORE	584	I feared that you would make the same mistake I made, that you would be intoxicated by the power
+HARRY	585	Sir --
+DUMBLEDORE	586	You are the worthy possessor of
+HARRY	587	You wanted to see Ariana again, didn’t you, sir?
+DUMBLEDORE	588	Yes.
+HARRY	589	I used the Stone as well, sir, only a little while ago when I entered the Forest. I saw my mum and dad, and Sirius and Lupin...
+DUMBLEDORE	590	True. But ask yourself this: were you calling them? Or were they calling you?
+HARRY	591	I’ve got to go back, haven’t I?
+DUMBLEDORE	592	That is up to you.
+HARRY	593	I’ve got a choice?
+DUMBLEDORE	594	Oh yes. We are in King’s Cross, you say? I think, should you so decide, you would be able to, let’s say, board a train.
+HARRY	595	And where would it take me?
+DUMBLEDORE	596	On.
+HARRY	597	Voldemort’s got the Elder Wand.
+DUMBLEDORE	598	True.
+HARRY	599	And the snake lives.
+DUMBLEDORE	600	Yes.
+HARRY	601	And I’ve nothing to kill it with.
+DUMBLEDORE	602	‘Help will always be given at Hogwarts to those who ask for it.’
+DUMBLEDORE	603	I have always prized my ability to turn a phrase -- words are, in my not so humble opinion, our most inexhaustible source of magic, capable both of inflicting injury and remedying it. But I would -- in this case -- amend my original statement to this:
+HARRY	604	With all due respect, sir, I think what we need here is a miracle.
+DUMBLEDORE	605	I’ve never put much stock in miracles, Harry. On the other hand, I can attest wholly to the extensive advantages of a related phenomenon.
+HARRY	606	Which would be, sir?
+DUMBLEDORE	607	Luck.
+DUMBLEDORE	608	Do not pity the dead, Harry. Pity
+HARRY	609	Sir, my mother’s Patronus. It was a doe, wasn’t it? Just like Professor Snape’s. Curious, don’t you think?
+DUMBLEDORE	610	Actually, if I think about it... it doesn’t seem curious at all.
+HARRY	611	Professor. As Dumbledore stops, Harry gestures vaguely.
+HARRY	612	Is this real? Or has this been happening inside my head?
+DUMBLEDORE	613	Of course it is happening inside your head, Harry. But why should that mean that it is not real?
+BELLATRIX	614	My lord, let me help you --
+VOLDEMORT	615	I do not require assistance. Across the clearing, Voldemort rises shakily, Bellatrix
+SORTING HAT	616	Don’t despair, Longbottom. I put you in Gryffindor for good reason...
+GINNY	617	... Hagrid’s carrying?
+GINNY	618	Neville, who is that?
+ARTHUR WEASLEY	619	What’s going on here, Neville?
+VOLDEMORT	620	Behold, Nagini. Our work is done.
+GINNY	621	No... NO!
+VOLDEMORT	622	SILENCE!
+VOLDEMORT	623	Stupid girl. You cry for that? Voldemort gestures to the body lying still in Hagrid’s arms.
+VOLDEMORT	624	While your hands ran dark with the blood of mothers and sons, fathers and daughters, brothers and sisters, his were clasped in prayer -- but it was a prayer for one and one only. While you battled courageously, until you could no longer will yourself to
+RON	625	Liar!
+VOLDEMORT	626	Did you not hear me! Harry Potter is dead! From this day forward, you put your faith in me or suffer
+VOLDEMORT	627	Now is the time to declare yourself. There is a nervous MURMUR among the crowd.
+LUCIUS MALFOY	628	Draco...
+LUCIUS MALFOY	629	Draco, don’t be stupid --
+NARCISSA	630	Come, Draco.
+VOLDEMORT	631	Well done, Draco. Who will be next? Hm? Come now, don’t be shy. We TRAVEL OVER FACES, weary but resolved, eyes burning with defiance, then LAND ON Neville, chin on chest, gaze
+VOLDEMORT	632	Well, I must say, I’d hoped for better. Is this truly the best Hogwarts has to offer?
+VOLDEMORT	633	Who might you be, young man?
+NEVILLE	634	Neville Longbottom.
+VOLDEMORT	635	Well, welcome, Neville. I’m sure we can find a place for you in our ranks.
+BELLATRIX	636	Someone has to do the washing.
+VOLDEMORT	637	Now, now, Bellatrix. Let’s not underestimate our young friend.
+NEVILLE	638	I’d like to say something.
+VOLDEMORT	639	Very well, Neville. I’m sure we’d all be fascinated to hear what you have to say.
+NEVILLE	640	It doesn’t matter that Harry is gone. A troubled MURMUR ripples through the crowd.
+NEVILLE	641	People die every day. Friends. Family. Yes, we lost Harry tonight. But he’s still with us, here --
+DRACO	642	Potter!
+RON	643	Well done, Malfoy!
+HARRY	644	Confringo! FLAMES run the length of Nagini -- with no effect -- then
+NEVILLE	645	Harry! Look out!
+VOLDEMORT	646	Nagini! With me!
+VOLDEMORT	647	I said LEAVE HER!
+VOLDEMORT	648	Nagini!
+VOLDEMORT	649	Die! Die!
+VOLDEMORT	650	Why do you live! As Voldemort’s face looms close, eyeing Harry like a curious specimen, Harry looks up.
+HARRY	651	Because I have something worth living for. Angrily, Voldemort poises the Elder Wand over HARRY’S SCAR. The flesh there begins to color with blood, the lightning bolt turning white as ice. And then...
+HARRY	652	Confringo!
+BLURRY POV	653	SHADOWS streak across our PLANE OF VIEW, like warriors in an ancient shadow play. SOUND SURFACES SLOWLY, ODDLY, as if our EAR DRUMS were numb and swollen and gradually returning to normal. We return to the EYES, unblinking, slowly drifting in
+MRS. WEASLEY	654	NOT MY DAUGHTER, YOU BITCH!
+BELLATRIX	655	Come on, granny, give us your best.
+BELLATRIX	656	Be thankful we only took one. Besides...
+RON	657	Hermione!
+HERMIONE	658	Yes!
+RON	659	I need to tell you something!
+HERMIONE	660	I don’t want you to say anything you wouldn’t say if we weren’t about to be killed by a giant snake! It’ll just ruin it!
+HARRY	661	You were right. Voldemort’s eyes glitter curiously. Harry’s eyes drift to the wand in Voldemort’s hand.
+HARRY	662	When you told Professor Snape it was failing you. It will always fail you.
+VOLDEMORT	663	It belongs to me! I killed Snape!
+HARRY	664	Come on, Tom. Let’s end this the way we started it... Harry grabs Voldemort’s cloak in both hands.
+HARRY	665	Together.
+TRELAWNEY	666	There’s more to me than incense and tea leaves, Mr. Finnegan.
+HARRY	667	I told you: it’s useless to you. Just then, Ron and Hermione burst INTO VIEW, followed by Nagini. Nagini rises, ready to strike. Harry turns,
+RON	668	Not exactly leaving the place better than we found it, are we?
+HERMIONE	669	Can’t make an omelette without breaking a few eggs.
+HERMIONE	670	Something my mum used to say.
+HARRY	671	Because it answers to another.
+HARRY	672	It was Draco who disarmed
+RON	673	But that means...
+HARRY	674	It answers to me.
+RON	675	What do you reckon we should do with it?
+HERMIONE	676	We?
+RON	677	I’m just saying. That’s the Elder Wand! It’s the most powerful bloody wand in the world! With that, we could, we could --
+HARRY	678	Well, it wasn’t boring, was it?
+OLDER HARRY	679	Together?
+OLDER HERMIONE	680	Don’t forget to give Professor Longbottom our best.
+ALBUS	681	Will there really be thestrals pulling the carriages?
+OLDER HARRY	682	There’s nothing scary about
+ALBUS	683	Dad?
+OLDER HARRY	684	Yes?
+ALBUS	685	What if I’m put in Slytherin?
+ALBUS	686	But just say I am --
+OLDER HARRY	687	Then Slytherin House will have gained a wonderful wizard. But listen, if it means so much to you, you can choose Gryffindor.
+ALBUS	688	Really?
+OLDER HARRY	689	Really.
+OLDER HARRY	690	Ready?
+ALBUS	691	Ready.

@@ -2,9 +2,9 @@ from pathlib import Path
 import re
 
 # configurations
-MOVIE_FILE = Path("data/processed/Harry Potter and the Prisoner of Azkaban - Screenplay.txt")
-OUTPUT_ALL = Path("data/processed/prisoner_azkaban_all_speeches.tsv")
-OUTPUT_FOUR = Path("data/processed/prisoner_azkaban_four_chars.tsv")
+MOVIE_FILE = Path("data/processed/harry-potter-and-the-sorcerers-stone-2001.txt")
+OUTPUT_ALL = Path("data/processed/sorcerers_stone_speeches.tsv")
+OUTPUT_FOUR = Path("data/processed/sorcerers_stone_four_chars.tsv")
 CHARACTERS_OF_INTEREST = {"RON", "HERMIONE", "VOLDEMORT", "SNAPE", "VOLDEMONT"}
 FIRST_SECOND_PRONOUNS = {"i", "im", "ive", "id", "we", "were", "you", "youre", "youll", "youve", "us", "my", "our"}
 THIRD_PRONOUNS = {"he", "she", "they", "him", "her", "them", "his", "hers", "their", "theirs"}

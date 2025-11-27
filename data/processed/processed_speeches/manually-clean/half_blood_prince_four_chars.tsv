@@ -1,47 +1,45 @@
 character	speech_id	text
 SNAPE	9	"Run along, Wormtail."
 SNAPE	13	"If the Dark Lord has forbidden it, you ought not to speak."
-SNAPE	14	"As it so happens I’m aware of your situation, Narcissa."
+SNAPE	14	"As it so happens Iâ€™m aware of your situation, Narcissa."
 SNAPE	16	"Your sister doubts me, Narcissa. Understandable."
-SNAPE	19	I can’t change the Dark Lord’s mind. But it might be possible for me to help Draco. To provide some... protection.
+SNAPE	19	I canâ€™t change the Dark Lordâ€™s mind. But it might be possible for me to help Draco. To provide some... protection.
 SNAPE	21	I can try.
 SNAPE	25	Take out your wand.
 SNAPE	27	I will.
 SNAPE	29	I will.
 SNAPE	31	I will.
 RON	85	Harry? Did someone say Harry?
-RON	86	"‘Course not. Think I’d know if my best friend was in my room, wouldn’t I?"
+RON	86	"â€˜Course not. Think Iâ€™d know if my best friend was in my room, wouldnâ€™t I?"
 HERMIONE	87	Was that an owl I heard?
 HERMIONE	88	Really?
-RON	92	You’ve a bit of...
-RON	94	Mum sort of lost it last week. Said Ginny and I had no business going back to Hogwarts. That it’s too dangerous.
-HERMIONE	96	She’s not alone. Even my parents
-HERMIONE	98	There’s been a lot of chatter
+RON	92	Youâ€™ve a bit of...
+RON	94	Mum sort of lost it last week. Said Ginny and I had no business going back to Hogwarts. That itâ€™s too dangerous.
+HERMIONE	96	Sheâ€™s not alone. Even my parents
+HERMIONE	98	Thereâ€™s been a lot of chatter
 HERMIONE	112	These are adorable. 
 RON	113	How much for this?
 RON	114	How much for me?
-FRED/GEORGE	114	Five Galleons.
-RON	115	But I’m your brother!
-FRED/GEORGE	115	Ten Galleons.
-RON	116	C’mon. Let’s go.
+RON	115	But Iâ€™m your brother!
+RON	116	Câ€™mon. Letâ€™s go.
 RON	118	Hi.
-HERMIONE	119	How is it Fred and George are doing it? Half the alley’s closed down.
+HERMIONE	119	How is it Fred and George are doing it? Half the alleyâ€™s closed down.
 HERMIONE	120	Oh no. Look.
-RON	122	Is it just me? Or do Draco and mummy look like two people who don’t want to be followed?
+RON	122	Is it just me? Or do Draco and mummy look like two people who donâ€™t want to be followed?
 HERMIONE	125	Bloody hell.
 RON	126	Sorry. 
-HERMIONE	128	I don’t know.
-HERMIONE	133	"Stop, Harry, I know where you’re going with this --"
+HERMIONE	128	I donâ€™t know.
+HERMIONE	133	"Stop, Harry, I know where youâ€™re going with this --"
 RON	134	One of what?
-RON	135	You’re barking. What would You- Know-Who want with a sod like Malfoy?
-HERMIONE	136	I told you. I don’t know what I saw.
-HERMIONE	144	Where’s Harry?
-RON	145	Probably on the platform. C’mon.
-SNAPE	164	"It’s alright, Mr. Filch. I can vouch for Mr. Malfoy. "
-RON	174	Don’ you worry. He’ll be ‘long soon ‘nuff --
+RON	135	Youâ€™re barking. What would You- Know-Who want with a sod like Malfoy?
+HERMIONE	136	I told you. I donâ€™t know what I saw.
+HERMIONE	144	Whereâ€™s Harry?
+RON	145	Probably on the platform. Câ€™mon.
+SNAPE	164	"Itâ€™s alright, Mr. Filch. I can vouch for Mr. Malfoy. "
+RON	174	Donâ€™ you worry. Heâ€™ll be â€˜long soon â€˜nuff --
 RON	175	"Oi! Turn around, you lunatic."
-RON	186	But I don’t want to take Potions!
-RON	187	"Ron Weasley, sir. But I’m dead awful at Potions, a menace actually, so I probably should just be going --"
+RON	186	But I donâ€™t want to take Potions!
+RON	187	"Ron Weasley, sir. But Iâ€™m dead awful at Potions, a menace actually, so I probably should just be going --"
 HERMIONE	192	"Granger, sir. That one there is Veritaserum. And that would be Polyjuice Potion. And that... "
 HERMIONE	193	... is Amortentia! The most powerful love potion in the world.
 HERMIONE	199	Liquid luck.
@@ -49,132 +47,133 @@ HERMIONE	207	How did you do that?
 HERMIONE	209	No. The instructions specifically say to cut.
 HERMIONE	211	Sh!
 RON	272	Hard feelings?
-RON	274	"Really? Strapping guy like you, you’ve got a Beater’s build, don’t you think? Keeper needs to be agile, quick --"
-RON	279	"Have to admit, thought I was going to miss that last one. Hope Cormac’s not taking it too hard."
+RON	274	"Really? Strapping guy like you, youâ€™ve got a Beaterâ€™s build, donâ€™t you think? Keeper needs to be agile, quick --"
+RON	279	"Have to admit, thought I was going to miss that last one. Hope Cormacâ€™s not taking it too hard."
 RON	280	"Has a bit of a thing for you, Hermione. Cormac."
 HERMIONE	282	No I have not. And if you had a shred of self-respect you would turn that book in.
 RON	283	What?
-HERMIONE	284	"I’d like to know just whose book that was. Let’s take a look, shall we?"
+HERMIONE	284	"Iâ€™d like to know just whose book that was. Letâ€™s take a look, shall we?"
 HERMIONE	288	"For weeks you carry around this book, practically sleep with it... and you have no desire to find out who The Half-Blood Prince is?"
 HERMIONE	290	"Well, I was curious. So I went to --"
-HERMIONE	292	And... nothing. There’s no reference to the Half-Blood Prince anywhere.
-HERMIONE	295	"What’ve you got there, Hagrid?"
-HERMIONE	297	"Stinksap? You’re not sick, are you?"
+HERMIONE	292	And... nothing. Thereâ€™s no reference to the Half-Blood Prince anywhere.
+HERMIONE	295	"Whatâ€™ve you got there, Hagrid?"
+HERMIONE	297	"Stinksap? Youâ€™re not sick, are you?"
 RON	299	Spider? About six feet tall? Ten feet wide?
 RON	305	O-kay.
 HERMIONE	307	"Three Butterbeers. Splash of ginger in mine, please."
 RON	308	"Aw, bloody hell..."
-RON	309	I’d like to leave.
-HERMIONE	310	Leave? You can’t be serious.
+RON	309	Iâ€™d like to leave.
+HERMIONE	310	Leave? You canâ€™t be serious.
 RON	311	That happens to be my sister.
 HERMIONE	320	"Be delighted, sir."
-RON	322	What’re you playing at?
-RON	324	Um... You’ve got a little...
+RON	322	Whatâ€™re you playing at?
+RON	324	Um... Youâ€™ve got a little...
 RON	325	Bit worried about her. Did you
-HERMIONE	326	What’s up? 
-HERMIONE	328	I’ll get someone --
-RON	334	"Believe me, Professor, I’ve been asking myself the same question for six years."
+HERMIONE	326	Whatâ€™s up? 
+HERMIONE	328	Iâ€™ll get someone --
+RON	334	"Believe me, Professor, Iâ€™ve been asking myself the same question for six years."
 SNAPE	335	Is this it?
 SNAPE	336	I think Miss Bell is lucky to be alive.
 SNAPE	339	Indeed. Your evidence?
 SNAPE	341	"You... just... know. Once again you astonish with your gifts, Potter, gifts mere mortals could only dream of possessing. How grand it must be to be the Chosen One."
 RON	342	What do you suppose Dean sees in
 RON	345	Attractive?
-RON	347	Skin? You’re saying Dean’s dating my sister because of her skin?
-RON	349	"Hermione’s got nice skin. Wouldn’t you say? As skin goes, I mean."
+RON	347	Skin? Youâ€™re saying Deanâ€™s dating my sister because of her skin?
+RON	349	"Hermioneâ€™s got nice skin. Wouldnâ€™t you say? As skin goes, I mean."
 RON	352	Right.
-HERMIONE	360	My parents are dentists. They tend to people’s teeth.
+HERMIONE	360	My parents are dentists. They tend to peopleâ€™s teeth.
 HERMIONE	362	"No. Though, a boy named Robbie Fenwick did bite my father once. Needed ten stitches. "
 HERMIONE	367	Nothing.
 RON	384	So. How was it?
 HERMIONE	385	How was what?
 HERMIONE	386	Dead boring. Though I think Harry enjoyed dessert.
-HERMIONE	387	"Ol’ Sluggy’s having a Christmas do, you know. And we’re meant to bring someone..."
-RON	388	I expect you’ll be going with
+HERMIONE	387	"Olâ€™ Sluggyâ€™s having a Christmas do, you know. And weâ€™re meant to bring someone..."
+RON	388	I expect youâ€™ll be going with
 HERMIONE	389	"Actually, I was going to ask you."
 RON	390	Really?
 HERMIONE	391	Really. But seeing as you have such a distaste for the idea --
-RON	392	I’m resigning. After today’s match. McLaggen can have my spot.
+RON	392	Iâ€™m resigning. After todayâ€™s match. McLaggen can have my spot.
 RON	394	"Sure... As Harry pours, Luna arrives at the table wearing a HAT that bears an uncanny resemblance to a real lion."
-HERMIONE	397	"Don’t drink that, Ron! But Ron’s frozen in mid-sip, looking at Harry’s palm too."
+HERMIONE	397	"Donâ€™t drink that, Ron! But Ronâ€™s frozen in mid-sip, looking at Harryâ€™s palm too."
 HERMIONE	398	You could be expelled for that.
-RON	400	"C’mon, Harry. We’ve got a game to win. "
-HERMIONE	403	"You shouldn’t have done it, Harry."
-HERMIONE	405	You didn’t put it in?
+RON	400	"Câ€™mon, Harry. Weâ€™ve got a game to win. "
+HERMIONE	403	"You shouldnâ€™t have done it, Harry."
+HERMIONE	405	You didnâ€™t put it in?
 HERMIONE	406	Charms spell. Just practicing.
-RON	408	What’s with the birds?
+RON	408	Whatâ€™s with the birds?
 HERMIONE	409	Oppugno! 
-RON	411	"Look, I can’t help it if she’s got"
+RON	411	"Look, I canâ€™t help it if sheâ€™s got"
 HERMIONE	413	Yes. Why?
-HERMIONE	426	"Hm? Oh, I’ve just escaped -- I mean, left Cormac. Under the mistletoe."
+HERMIONE	426	"Hm? Oh, Iâ€™ve just escaped -- I mean, left Cormac. Under the mistletoe."
 HERMIONE	428	I thought it would annoy Ron most.
 HERMIONE	429	No thank you.
-SNAPE	433	What’s going on back here?
-SNAPE	434	"You’ve just bought yourself a month’s detention, McLaggen. "
+SNAPE	433	Whatâ€™s going on back here?
+SNAPE	434	"Youâ€™ve just bought yourself a monthâ€™s detention, McLaggen. "
 SNAPE	435	"Not so quick, Potter."
 SNAPE	437	... can surely survive your absence for another minute or two.
-SNAPE	441	I’ll escort him out.
+SNAPE	441	Iâ€™ll escort him out.
 SNAPE	443	I swore to protect you. I made
-SNAPE	445	"You’re afraid, Draco. You attempt to conceal it, but it’s obvious. Let me assist you --"
-RON	447	Unbreakable Vow. You’re sure that’s what Snape said.
-RON	449	"It’s just, well, you can’t break an Unbreakable Vow."
-RON	451	"No, you don’t understand -- Oh, bloody hell..."
+SNAPE	445	"Youâ€™re afraid, Draco. You attempt to conceal it, but itâ€™s obvious. Let me assist you --"
+RON	447	Unbreakable Vow. Youâ€™re sure thatâ€™s what Snape said.
+RON	449	"Itâ€™s just, well, you canâ€™t break an Unbreakable Vow."
+RON	451	"No, you donâ€™t understand -- Oh, bloody hell..."
 RON	455	You die.
 HERMIONE	497	"You have to realize who you are, Harry."
 HERMIONE	498	So tell me what Arthur said.
 HERMIONE	500	What would Draco want with a Vanishing Cabinet?
-HERMIONE	502	"He looks different, don’t you think? Draco. Almost... ill."
+HERMIONE	502	"He looks different, donâ€™t you think? Draco. Almost... ill."
 HERMIONE	505	"Excuse me, I have to go vomit."
-HERMIONE	539	Did you actually expect you could just walk up to Ol’ Sluggy and ask
-HERMIONE	543	That’s... not possible. No one can leave the castle these days.
-RON	544	"It’s beautiful, isn’t it? The moon."
-RON	546	It was on your bed. The box. Thought I’d try one...
-RON	548	"I can’t stop thinking about her, Harry."
+HERMIONE	539	Did you actually expect you could just walk up to Olâ€™ Sluggy and ask
+HERMIONE	543	Thatâ€™s... not possible. No one can leave the castle these days.
+RON	544	"Itâ€™s beautiful, isnâ€™t it? The moon."
+RON	546	It was on your bed. The box. Thought Iâ€™d try one...
+RON	548	"I canâ€™t stop thinking about her, Harry."
 RON	550	She could never annoy me. I think... I think I love her.
 RON	553	Do you think she knows I exist?
-RON	554	Snogging? Who’re you talking about?
+RON	554	Snogging? Whoâ€™re you talking about?
 RON	556	"Romilda, of course. Romilda Vane."
-RON	559	It’s no joke! I’m in love with
+RON	559	Itâ€™s no joke! Iâ€™m in love with
 RON	561	No. Can you introduce me?
 RON	562	How do I look?
-RON	566	Where’s Romilda?
+RON	566	Whereâ€™s Romilda?
 RON	570	"Hello, darling. Fancy a drink?"
-RON	579	What’s this?
+RON	579	Whatâ€™s this?
 RON	580	What happened to me?
 RON	583	I feel really... bad.
 RON	589	"These girls are gonna kill me, Harry."
 HERMIONE	598	I might ask you the same.
 HERMIONE	600	I happen to be his... friend.
-HERMIONE	602	"He’s been poisoned, you daft dimbo! And for the record, I’ve"
+HERMIONE	602	"Heâ€™s been poisoned, you daft dimbo! And for the record, Iâ€™ve"
 RON	604	"Er... My... Nee... Er! My! Nee! Ron, in a haze, reaches out blindly. Blushing, Hermione"
 HERMIONE	608	Oh shut up.
-HERMIONE	609	Ron. Stop. You’re making it snow.
+HERMIONE	609	Ron. Stop. Youâ€™re making it snow.
 RON	610	Huh? 
 RON	611	Tell me again how I broke up with Lavender?
 HERMIONE	612	"Um, well, she came to visit you in"
-RON	613	Don’t get me wrong. I’m bloody
-HERMIONE	614	"Does, doesn’t she? And you say you don’t remember a thing from that night? Not one thing?"
+RON	613	Donâ€™t get me wrong. Iâ€™m bloody
+HERMIONE	614	"Does, doesnâ€™t she? And you say you donâ€™t remember a thing from that night? Not one thing?"
 RON	615	Well... there is... something.
-HERMIONE	616	Right. Boggled�
-HERMIONE	617	That’s Katie. That’s Katie Bell.
+HERMIONE	616	Right. Boggled…
+HERMIONE	617	Thatâ€™s Katie. Thatâ€™s Katie Bell.
 RON	633	You know. Hide the book.
 RON	635	"Still no luck with Slughorn, I take it?"
 HERMIONE	637	Well? How do you feel?
 HERMIONE	639	"Now remember. Slughorn usually eats early, takes a short walk and"
-HERMIONE	641	"What? No, Harry -- you’ve got to go see Slughorn. We have a plan --"
-HERMIONE	732	Harry. It’s time.
+HERMIONE	641	"What? No, Harry -- youâ€™ve got to go see Slughorn. We have a plan --"
+HERMIONE	732	Harry. Itâ€™s time.
 HERMIONE	734	If one wants it to be. Why?
 HERMIONE	736	"Of course, and that explains the Vanishing Cabinet as well!"
-RON	737	No. I got an owl from Dad this * morning. The one at Borgin & Burke’s? It’s still there.
+RON	737	No. I got an owl from Dad this * morning. The one at Borgin & Burkeâ€™s? Itâ€™s still there.
 HERMIONE	740	What if there are?
 RON	742	"Good luck, mate."
-SNAPE	744	Have you ever considered that you ask too much? That you take too much for granted? Has it ever crossed your brilliant mind that I don’t want to do this anymore?
+SNAPE	744	Have you ever considered that you ask too much? That you take too much for granted? Has it ever crossed your brilliant mind that I donâ€™t want to do this anymore?
 SNAPE	836	I gave my word. I made a vow... 
 SNAPE	837	Avada Kedavra!
 SNAPE	838	You can no longer stay here. 
 SNAPE	841	Go on!
 SNAPE	842	Go on!
-SNAPE	847	Don’t ever associate that word and my name again.
+SNAPE	847	Donâ€™t ever associate that word and my name again.
 SNAPE	849	"You dare use my own spells against me, Potter?"
-SNAPE	850	"You may have gotten your mother’s eyes, but you’re as dim as your father. Yes. It’s me. I’m the Half-Blood Prince."
-HERMIONE	861	"You don’t honestly think you can * find all those Horcruxes by * yourself, do you? *"
+SNAPE	850	"You may have gotten your motherâ€™s eyes, but youâ€™re as dim as your father. Yes. Itâ€™s me. Iâ€™m the Half-Blood Prince."
+HERMIONE	861	"You donâ€™t honestly think you can * find all those Horcruxes by * yourself, do you? *"
+

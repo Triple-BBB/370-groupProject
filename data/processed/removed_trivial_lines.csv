@@ -1,0 +1,285 @@
+movie,character,speech_id,text
+goblet_of_fire,HERMIONE,10,Harry!
+goblet_of_fire,RON,16,Bloody hell.
+goblet_of_fire,HERMIONE,39,What??
+goblet_of_fire,HERMIONE,124,Three sir.
+goblet_of_fire,RON,126,Yes...
+goblet_of_fire,HERMIONE,131,Neville?
+goblet_of_fire,RON,175,Piss off.
+goblet_of_fire,HERMIONE,222,Uhhh...
+goblet_of_fire,RON,254,Anything else?
+goblet_of_fire,RON,256,Fine.
+goblet_of_fire,HERMIONE,306,Boys.
+goblet_of_fire,RON,320,Where?
+goblet_of_fire,RON,340,Bloody hell.
+goblet_of_fire,HERMIONE,354,What?
+goblet_of_fire,RON,363,Bloody hell.
+goblet_of_fire,RON,391,No.
+goblet_of_fire,RON,398,Go on.
+goblet_of_fire,RON,466,Merci.
+goblet_of_fire,HERMIONE,467,Harry!
+goblet_of_fire,VOLDEMORT,581,No!
+goblet_of_fire,HERMIONE,615,Bye.
+goblet_of_fire,HERMIONE,618,No.
+half_blood_prince,SNAPE,27,I will.
+half_blood_prince,SNAPE,29,I will.
+half_blood_prince,SNAPE,31,I will.
+half_blood_prince,HERMIONE,88,Really?
+half_blood_prince,RON,118,Hi.
+half_blood_prince,HERMIONE,125,Bloody hell.
+half_blood_prince,RON,126,Sorry.
+half_blood_prince,HERMIONE,144,Whereâ€™s Harry?
+half_blood_prince,HERMIONE,199,Liquid luck.
+half_blood_prince,HERMIONE,211,Sh!
+half_blood_prince,RON,272,Hard feelings?
+half_blood_prince,RON,283,What?
+half_blood_prince,RON,305,O-kay.
+half_blood_prince,HERMIONE,326,Whatâ€™s up?
+half_blood_prince,RON,345,Attractive?
+half_blood_prince,RON,352,Right.
+half_blood_prince,HERMIONE,367,Nothing.
+half_blood_prince,RON,390,Really?
+half_blood_prince,HERMIONE,409,Oppugno!
+half_blood_prince,HERMIONE,413,Yes. Why?
+half_blood_prince,RON,455,You die.
+half_blood_prince,RON,566,Whereâ€™s Romilda?
+half_blood_prince,RON,579,Whatâ€™s this?
+half_blood_prince,RON,610,Huh?
+half_blood_prince,HERMIONE,616,Right. Boggled…
+half_blood_prince,SNAPE,837,Avada Kedavra!
+half_blood_prince,SNAPE,841,Go on!
+half_blood_prince,SNAPE,842,Go on!
+prisoner_azkaban,RON,101,Brilliant!
+prisoner_azkaban,RON,190,Who?
+prisoner_azkaban,RON,215,Riddikulus!
+prisoner_azkaban,RON,243,Never mind.
+prisoner_azkaban,RON,264,Werewolves?
+prisoner_azkaban,SNAPE,266,Quiet!
+prisoner_azkaban,HERMIONE,275,No!!!
+prisoner_azkaban,RON,319,Twice.
+prisoner_azkaban,HERMIONE,323,Perfect.
+prisoner_azkaban,HERMIONE,330,Harry...? Harry?
+prisoner_azkaban,RON,379,Aaaahhhh!
+prisoner_azkaban,SNAPE,408,Really...
+prisoner_azkaban,SNAPE,409,Read it.
+prisoner_azkaban,SNAPE,411,Go on.
+prisoner_azkaban,RON,465,Harry! Run!
+prisoner_azkaban,RON,466,Aaaahhh!
+prisoner_azkaban,RON,468,Harry!
+prisoner_azkaban,HERMIONE,472,Haaaaaaarrrrrr!!!!!!!!!
+prisoner_azkaban,HERMIONE,473,Ahhhhhhhhhhhhhhhh!
+prisoner_azkaban,HERMIONE,475,Thanks.
+prisoner_azkaban,HERMIONE,486,Harry! No!
+prisoner_azkaban,RON,510,You're mad...
+prisoner_azkaban,SNAPE,511,Expelliarmus!
+prisoner_azkaban,SNAPE,520,After you.
+prisoner_azkaban,RON,528,So what?
+prisoner_azkaban,HERMIONE,556,Harry...
+prisoner_azkaban,HERMIONE,561,Professor...?
+prisoner_azkaban,HERMIONE,564,Harry!
+prisoner_azkaban,HERMIONE,572,What...?
+prisoner_azkaban,HERMIONE,602,We'll see.
+prisoner_azkaban,HERMIONE,603,What?
+prisoner_azkaban,HERMIONE,614,Sorry.
+prisoner_azkaban,HERMIONE,618,"Now, Harry!"
+prisoner_azkaban,HERMIONE,632,No idea.
+prisoner_azkaban,HERMIONE,639,Yes?
+prisoner_azkaban,HERMIONE,648,Really?
+prisoner_azkaban,HERMIONE,655,Why?
+prisoner_azkaban,HERMIONE,664,"HARRY, NO!"
+prisoner_azkaban,HERMIONE,667,No.
+prisoner_azkaban,HERMIONE,673,BOMBARDA!
+prisoner_azkaban,RON,711,Quiet!
+phoenix,HERMIONE,51,HARRY--!
+phoenix,RON,55,It's Headquarters...
+phoenix,RON,148,What's what?
+phoenix,SNAPE,219,Yes.
+phoenix,SNAPE,221,Obviously.
+phoenix,RON,265,Harry.
+phoenix,RON,300,Lovely spot.
+phoenix,HERMIONE,410,Giants!
+phoenix,RON,414,Death Eaters?
+phoenix,HERMIONE,447,What?
+phoenix,HERMIONE,460,Small?
+phoenix,RON,462,Blimey.
+phoenix,SNAPE,477,Feeling sentimental...?
+phoenix,SNAPE,481,Weak.
+phoenix,SNAPE,491,LEGILIMENS!
+phoenix,SNAPE,502,ENOUGH--!!!
+phoenix,SNAPE,505,Get. Out.
+phoenix,SNAPE,532,No idea.
+phoenix,HERMIONE,544,Improvising.
+phoenix,HERMIONE,575,But V-Voldemort...
+phoenix,RON,600,STUPEFY--!!
+phoenix,HERMIONE,606,HURRY!
+phoenix,HERMIONE,628,Go.
+phoenix,RON,684,What's that?
+sorcerer_s_stone,RON,194,I...heard. 31.
+sorcerer_s_stone,RON,195,Wicked.
+sorcerer_s_stone,RON,218,Um...Ron Weasley.
+sorcerer_s_stone,RON,345,Chapter Seven?
+sorcerer_s_stone,RON,367,WINGARDIUM LEVIOSA!
+sorcerer_s_stone,HERMIONE,370,Wingardium Leviosa.
+sorcerer_s_stone,RON,389,Yes!
+sorcerer_s_stone,RON,394,Confuse it?
+sorcerer_s_stone,RON,395,Wingardium Leviosa.
+sorcerer_s_stone,HERMIONE,397,Is it--dead?
+sorcerer_s_stone,HERMIONE,413,That was...disturbing.
+sorcerer_s_stone,HERMIONE,416,Blood?
+sorcerer_s_stone,RON,458,Fluffy?
+sorcerer_s_stone,RON,484,Ahhh!
+sorcerer_s_stone,HERMIONE,530,Follow me.
+sorcerer_s_stone,RON,536,Immortal.
+sorcerer_s_stone,RON,567,It's bad.
+sorcerer_s_stone,RON,569,Norwegian Ridgeback.
+sorcerer_s_stone,HERMIONE,605,Harry!
+sorcerer_s_stone,HERMIONE,619,Harry?
+sorcerer_s_stone,HERMIONE,656,We're coming.
+sorcerer_s_stone,RON,661,That was...cool.
+sorcerer_s_stone,HERMIONE,682,103. Locked.
+sorcerer_s_stone,RON,683,Alohomora!
+sorcerer_s_stone,HERMIONE,687,Harry?
+sorcerer_s_stone,RON,702,We play.
+sorcerer_s_stone,RON,704,You there...d5
+sorcerer_s_stone,RON,706,Think...Think.
+sorcerer_s_stone,HERMIONE,761,Never better.
+deathly_hallows_part2,HERMIONE,4,Not long.
+deathly_hallows_part2,RON,53,Sss.
+deathly_hallows_part2,RON,61,Like hell!
+deathly_hallows_part2,RON,62,Expelliarmus!
+deathly_hallows_part2,HERMIONE,134,Positive.
+deathly_hallows_part2,RON,162,Go on.
+deathly_hallows_part2,RON,165,Hideous.
+deathly_hallows_part2,RON,170,Hey. Easy.
+deathly_hallows_part2,RON,199,Imperio!
+deathly_hallows_part2,RON,210,Blimey...
+deathly_hallows_part2,HERMIONE,214,It’s hot!
+deathly_hallows_part2,RON,220,Keep going!
+deathly_hallows_part2,HERMIONE,222,In here!
+deathly_hallows_part2,RON,228,That’s unfortunate.
+deathly_hallows_part2,HERMIONE,232,Relashio!
+deathly_hallows_part2,RON,237,Bloody hell.
+deathly_hallows_part2,HERMIONE,240,When?
+deathly_hallows_part2,VOLDEMORT,347,Begin.
+deathly_hallows_part2,HERMIONE,372,I’m scared.
+deathly_hallows_part2,RON,373,Me too.
+deathly_hallows_part2,HERMIONE,376,Not this.
+deathly_hallows_part2,RON,415,What?
+deathly_hallows_part2,RON,416,Brilliant.
+deathly_hallows_part2,RON,418,Let’s go.
+deathly_hallows_part2,HERMIONE,419,Brilliant.
+deathly_hallows_part2,RON,447,Brilliant.
+deathly_hallows_part2,VOLDEMORT,448,Nagini. Come.
+deathly_hallows_part2,HERMIONE,451,Someplace safe.
+deathly_hallows_part2,HERMIONE,461,NO!
+deathly_hallows_part2,VOLDEMORT,466,Does it?
+deathly_hallows_part2,SNAPE,467,My Lord?
+deathly_hallows_part2,VOLDEMORT,474,Kill.
+deathly_hallows_part2,VOLDEMORT,475,Nagini! Come!
+deathly_hallows_part2,SNAPE,476,Please.
+deathly_hallows_part2,SNAPE,490,Yes.
+deathly_hallows_part2,SNAPE,497,Anything.
+deathly_hallows_part2,SNAPE,499,DON’T!
+deathly_hallows_part2,SNAPE,525,Expecto Patronum!
+deathly_hallows_part2,SNAPE,527,Always...
+deathly_hallows_part2,VOLDEMORT,622,SILENCE!
+deathly_hallows_part2,RON,625,Liar!
+deathly_hallows_part2,VOLDEMORT,648,Nagini!
+deathly_hallows_part2,VOLDEMORT,649,Die! Die!
+deathly_hallows_part2,HERMIONE,658,Yes!
+deathly_hallows_part2,HERMIONE,676,We?
+deathly_hallows_part1,HERMIONE,3,"Coming, Mum."
+deathly_hallows_part1,HERMIONE,9,Obliviate.
+deathly_hallows_part1,HERMIONE,10,Goodbye.
+deathly_hallows_part1,VOLDEMORT,44,Avada Kedavra!
+deathly_hallows_part1,VOLDEMORT,45,Nagini... Dinner.
+deathly_hallows_part1,VOLDEMORT,93,Avada..
+deathly_hallows_part1,HERMIONE,113,Really?
+deathly_hallows_part1,RON,170,Wicked.
+deathly_hallows_part1,HERMIONE,222,This way!
+deathly_hallows_part1,HERMIONE,241,Petrificus Totalus!
+deathly_hallows_part1,HERMIONE,242,Go.
+deathly_hallows_part1,HERMIONE,249,Obliviate.
+deathly_hallows_part1,RON,253,What?
+deathly_hallows_part1,HERMIONE,256,Right. Perspective.
+deathly_hallows_part1,HERMIONE,262,Homenum revelio.
+deathly_hallows_part1,HERMIONE,264,We’re alone.
+deathly_hallows_part1,HERMIONE,271,Lovely.
+deathly_hallows_part1,RON,276,Kreacher...
+deathly_hallows_part1,RON,305,Wicked trainers.
+deathly_hallows_part1,HERMIONE,344,Relashio!
+deathly_hallows_part1,RON,349,Piss off.
+deathly_hallows_part1,HERMIONE,352,Quickly!
+deathly_hallows_part1,HERMIONE,374,Tea?
+deathly_hallows_part1,RON,377,... alive.
+deathly_hallows_part1,HERMIONE,381,Incendio!
+deathly_hallows_part1,HERMIONE,383,Confringo!
+deathly_hallows_part1,RON,384,It’s angry.
+deathly_hallows_part1,HERMIONE,409,Better?
+deathly_hallows_part1,RON,419,I’m hungry.
+deathly_hallows_part1,RON,421,I’m hungry.
+deathly_hallows_part1,RON,423,Leave it.
+deathly_hallows_part1,HERMIONE,427,Good plan.
+deathly_hallows_part1,HERMIONE,470,Stop! Stop!
+deathly_hallows_part1,RON,472,And you?
+deathly_hallows_part1,HERMIONE,473,Me?
+deathly_hallows_part1,HERMIONE,499,Harry.
+deathly_hallows_part1,HERMIONE,504,Lumos.
+deathly_hallows_part1,HERMIONE,509,Harry...
+deathly_hallows_part1,HERMIONE,517,Omigod. Harry...
+deathly_hallows_part1,HERMIONE,526,Why?
+deathly_hallows_part1,HERMIONE,528,Harry...
+deathly_hallows_part1,HERMIONE,535,Yes.
+deathly_hallows_part1,HERMIONE,542,Yes.
+deathly_hallows_part1,RON,566,Right. Antlers.
+deathly_hallows_part1,RON,569,Anything?
+deathly_hallows_part1,RON,591,Hey.
+deathly_hallows_part1,RON,604,With this.
+deathly_hallows_part1,RON,607,A voice.
+deathly_hallows_part1,RON,623,Wo.
+deathly_hallows_part1,HARRY/RON,625,Nothing.
+deathly_hallows_part1,HERMIONE,631,Where?
+deathly_hallows_part1,RON,639,Luna?
+deathly_hallows_part1,RON,686,Nooooooooo!
+deathly_hallows_part1,HERMIONE,700,Stop it!
+deathly_hallows_part1,RON,706,Stan Shunpike.
+deathly_hallows_part1,RON,708,Weasley...
+deathly_hallows_part1,HERMIONE,721,Not long.
+chamber_of_secrets_speeches,DUMBLEDORE,287,Argus!
+the_order_phoenix,DUMBLEDORE,374,Everard.
+the_order_phoenix,DUMBLEDORE,435,Naturally.
+the_order_phoenix,DUMBLEDORE,645,Harry--
+the_order_phoenix,DUMBLEDORE,668,Yes.
+goblet_of_fire_all_speeches,DUMBLEDORE,108,Igor.
+goblet_of_fire_all_speeches,DUMBLEDORE,122,Silence!
+goblet_of_fire_all_speeches,DUMBLEDORE,462,Harry!
+goblet_of_fire_all_speeches,DUMBLEDORE,583,Harry! Harry!
+goblet_of_fire_all_speeches,DUMBLEDORE,594,Severus...
+deathly_hallows_part2_all_speeches,DUMBLEDORE,511,How long?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,564,"Oh, yes."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,568,Not.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,588,Yes.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,596,On.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,598,True.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,600,Yes.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,607,Luck.
+half_blood_prince_all_speeches,DUMBLEDORE,46,Lumos...
+half_blood_prince_all_speeches,DUMBLEDORE,47,Horace!
+half_blood_prince_all_speeches,DUMBLEDORE,220,Do you?
+half_blood_prince_all_speeches,DUMBLEDORE,265,I did.
+half_blood_prince_all_speeches,DUMBLEDORE,267,Yes.
+half_blood_prince_all_speeches,DUMBLEDORE,522,Why indeed.
+half_blood_prince_all_speeches,DUMBLEDORE,592,Why indeed.
+half_blood_prince_all_speeches,DUMBLEDORE,769,Perhaps not.
+half_blood_prince_all_speeches,DUMBLEDORE,774,Yes.
+half_blood_prince_all_speeches,DUMBLEDORE,786,Nooooooo!!!
+half_blood_prince_all_speeches,DUMBLEDORE,797,Water.
+half_blood_prince_all_speeches,DUMBLEDORE,798,Water...
+half_blood_prince_all_speeches,DUMBLEDORE,801,Water!
+half_blood_prince_all_speeches,DUMBLEDORE,803,Go...
+half_blood_prince_all_speeches,DUMBLEDORE,813,Trust me.
+half_blood_prince_all_speeches,DUMBLEDORE,833,Severus...
+half_blood_prince_all_speeches,DUMBLEDORE,835,Severus... please.
+prisoner_azkaban_all_speeches,DUMBLEDORE,581,Scabbers...?
+prisoner_azkaban_all_speeches,DUMBLEDORE,685,Well?
+prisoner_azkaban_all_speeches,DUMBLEDORE,687,Did what?

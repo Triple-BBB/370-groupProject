@@ -1,0 +1,326 @@
+movie,character,speech_id,text
+sorcerer_s_stone_all_characters,DUMBLEDORE,1,"I should have known you'd be here,"
+sorcerer_s_stone_all_characters,DUMBLEDORE,5,"I would trust Hagrid with my life, Professor."
+sorcerer_s_stone_all_characters,DUMBLEDORE,7,"No problems, I take it, Hagrid?"
+sorcerer_s_stone_all_characters,DUMBLEDORE,11,"Exactly. It would be enough to turn"
+sorcerer_s_stone_all_characters,DUMBLEDORE,12,"There, there, Hagrid. It's not eally goodbye, after all."
+sorcerer_s_stone_all_characters,DUMBLEDORE,13,"Good luck, Harry Potter."
+sorcerer_s_stone_all_characters,DUMBLEDORE,383,"Everyone will please not panic. Prefects, lead your Houses back to the dormitories. Teachers, follow me to the dungeons."
+chamber_of_secrets_speeches,ALBUS DUMBLEDORE,194,"I'm well aware of our bylaws, Severus, having written more than a few myself. However, as Head of Gryffindor House, it is for"
+chamber_of_secrets_speeches,DUMBLEDORE,196,"Splendid. Now, I suggest we return to the feast. There's a delicious-looking custard tart I want to sample."
+chamber_of_secrets_speeches,DUMBLEDORE,287,"Argus!"
+chamber_of_secrets_speeches,DUMBLEDORE,289,"She's not dead, Argus. She's been Petrified."
+chamber_of_secrets_speeches,DUMBLEDORE,291,"But how she's been Petrified... I cannot say."
+chamber_of_secrets_speeches,DUMBLEDORE,299,"Innocent until proven guilty."
+chamber_of_secrets_speeches,DUMBLEDORE,301,"We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth"
+chamber_of_secrets_speeches,DUMBLEDORE,368,"There's been another attack."
+chamber_of_secrets_speeches,DUMBLEDORE,369,"It means our students are in great danger, Minerva. Mr. Creevey was fortunate. If not for this..."
+chamber_of_secrets_speeches,DUMBLEDORE,427,"About time too. He's been looking dreadful for days. Pity you had"
+chamber_of_secrets_speeches,DUMBLEDORE,428,"Fascinating creatures, phoenixes."
+chamber_of_secrets_speeches,DUMBLEDORE,432,"HAGRID! I do not think that Harry has attacked anyone."
+chamber_of_secrets_speeches,DUMBLEDORE,435,"No, Harry. But I must ask you... is there anything you'd like to tell me. Anything at all?"
+chamber_of_secrets_speeches,DUMBLEDORE,539,"It's not wise to be wandering around this late, Tom."
+chamber_of_secrets_speeches,DUMBLEDORE,542,"Headmaster Dippet may have no choice, I'm afraid."
+chamber_of_secrets_speeches,DUMBLEDORE,544,"Is there something you wish to tell me, Tom?"
+chamber_of_secrets_speeches,DUMBLEDORE,545,"Very well then. Hurry along."
+chamber_of_secrets_speeches,DUMBLEDORE,587,"Good evening, Hagrid."
+chamber_of_secrets_speeches,DUMBLEDORE,590,"I want it understood, Cornelius, that Hagrid has my full confidence."
+chamber_of_secrets_speeches,DUMBLEDORE,602,"Calm yourself, Hagrid!"
+chamber_of_secrets_speeches,DUMBLEDORE,757,"Ingenious. Simply... ingenious."
+chamber_of_secrets_speeches,DUMBLEDORE,760,"Wiser wizards than you have been hoodwinked by Lord Voldemort, Miss Weasley. No, I think you've endured enough. I would suggest a bit of bed rest, however. And perhaps a large mug of hot chocolate. I always find that cheers me up. Minerva, will you show Arthur and Molly up to the hospital wing?"
+chamber_of_secrets_speeches,DUMBLEDORE,762,"You two realize, of course, that in the last few hours, you have broken perhaps a dozen school rules?"
+chamber_of_secrets_speeches,DUMBLEDORE,763,"Therefore, it seems only fitting..."
+chamber_of_secrets_speeches,DUMBLEDORE,764,"Now, Mr. Weasley, if you would, have an owl deliver these release papers to Azkaban. We need our gamekeeper back."
+chamber_of_secrets_speeches,DUMBLEDORE,765,"First, Harry, I want to thank you. You must have shown me real loyalty down in the Chamber. Nothing but that could have called Fawkes to you. Secondly, I sense you're troubled by something. Am I right?"
+chamber_of_secrets_speeches,DUMBLEDORE,767,"You can speak Parseltongue, Harry, because Lord Voldemort can speak Parseltongue. Unless I'm much"
+chamber_of_secrets_speeches,DUMBLEDORE,769,"Not intentionally, but... yes."
+chamber_of_secrets_speeches,DUMBLEDORE,771,"It's true, Harry. You do possess many of the qualities Voldemort himself prizes. Resourcefulness. Determination. A certain disregard for the rules. Yet the"
+chamber_of_secrets_speeches,DUMBLEDORE,773,"Exactly. Which makes you very different from Voldemort. It's not our abilities that show what we truly are, Harry. It's our choices."
+chamber_of_secrets_speeches,DUMBLEDORE,775,"Only a true Gryffindor could have pulled that out of the Hat."
+chamber_of_secrets_speeches,DUMBLEDORE,778,"Yes. When the governors heard that Arthur Weasley's daughter had"
+chamber_of_secrets_speeches,DUMBLEDORE,780,"Oh yes. It was Voldemort. Only"
+chamber_of_secrets_speeches,DUMBLEDORE,781,"Fortunately, our young Mr. Potter discovered it."
+chamber_of_secrets_speeches,DUMBLEDORE,798,"Before we begin our feast, let's give a round of applause to"
+chamber_of_secrets_speeches,DUMBLEDORE,799,"Also, in the wake of recent events, as a school treat, all exams have been cancelled. Everyone cheers, save for Hermione."
+the_order_phoenix,DUMBLEDORE,99,--Albus Percival Wulfric Brian Dumbledore.
+the_order_phoenix,DUMBLEDORE,101,I must have missed it. But due to
+the_order_phoenix,DUMBLEDORE,112,"Pardon me, Minister, but as it happens...we can."
+the_order_phoenix,DUMBLEDORE,118,"Oh, I don't think any of us believe"
+the_order_phoenix,DUMBLEDORE,120,"That would be disturbing indeed, Madame Undersecretary...which is why I'm confident the Ministry will be making a full inquiry into why two Dementors were so very far"
+the_order_phoenix,DUMBLEDORE,121,Cornelius...I implore you to listen to reason. The evidence that the Dark Lord has returned is incontravert--
+the_order_phoenix,DUMBLEDORE,123,In the matter of Harry Potter: the law plainly states that magic may be used before Muggles in life- threatening situations.
+the_order_phoenix,DUMBLEDORE,125,Clearly--if it has become practice to hold a full criminal trial to deal with a simple matter of underage magic.
+the_order_phoenix,DUMBLEDORE,157,"...We have two changes in staffing this year. We are pleased to welcome back Professor Grubbly- Plank, who will be taking Care of Magical Creatures while Professor"
+the_order_phoenix,DUMBLEDORE,158,"...We also wish to welcome our new Defense Against the Dark Arts teacher--Professor Dolores Umbridge. DUMBLEDORE (O.S.) [I'm sure I'm not alone in saying good luck, Professor...]"
+the_order_phoenix,DUMBLEDORE,161,"...As usual, our Caretaker Mr. Filch has asked me to remind you--"
+the_order_phoenix,DUMBLEDORE,166,"Thank you Professor Umbridge; that was most...illuminating. As I was saying, Mr. Filch has asked me... 31. DUMBLEDORE (O.S.) [...to remind you all that magic is not permitted in corridors between classes, nor are any number of other things, all of which can be checked on the extensive list now fastened to Mr. Filch's office door. First-years ought to know that the Forest in"
+the_order_phoenix,DUMBLEDORE,282,"--you have the right to dismiss my teachers. You do not, however,"
+the_order_phoenix,DUMBLEDORE,283,I trust you all have studying to do?
+the_order_phoenix,DUMBLEDORE,371,"...in the dream, were you standing beside the victim, or looking down"
+the_order_phoenix,DUMBLEDORE,374,Everard.
+the_order_phoenix,DUMBLEDORE,375,Phineas: I need you to go to your portrait at Grimmauld Place. Tell
+the_order_phoenix,DUMBLEDORE,378,"Yes, Severus. I'm afraid we daren't wait even until morning."
+the_order_phoenix,DUMBLEDORE,435,Naturally.
+the_order_phoenix,DUMBLEDORE,438,"Ah, I thought we might hit that little snag. You seem to be laboring under the delusion that I am going to--what is the phrase? 'Come quietly.' But I'm afraid I have no intention of going to Azkaban."
+the_order_phoenix,DUMBLEDORE,645,Harry--
+the_order_phoenix,DUMBLEDORE,646,"It was foolish of you to come here tonight, Tom. The Aurors are on"
+the_order_phoenix,DUMBLEDORE,650,Harry! Stay where you are--!
+the_order_phoenix,DUMBLEDORE,653,Don't fight him Harry! You can't
+the_order_phoenix,DUMBLEDORE,657,Harry...it's not how you are alike--it's how you're not.
+the_order_phoenix,DUMBLEDORE,663,Please. Come in?
+the_order_phoenix,DUMBLEDORE,664,Harry...I know how you must be feeling... 135.
+the_order_phoenix,DUMBLEDORE,665,"No, Harry....the fault is mine."
+the_order_phoenix,DUMBLEDORE,666,"Harry...as much as it pains me to disillusion you, I am all too fallible...and this war that has now begun may just as easily be lost as won."
+the_order_phoenix,DUMBLEDORE,667,"I knew it was only a matter of time before Voldemort became aware of the connection between you, and tried to exploit it. I thought by distancing myself from you, as I"
+the_order_phoenix,DUMBLEDORE,668,Yes.
+goblet_of_fire_all_speeches,DUMBLEDORE,103,"Now we're all settled in and sorted, I'd like to make an announcement. This castle will not only be your home this year but home to some very special guests as well. You see Hogwarts has been choosen..."
+goblet_of_fire_all_speeches,DUMBLEDORE,104,"So Hogwarts has been choosen to host a legendary event. The Tri-Wizard tournament. Now for those of you who do not know, the tri-wizard tournament brings together three schools for a series of magical contests. From each school a single contestant is selected to compete. Now let me be clear, if choosen you stand alone. And trust me when I say these contests are not for the faint hearted, but more of that later. For now please join me in welcoming the lovely ladies of the Beauxbatons Academy of magic"
+goblet_of_fire_all_speeches,DUMBLEDORE,106,"And now our friends from the north, please greet the proud sons of Durmstrang and the high master Igor Karkaroff."
+goblet_of_fire_all_speeches,DUMBLEDORE,108,Igor.
+goblet_of_fire_all_speeches,DUMBLEDORE,110,"Not to worry Madame Maxime, our gamekeeper Hagrid's more than capable of seeing"
+goblet_of_fire_all_speeches,DUMBLEDORE,113,"Your attention please! I would like to say a few words. Eternal glory, that is what awaits the student who wins the tri-wizard tournament. But to do this that student must survive three tasks. Three extremely dangerous tasks."
+goblet_of_fire_all_speeches,DUMBLEDORE,115,"For this reason the ministry has seen fit to impose a new rule. To explain all this we have the head of the department of international magic cooperation Mister Bartimus Crouch."
+goblet_of_fire_all_speeches,DUMBLEDORE,117,"My dear old friend, thanks for coming."
+goblet_of_fire_all_speeches,DUMBLEDORE,122,Silence!
+goblet_of_fire_all_speeches,DUMBLEDORE,123,The goblet of fire. Anyone wishing to submit themselves for the tournament
+goblet_of_fire_all_speeches,DUMBLEDORE,145,"Sit down please. And now the moment you've all been waiting for, the champions selection!"
+goblet_of_fire_all_speeches,DUMBLEDORE,146,The Durmstrang champion is ... Viktor Krum!
+goblet_of_fire_all_speeches,DUMBLEDORE,147,The champion from Beauxbatons... Fleur Delacour
+goblet_of_fire_all_speeches,DUMBLEDORE,148,The Hogwarts champion... Cedric Diggory.
+goblet_of_fire_all_speeches,DUMBLEDORE,149,"Excellent! we now have our three champions! But in the end only one will go down in history. Only one will hoist this chalice of champions, this vessel of victory the tri-wizard cup!"
+goblet_of_fire_all_speeches,DUMBLEDORE,153,Harry! Did you put your name in the goblet of fire?
+goblet_of_fire_all_speeches,DUMBLEDORE,155,Did you ask one of the older students to do it for you?
+goblet_of_fire_all_speeches,DUMBLEDORE,157,You're absolutely sure?
+goblet_of_fire_all_speeches,DUMBLEDORE,160,That doesn't help Alastor. Leave this to you Barty.
+goblet_of_fire_all_speeches,DUMBLEDORE,163,What do you suggest Minerva?
+goblet_of_fire_all_speeches,DUMBLEDORE,165,You heard Barty the rules are clear.
+goblet_of_fire_all_speeches,DUMBLEDORE,167,"I agree with Severus. Alastor, keep an eye on Harry will you?"
+goblet_of_fire_all_speeches,DUMBLEDORE,274,"Good day champions. Gather round please. Now you've waited, you've wondered and at last the moment has arrived. The moment only four of you can fully appreciate."
+goblet_of_fire_all_speeches,DUMBLEDORE,275,What are you doing here Miss Granger?
+goblet_of_fire_all_speeches,DUMBLEDORE,277,Barty. The bag.
+goblet_of_fire_all_speeches,DUMBLEDORE,286,Very well. Good luck champions. Mr Diggory the sound of the cannon...
+goblet_of_fire_all_speeches,DUMBLEDORE,462,Harry!
+goblet_of_fire_all_speeches,DUMBLEDORE,463,I want all the judges over here now.
+goblet_of_fire_all_speeches,DUMBLEDORE,472,Attention! Attention! The winner is... Mr Diggory!
+goblet_of_fire_all_speeches,DUMBLEDORE,473,"For showing unique command of the bubblehead shark. The way I see it, Mr Potter would have finished first had it not been"
+goblet_of_fire_all_speeches,DUMBLEDORE,485,"But surely that is what's right, no matter what others think."
+goblet_of_fire_all_speeches,DUMBLEDORE,489,"Oh not necessary Harry the minister and I are done. I'll be back in a moment. Minister, after you. Harry do feel free to indulge in a liquorice snack in my absence, but I have to warn you they're a little bit sharp."
+goblet_of_fire_all_speeches,DUMBLEDORE,503,The counsel is very much aware you have given evidence on this matter. Severus Snape was indeed a deatheater and prior to Lord Voldemort's downfall turned spy for us at great personal risk. Today he's no more a deatheater than I am.
+goblet_of_fire_all_speeches,DUMBLEDORE,516,"Curiosity's not a sin Harry, but you should exercise caution. It's a pensieve, useful if like me you find your mind a wee bit stretched. It allows me to see what small things I've already seen. You see Harry I've searched and searched for something, some small detail. Something I might have overlooked, something that would explain why these terrible things have happened. Every time I get close to an answer it slips away, it's maddedning."
+goblet_of_fire_all_speeches,DUMBLEDORE,519,Have there been other dreams like this?
+goblet_of_fire_all_speeches,DUMBLEDORE,521,"I think it's unwise for you to linger over these dreams Harry, I think it's best that you simply..."
+goblet_of_fire_all_speeches,DUMBLEDORE,531,Earlier today Professor Moody placed the tri-wizards cup deep within the
+goblet_of_fire_all_speeches,DUMBLEDORE,532,On the count of three... ONE...  The cannon goes off.
+goblet_of_fire_all_speeches,DUMBLEDORE,583,Harry! Harry!
+goblet_of_fire_all_speeches,DUMBLEDORE,584,Tell me what happened!
+goblet_of_fire_all_speeches,DUMBLEDORE,586,"It's alright Harry. It's alright, he's home, you both are."
+goblet_of_fire_all_speeches,DUMBLEDORE,594,Severus...
+goblet_of_fire_all_speeches,DUMBLEDORE,595,Do you know who I am?
+goblet_of_fire_all_speeches,DUMBLEDORE,596,Are you Alastor Moody? Are ya?
+goblet_of_fire_all_speeches,DUMBLEDORE,597,Are you alright Alastor?
+goblet_of_fire_all_speeches,DUMBLEDORE,601,Now we know who's been stealing it from your store Severus.
+goblet_of_fire_all_speeches,DUMBLEDORE,602,We'll get you up in a minute.
+goblet_of_fire_all_speeches,DUMBLEDORE,604,Your arm Harry.
+goblet_of_fire_all_speeches,DUMBLEDORE,606,"Send an owl to Azkaban, think they'll find they're missing a prisoner."
+goblet_of_fire_all_speeches,DUMBLEDORE,608,Perhaps. Personally I've never had much time for heroes.
+goblet_of_fire_all_speeches,DUMBLEDORE,609,"I never liked these curtains. Set them on fire in my fourth year, by accident of course. I put you in terrible danger this year Harry I'm sorry."
+goblet_of_fire_all_speeches,DUMBLEDORE,611,Priorium Contatum. You saw your parents that night didn't you? They reappeared.
+goblet_of_fire_all_speeches,DUMBLEDORE,612,"No spell can reawaken the dead Harry I trust you know that. Dark and diffiult times lie ahead. Soon we must all face the choice between what is right what is easy. But remember this, you have friends here. You're not alone."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,487,That wasn’t my intention.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,488,"Stand up, Severus. I haven’t much time. What message do you bring from Lord Voldemort this time?"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,489,Is this about the Prophecy?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,491,How much did you relay?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,493,"If she means so much to you, surely Lord Voldemort would spare"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,495,You disgust me. You would sacrifice the life of an innocent child over a schoolboy crush?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,496,"And should I do so, what will you give me in return, Severus?"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,500,"If you loved Lily Evans, Severus. If you truly loved her. Then your way is clear."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,502,My word that I shall never reveal
+deathly_hallows_part2_all_speeches,DUMBLEDORE,503,"Sometimes we see what we expect to see, Severus. Other teachers indicate the boy is modest, likeable and while no prodigy, possesses above-average gifts. Personally, I find him rather engaging."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,505,Perhaps. Oh. Severus.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,507,I was... foolish... greedy...
+deathly_hallows_part2_all_speeches,DUMBLEDORE,509,For the time being?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,511,How long?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,513,"Well, this makes matters much more straightforward."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,514,"Do not ignore me, Severus. Was it not you who told me of Lord Voldemort’s plan to have the Malfoy boy murder me?"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,515,You must agree.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,516,"Yes. You must be the one to kill me, Severus. It is the only way. Only then will the Dark Lord trust you completely."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,518,There will come a time when Harry Potter must be told something. But you must wait until Voldemort
+deathly_hallows_part2_all_speeches,DUMBLEDORE,519,"On the night Lord Voldemort went to Godric’s Hollow to kill Harry, and Lily Potter cast herself"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,520,There’s a reason Harry can speak
+deathly_hallows_part2_all_speeches,DUMBLEDORE,522,Yes. And Voldemort himself must do it. That is essential.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,524,"But this is touching, Severus. Don’t tell me you’ve grown to care for the boy?"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,526,Lily. After all this time?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,561,You cannot help.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,562,"Harry. You wonderful boy. You brave, brave man. Let us walk."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,564,"Oh, yes."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,566,"Ah. That is the question, isn’t it? On the whole I think not."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,568,Not.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,570,"And that will, I think, have made all the difference. I suspect you now realize that you and Voldemort have been connected by something other than fate since that night in Godric’s Hollow all those years ago, Harry."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,572,Did. It was just destroyed only moments ago by none other than
+deathly_hallows_part2_all_speeches,DUMBLEDORE,573,"You were the seventh Horcrux,"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,575,"Certain? No. Little is certain in this world, Harry. Call it an educated guess. Dumbledore smiles."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,577,Something beyond either of our help.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,579,I was going to ask you that. Where would you say that we are?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,581,King’s Cross! Is that right?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,583,"You will have to forgive me, Harry. You see... I didn’t trust you."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,584,"I feared that you would make the same mistake I made, that you would be intoxicated by the power"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,586,You are the worthy possessor of
+deathly_hallows_part2_all_speeches,DUMBLEDORE,588,Yes.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,590,True. But ask yourself this: were you calling them? Or were they calling you?
+deathly_hallows_part2_all_speeches,DUMBLEDORE,592,That is up to you.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,594,"Oh yes. We are in King’s Cross, you say? I think, should you so decide, you would be able to, let’s say, board a train."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,596,On.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,598,True.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,600,Yes.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,602,‘Help will always be given at Hogwarts to those who ask for it.’
+deathly_hallows_part2_all_speeches,DUMBLEDORE,603,"I have always prized my ability to turn a phrase -- words are, in my not so humble opinion, our most inexhaustible source of magic, capable both of inflicting injury and remedying it. But I would -- in this case -- amend my original statement to this:"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,605,"I’ve never put much stock in miracles, Harry. On the other hand, I can attest wholly to the extensive advantages of a related phenomenon."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,607,Luck.
+deathly_hallows_part2_all_speeches,DUMBLEDORE,608,"Do not pity the dead, Harry. Pity"
+deathly_hallows_part2_all_speeches,DUMBLEDORE,610,"Actually, if I think about it... it doesn’t seem curious at all."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,613,"Of course it is happening inside your head, Harry. But why should that mean that it is not real?"
+half_blood_prince_all_speeches,DUMBLEDORE,38,I once knew a Muggle girl from Liverpool with hair like spun silk. No light could resist it...
+half_blood_prince_all_speeches,DUMBLEDORE,40,"Rather unpleasant to behold, isn’t it? The tale is thrilling if I do say so myself, but I’m afraid now is not the time to tell it. Take my arm."
+half_blood_prince_all_speeches,DUMBLEDORE,42,Indeed. And quite successfully I might add. Most people vomit
+half_blood_prince_all_speeches,DUMBLEDORE,44,"Welcome to the charming village of Budleigh Babberton, Harry. I assume right about now you’re wondering why I’ve brought you here, am I right?"
+half_blood_prince_all_speeches,DUMBLEDORE,45,"Wand out, Harry."
+half_blood_prince_all_speeches,DUMBLEDORE,46,Lumos...
+half_blood_prince_all_speeches,DUMBLEDORE,47,Horace!
+half_blood_prince_all_speeches,DUMBLEDORE,49,"I must say, you make a very convincing armchair, Horace."
+half_blood_prince_all_speeches,DUMBLEDORE,52,"Ah yes. Introductions. Harry, this is an old friend and colleague of mine, Horace Slughorn. Horace, this is, well, you know who this is."
+half_blood_prince_all_speeches,DUMBLEDORE,53,"So why all the theatrics, Horace? You weren’t perhaps expecting someone else, were you?"
+half_blood_prince_all_speeches,DUMBLEDORE,56,"Well, I think it should be put"
+half_blood_prince_all_speeches,DUMBLEDORE,57,"That was fun. May I use the loo? As Dumbledore heads down the hall, Slughorn calls after."
+half_blood_prince_all_speeches,DUMBLEDORE,65,Mind if I take this? I do love knitting patterns.
+half_blood_prince_all_speeches,DUMBLEDORE,67,"I think I know a lost cause when I see one. Regrettable. I would have considered it a personal triumph had you consented to return to Hogwarts, Horace. You are, like my friend Mr. Potter -- one of a kind."
+half_blood_prince_all_speeches,DUMBLEDORE,70,"You are talented, famous and powerful -- everything Horace values. Professor Slughorn is going to try to collect you, Harry. You would be his crowning"
+half_blood_prince_all_speeches,DUMBLEDORE,71,"I fear I may have stolen a wondrous night from you, Harry."
+half_blood_prince_all_speeches,DUMBLEDORE,73,"You’ll not be going back to Little Whinging tonight, Harry."
+half_blood_prince_all_speeches,DUMBLEDORE,75,Both are waiting for you.
+half_blood_prince_all_speeches,DUMBLEDORE,178,"Professor Slughorn, I’m happy to"
+half_blood_prince_all_speeches,DUMBLEDORE,179,"Now, as you know, each and every one of you was searched upon your arrival tonight. You have a right to know why."
+half_blood_prince_all_speeches,DUMBLEDORE,180,"Today, of course, the world knows"
+half_blood_prince_all_speeches,DUMBLEDORE,181,"Just something to keep in mind. Now, off to bed. Pip pip!"
+half_blood_prince_all_speeches,DUMBLEDORE,215,"Good evening, Harry. You got my message, I see. Come, come. Sit."
+half_blood_prince_all_speeches,DUMBLEDORE,216,So. How are you?
+half_blood_prince_all_speeches,DUMBLEDORE,218,"Enjoying your classes? Professor Slughorn, for one, is most impressed with you."
+half_blood_prince_all_speeches,DUMBLEDORE,220,Do you?
+half_blood_prince_all_speeches,DUMBLEDORE,222,And what of your activities
+half_blood_prince_all_speeches,DUMBLEDORE,224,I notice you spend a great deal of time with Miss Granger. One can’t help but wonder if --
+half_blood_prince_all_speeches,DUMBLEDORE,226,"Forgive me, Harry, I..."
+half_blood_prince_all_speeches,DUMBLEDORE,227,... I was merely curious.
+half_blood_prince_all_speeches,DUMBLEDORE,228,What you see before you are memories. In this case pertaining to one individual: Voldemort. Or
+half_blood_prince_all_speeches,DUMBLEDORE,229,This vial contains a most particular memory -- of the day I first met him. I’d like you to see it. If you would...
+half_blood_prince_all_speeches,DUMBLEDORE,231,I am not family. But his name has been known to me since birth.
+half_blood_prince_all_speeches,DUMBLEDORE,234,Perhaps you could give me an example.
+half_blood_prince_all_speeches,DUMBLEDORE,236,"How do you do, Tom."
+half_blood_prince_all_speeches,DUMBLEDORE,239,"As you wish. Riddle looks away and Dumbledore, for the first time,"
+half_blood_prince_all_speeches,DUMBLEDORE,241,No. I am a Professor.
+half_blood_prince_all_speeches,DUMBLEDORE,244,Hogwarts is not a place for mad people.
+half_blood_prince_all_speeches,DUMBLEDORE,245,"It’s a school. A school of... magic. Riddle stays looking, but says nothing."
+half_blood_prince_all_speeches,DUMBLEDORE,246,"You can do things, can’t you, Tom? Things the other children can’t. Riddle eyes Dumbledore intensely, unblinking."
+half_blood_prince_all_speeches,DUMBLEDORE,248,"Tell me some of the things you can do, Tom."
+half_blood_prince_all_speeches,DUMBLEDORE,250,"I’m like you, Tom. Different."
+half_blood_prince_all_speeches,DUMBLEDORE,252,"I think there is something trying to get out of your wardrobe, Tom. Open it. Open. It."
+half_blood_prince_all_speeches,DUMBLEDORE,253,"Take it out. As Riddle’s fingers touch the box, the flames engulfing"
+half_blood_prince_all_speeches,DUMBLEDORE,254,Is there anything in that box you ought not to have?
+half_blood_prince_all_speeches,DUMBLEDORE,255,"Why did you want these things, Tom?"
+half_blood_prince_all_speeches,DUMBLEDORE,256,"Thievery is not tolerated at Hogwarts. At Hogwarts, you will be taught not only how to use magic, but to control it. Understood?"
+half_blood_prince_all_speeches,DUMBLEDORE,258,"It is unusual. But not unheard of."
+half_blood_prince_all_speeches,DUMBLEDORE,260,Did I know that I had just met the most dangerous Dark Wizard of all time? No. Had I...
+half_blood_prince_all_speeches,DUMBLEDORE,261,"Over time, while here at Hogwarts,"
+half_blood_prince_all_speeches,DUMBLEDORE,263,"No. I did not. You see, Professor Slughorn possesses something I desire very dearly."
+half_blood_prince_all_speeches,DUMBLEDORE,265,I did.
+half_blood_prince_all_speeches,DUMBLEDORE,267,Yes.
+half_blood_prince_all_speeches,DUMBLEDORE,517,Confused? I would be surprised if you weren’t.
+half_blood_prince_all_speeches,DUMBLEDORE,519,This is perhaps the most important memory I’ve collected. It’s also
+half_blood_prince_all_speeches,DUMBLEDORE,520,I suspect he is ashamed of it.
+half_blood_prince_all_speeches,DUMBLEDORE,522,Why indeed.
+half_blood_prince_all_speeches,DUMBLEDORE,523,I asked you to get to know Professor Slughorn and you’ve done so.
+half_blood_prince_all_speeches,DUMBLEDORE,525,"You’re the Chosen One, Harry. And Horace is, at heart, a decent man. Provide the proper circumstances"
+half_blood_prince_all_speeches,DUMBLEDORE,526,"This memory is everything, Harry. Without it, we are blind. Without it, we leave the fate of our world to chance. You have no choice. You must not fail."
+half_blood_prince_all_speeches,DUMBLEDORE,590,"Quick thinking on your part, Harry. Using a Bezoar. You must be very proud of your student, eh, Horace?"
+half_blood_prince_all_speeches,DUMBLEDORE,592,"Why indeed."
+half_blood_prince_all_speeches,DUMBLEDORE,593,"This appears to be a gift, Horace. You don’t by chance remember who gave you this bottle, do you -- which by the way possesses remarkably subtle hints of licorice and cherry when not polluted with poison."
+half_blood_prince_all_speeches,DUMBLEDORE,595,To whom might I ask?
+half_blood_prince_all_speeches,DUMBLEDORE,605,"Ah, to be young and feel love’s keen sting. Come, everyone, I think Mr. Weasley is well tended. As Dumbledore leads the others past Harry, Harry studies"
+half_blood_prince_all_speeches,DUMBLEDORE,721,"It’s a Horcrux, yes. Four years ago, when you saved Ginny Weasley’s life in the Chamber of Secrets, when you brought me this --"
+half_blood_prince_all_speeches,DUMBLEDORE,723,Belonged to Voldemort’s mother. It was difficult to find and...
+half_blood_prince_all_speeches,DUMBLEDORE,725,One destroys Voldemort.
+half_blood_prince_all_speeches,DUMBLEDORE,727,"True. But magic, especially Dark magic..."
+half_blood_prince_all_speeches,DUMBLEDORE,728,"... leaves traces."
+half_blood_prince_all_speeches,DUMBLEDORE,730,Yes. And I think... perhaps... I may have found another. But this time I cannot hope to destroy it alone.
+half_blood_prince_all_speeches,DUMBLEDORE,731,"Once again, I shall ask too much of you."
+half_blood_prince_all_speeches,DUMBLEDORE,745,"Whether it has or hasn’t is irrelevant. I will not negotiate this with you, Severus. You agreed. There’s nothing more to discuss."
+half_blood_prince_all_speeches,DUMBLEDORE,746,"Harry. You need a shave, my friend."
+half_blood_prince_all_speeches,DUMBLEDORE,747,At times I forget how much you’ve grown. At times I still see the small boy from the cupboard.
+half_blood_prince_all_speeches,DUMBLEDORE,749,"Like your mother, you are unfailingly kind."
+half_blood_prince_all_speeches,DUMBLEDORE,751,"Understand what I’m saying. Should I tell you to hide, you must hide."
+half_blood_prince_all_speeches,DUMBLEDORE,752,"Should I tell you to run, you will * run."
+half_blood_prince_all_speeches,DUMBLEDORE,753,"And should I tell you to abandon * me and save yourself... You will do so. *"
+half_blood_prince_all_speeches,DUMBLEDORE,754,"Your word, Harry."
+half_blood_prince_all_speeches,DUMBLEDORE,756,Take my arm.
+half_blood_prince_all_speeches,DUMBLEDORE,758,Being me has its privileges.
+half_blood_prince_all_speeches,DUMBLEDORE,760,"This is the place. Oh yes, this place has known magic."
+half_blood_prince_all_speeches,DUMBLEDORE,762,"In order to gain passage, payment must be made, payment intended to weaken any intruder."
+half_blood_prince_all_speeches,DUMBLEDORE,764,"Oh, no, Harry. Your blood is much more precious than mine."
+half_blood_prince_all_speeches,DUMBLEDORE,765,Careful. The water.
+half_blood_prince_all_speeches,DUMBLEDORE,766,It’s there. The only question is how do we get to it?
+half_blood_prince_all_speeches,DUMBLEDORE,769,Perhaps not.
+half_blood_prince_all_speeches,DUMBLEDORE,770,"If you would, Harry..."
+half_blood_prince_all_speeches,DUMBLEDORE,772,"Only recreationally. You see, I believe one creates one’s own luck."
+half_blood_prince_all_speeches,DUMBLEDORE,774,Yes.
+half_blood_prince_all_speeches,DUMBLEDORE,775,Remember... the water.
+half_blood_prince_all_speeches,DUMBLEDORE,777,"Oh yes. Dumbledore steps back, ponders the basin."
+half_blood_prince_all_speeches,DUMBLEDORE,778,It has to be drunk.
+half_blood_prince_all_speeches,DUMBLEDORE,779,"This potion might paralyze me. It might cause me to forget why I’m here. It might create so much pain I beg for relief. You are not to indulge these requests, Harry. It is your job to make sure I keep drinking this potion even if you have to force it down my throat. Understood?"
+half_blood_prince_all_speeches,DUMBLEDORE,781,"Because I am much older, much cleverer... and much less valuable."
+half_blood_prince_all_speeches,DUMBLEDORE,784,Don’t... don’t make me...
+half_blood_prince_all_speeches,DUMBLEDORE,786,Nooooooo!!!
+half_blood_prince_all_speeches,DUMBLEDORE,787,Make it stop... Please... make it stop...
+half_blood_prince_all_speeches,DUMBLEDORE,789,My fault. It’s all my fault...
+half_blood_prince_all_speeches,DUMBLEDORE,790,"Too much... I can’t... take it... I want... to die... kill... kill me... KILL ME, HARRY!"
+half_blood_prince_all_speeches,DUMBLEDORE,792,"Your word, Harry! Your word!"
+half_blood_prince_all_speeches,DUMBLEDORE,794,KILL ME! IT’S THE ONLY WAY!
+half_blood_prince_all_speeches,DUMBLEDORE,797,Water.
+half_blood_prince_all_speeches,DUMBLEDORE,798,Water...
+half_blood_prince_all_speeches,DUMBLEDORE,801,Water!
+half_blood_prince_all_speeches,DUMBLEDORE,803,Go...
+half_blood_prince_all_speeches,DUMBLEDORE,804,We have to... go.
+half_blood_prince_all_speeches,DUMBLEDORE,806,"I am not worried, Harry. I am with you."
+half_blood_prince_all_speeches,DUMBLEDORE,808,No. Severus... Severus is who I
+half_blood_prince_all_speeches,DUMBLEDORE,811,Hide yourself below. And do not speak or show yourself without my permission. No matter what.
+half_blood_prince_all_speeches,DUMBLEDORE,812,"Do as I say, Harry."
+half_blood_prince_all_speeches,DUMBLEDORE,813,Trust me.
+half_blood_prince_all_speeches,DUMBLEDORE,814,"Good evening, Draco. What brings you out on such a fine Spring evening? Or is it Summer? Draco stands poised, wand in hand, eyes darting about."
+half_blood_prince_all_speeches,DUMBLEDORE,816,"I often talk aloud to myself. I find it extraordinarily useful. That which sounds sane at a whisper can seem utterly mad when said for all the world to hear. Haven’t been whispering to yourself, have you, Draco?"
+half_blood_prince_all_speeches,DUMBLEDORE,817,"You are not an assassin, Draco."
+half_blood_prince_all_speeches,DUMBLEDORE,819,Like cursing Katie Bell and hoping
+half_blood_prince_all_speeches,DUMBLEDORE,821,Then I shall make it easy for you.
+half_blood_prince_all_speeches,DUMBLEDORE,822,"Well done, Draco. But I warn you. * Killing is not nearly as easy. *"
+half_blood_prince_all_speeches,DUMBLEDORE,823,You’re not alone. Are you. There are others. How?
+half_blood_prince_all_speeches,DUMBLEDORE,824,That cabinet has been broken for years.
+half_blood_prince_all_speeches,DUMBLEDORE,826,Ingenious. Let me guess. It has
+half_blood_prince_all_speeches,DUMBLEDORE,828,"Say that again, Draco. But aloud this time."
+half_blood_prince_all_speeches,DUMBLEDORE,830,"Good evening, Bellatrix. I think introductions are in order."
+half_blood_prince_all_speeches,DUMBLEDORE,833,Severus...
+half_blood_prince_all_speeches,DUMBLEDORE,835,Severus... please.
+prisoner_azkaban_all_speeches,DUMBLEDORE,133,"Welcome! Welcome to another year at Hogwarts! I have a few things to say, before we become befuddled by our excellent feast. I myself am particularly looking forward to"
+prisoner_azkaban_all_speeches,DUMBLEDORE,134,"Mm. Yes. First, I'm pleased to welcome Professor R.J. Lupin, who has kindly consented to fill the post of Defense Against the Dark Arts. Good luck to you, Professor."
+prisoner_azkaban_all_speeches,DUMBLEDORE,135,"As some of you may know, Professor Kettleburn, our Care of Magical Creatures teacher for many years, has decided to retire in order to"
+prisoner_azkaban_all_speeches,DUMBLEDORE,246,Mr. Filch. Round up the ghosts.
+prisoner_azkaban_all_speeches,DUMBLEDORE,248,Dear lady. Who did this to you?
+prisoner_azkaban_all_speeches,DUMBLEDORE,249,"Secure the castle, Mr. Filch. The rest of you... to the Great Hall."
+prisoner_azkaban_all_speeches,DUMBLEDORE,253,I do not believe a single
+prisoner_azkaban_all_speeches,DUMBLEDORE,254,No... I feel quite confident the castle is safe. And I'm more than willing to let the students return
+prisoner_azkaban_all_speeches,DUMBLEDORE,255,It's astonishing what the body can endure when the mind allows itself to rest.
+prisoner_azkaban_all_speeches,DUMBLEDORE,581,Scabbers...?
+prisoner_azkaban_all_speeches,DUMBLEDORE,583,"I do, Miss Granger. But I'm sorry to say the word of three thirteen- year-old wizards will convince few others. A child's voice, however honest and true, is meaningless to those who have forgotten how to listen."
+prisoner_azkaban_all_speeches,DUMBLEDORE,584,"Ah... a shooting star. If ever one was to make a wish, now would be the time. But time, I'm afraid, is precisely our problem..."
+prisoner_azkaban_all_speeches,DUMBLEDORE,585,"Mysterious thing, time. Powerful. And, when meddled with... dangerous. Sirius Black is in the topmost cell of the Dark Tower."
+prisoner_azkaban_all_speeches,DUMBLEDORE,586,"By the way, when in doubt, I find retracing my steps to be a wise place to begin... Good luck."
+prisoner_azkaban_all_speeches,DUMBLEDORE,627,"I'm quite sure the Minister isn't suggesting that you had anything to do with it, Hagrid. How could you? You've been with us all along."
+prisoner_azkaban_all_speeches,DUMBLEDORE,629,"Search the skies if you must, Minister. In the meantime, I wouldn't say no to a cup of tea, Hagrid. Or... a large brandy."
+prisoner_azkaban_all_speeches,DUMBLEDORE,684,"By the way, when in doubt, I always find retracing my steps to be a wise place to begin... Good luck."
+prisoner_azkaban_all_speeches,DUMBLEDORE,685,Well?
+prisoner_azkaban_all_speeches,DUMBLEDORE,687,Did what?

@@ -1,0 +1,101 @@
+movie,character,speech_id,text
+goblet_of_fire,HERMIONE,435,"But sir, the second task is only hours away and..."
+goblet_of_fire,HERMIONE,99,"You know Sirius will want to hear about this. What you saw at the world cup, and the dream."
+goblet_of_fire,HERMIONE,11,Are you alright?
+goblet_of_fire,RON,394,Doubt it. He's way too old.
+goblet_of_fire,RON,214,You're probably just practicing for your next interview I expect.
+goblet_of_fire,RON,210,Who you talking to?
+goblet_of_fire,RON,173,"Yeah that's me, Ron Weasley... Harry Potter's stupid friend."
+half_blood_prince,RON,279,"Have to admit, thought I was going to miss that last one. Hope Cormacâ€™s not taking it too hard."
+half_blood_prince,RON,175,"Oi! Turn around, you lunatic."
+half_blood_prince,RON,145,Probably on the platform. Câ€™mon.
+half_blood_prince,RON,583,I feel really... bad.
+half_blood_prince,RON,113,How much for this?
+half_blood_prince,HERMIONE,112,These are adorable.
+half_blood_prince,HERMIONE,193,... is Amortentia! The most powerful love potion in the world.
+half_blood_prince,HERMIONE,362,"No. Though, a boy named Robbie Fenwick did bite my father once. Needed ten stitches."
+half_blood_prince,HERMIONE,386,Dead boring. Though I think Harry enjoyed dessert.
+prisoner_azkaban,HERMIONE,591,Seven-thirty. Where were we at seven-thirty?
+prisoner_azkaban,HERMIONE,631,We save Sirius.
+prisoner_azkaban,HERMIONE,105,C'mon. We're in here.
+prisoner_azkaban,HERMIONE,610,Yes! You Must!
+prisoner_azkaban,HERMIONE,285,"No one blames you, Harry. The Dementors aren't meant to come on"
+prisoner_azkaban,HERMIONE,664,"HARRY, NO!"
+prisoner_azkaban,RON,452,Right. Next time I see
+prisoner_azkaban,RON,468,Harry!
+prisoner_azkaban,RON,388,I find it astonishing that someone who prides herself on being so logical can be in such denial.
+prisoner_azkaban,RON,322,"Actually, it's fine from here."
+phoenix,HERMIONE,244,What's wrong with your hand?
+phoenix,HERMIONE,327,"You've done it, Neville! You've found the Room of Requirement!"
+phoenix,HERMIONE,443,"He's right. Not even Dumbledore saw this coming. Besides, if it's anyone's fault it's ours..."
+phoenix,HERMIONE,252,Then help us to.
+phoenix,RON,58,"We wanted to write mate, really we did--only--"
+phoenix,RON,298,Look on the bright side--you can't be any worse than old toad-face.
+sorcerer_s_stone,RON,669,Kill us faster? Oh now I can relax.
+sorcerer_s_stone,RON,483,"Well, let's see then. Put it on. As Harry takes the cloth, we hang on Ron, watching, then:"
+sorcerer_s_stone,RON,429,"That's not a broomstick, Harry. That's a Nimbus Two Thousand."
+sorcerer_s_stone,RON,393,What do we do?
+sorcerer_s_stone,RON,278,That was bloody brilliant!
+sorcerer_s_stone,RON,339,Does anybody feel like...we shouldn't be here?
+sorcerer_s_stone,RON,695,It's a chessboard. Sure enough.
+sorcerer_s_stone,HERMIONE,520,"You will not. Besides, according to"
+sorcerer_s_stone,HERMIONE,333,You won't make a fool of yourself.
+sorcerer_s_stone,HERMIONE,298,I've read about those. If the smoke turns red it means you've forgotten something.
+sorcerer_s_stone,HERMIONE,539,"’The only stone currently in existence belongs to Mr. Nicolas Flamel, the noted alchemist, who"
+sorcerer_s_stone,HERMIONE,318,Harry! No! You heard what Madame Hooch said. Besides you don't even know how to...fly.
+sorcerer_s_stone,HERMIONE,534,Of course! Here it is!
+deathly_hallows_part2,HERMIONE,250,Tonight? But we have to plan. We have to figure out what --
+deathly_hallows_part2,HERMIONE,436,Did you see where it went? The diadem!
+deathly_hallows_part2,HERMIONE,229,We can’t just stand here! Who’s got an idea?
+deathly_hallows_part2,RON,452,"Find out where he is. If we find him, we find the snake. Then we’re one step closer to ending this."
+deathly_hallows_part2,RON,48,Works for me.
+deathly_hallows_part2,RON,414,Bloody hell. We’ll never find him on this.
+deathly_hallows_part2,RON,230,You’re asking us? You’re the brilliant one.
+chamber_of_secrets,RON,468,Hey... Where's Hermione?
+chamber_of_secrets,RON,152,Who says we're driving?
+chamber_of_secrets,RON,697,"I'm okay. This git's not, though. He got blasted by my wand."
+chamber_of_secrets,RON,322,Crabbe and Goyle must know. Maybe we could trick them into telling...
+chamber_of_secrets,RON,84,"Harry, sir. Harry Potter."
+chamber_of_secrets,RON,471,Yeah. That's better.
+chamber_of_secrets,RON,237,Can you believe him?
+chamber_of_secrets,RON,641,You don't think Lockhart could be
+chamber_of_secrets,HERMIONE,454,Did you get it?
+chamber_of_secrets,HERMIONE,320,I heard him. But Malfoy? The Heir of Slytherin?
+chamber_of_secrets,HERMIONE,253,Ron! Say something!
+chamber_of_secrets,HERMIONE,202,"Mandrake, or Mandragora, is used to return those who have been"
+chamber_of_secrets,HERMIONE,346,"You will be able to, won't you?"
+deathly_hallows_part1,HERMIONE,478,It’s a Muggle station.
+deathly_hallows_part1,HERMIONE,267,"Harry, you can’t just disappear. We thought --"
+deathly_hallows_part1,HERMIONE,432,I don’t like this place.
+deathly_hallows_part1,HERMIONE,287,"Ron! RON! Reluctantly, Ron releases the elf."
+deathly_hallows_part1,HERMIONE,519,"Harry, I’m not sure about this."
+deathly_hallows_part1,HERMIONE,464,"Harry, we weren’t --"
+deathly_hallows_part1,HERMIONE,598,Don’t think this changes anything.
+deathly_hallows_part1,HERMIONE,511,Someone’s watching us. By the gate.
+deathly_hallows_part1,HERMIONE,367,So where do we go next?
+deathly_hallows_part1,RON,457,"Yeah, I thought I did too."
+deathly_hallows_part1,RON,452,"Yeah, I’m still here. But you two carry on. Don’t let me spoil your fun."
+deathly_hallows_part1,RON,273,R... A... B.
+deathly_hallows_part1,RON,651,"Well, yeah, of course. It’s massive, isn’t it?"
+deathly_hallows_part1,RON,372,"I overheard a bloke from the Enforcement office talking about it at the Ministry. Blimey, what’s that smell?"
+deathly_hallows_part1,RON,672,"Yeah, but imagine what a short wicked life you’d lead."
+deathly_hallows_part1,RON,664,Midnight. Mum always said midnight.
+sorcerer_s_stone_all_characters,DUMBLEDORE,13,"Good luck, Harry Potter."
+chamber_of_secrets_speeches,DUMBLEDORE,301,"We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth"
+chamber_of_secrets_speeches,DUMBLEDORE,435,"No, Harry. But I must ask you... is there anything you'd like to tell me. Anything at all?"
+the_order_phoenix,DUMBLEDORE,438,"Ah, I thought we might hit that little snag. You seem to be laboring under the delusion that I am going to--what is the phrase? 'Come quietly.' But I'm afraid I have no intention of going to Azkaban."
+the_order_phoenix,DUMBLEDORE,663,Please. Come in?
+goblet_of_fire_all_speeches,DUMBLEDORE,157,You're absolutely sure?
+goblet_of_fire_all_speeches,DUMBLEDORE,147,The champion from Beauxbatons... Fleur Delacour
+goblet_of_fire_all_speeches,DUMBLEDORE,489,"Oh not necessary Harry the minister and I are done. I'll be back in a moment. Minister, after you. Harry do feel free to indulge in a liquorice snack in my absence, but I have to warn you they're a little bit sharp."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,562,"Harry. You wonderful boy. You brave, brave man. Let us walk."
+deathly_hallows_part2_all_speeches,DUMBLEDORE,518,There will come a time when Harry Potter must be told something. But you must wait until Voldemort
+deathly_hallows_part2_all_speeches,DUMBLEDORE,603,"I have always prized my ability to turn a phrase -- words are, in my not so humble opinion, our most inexhaustible source of magic, capable both of inflicting injury and remedying it. But I would -- in this case -- amend my original statement to this:"
+half_blood_prince_all_speeches,DUMBLEDORE,787,Make it stop... Please... make it stop...
+half_blood_prince_all_speeches,DUMBLEDORE,753,And should I tell you to abandon * me and save yourself... You will do so. *
+half_blood_prince_all_speeches,DUMBLEDORE,228,What you see before you are memories. In this case pertaining to one individual: Voldemort. Or
+half_blood_prince_all_speeches,DUMBLEDORE,784,Don’t... don’t make me...
+half_blood_prince_all_speeches,DUMBLEDORE,253,"Take it out. As Riddle’s fingers touch the box, the flames engulfing"
+half_blood_prince_all_speeches,DUMBLEDORE,828,"Say that again, Draco. But aloud this time."
+half_blood_prince_all_speeches,DUMBLEDORE,814,"Good evening, Draco. What brings you out on such a fine Spring evening? Or is it Summer? Draco stands poised, wand in hand, eyes darting about."
+prisoner_azkaban_all_speeches,DUMBLEDORE,134,"Mm. Yes. First, I'm pleased to welcome Professor R.J. Lupin, who has kindly consented to fill the post of Defense Against the Dark Arts. Good luck to you, Professor."

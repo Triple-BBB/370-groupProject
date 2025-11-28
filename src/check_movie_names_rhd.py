@@ -2,7 +2,7 @@ from pathlib import Path
 import csv
 from collections import Counter
 
-INPUT = Path("data/processed/processed_speeches/final_chars_speeches_non_trivial_RHD.csv")
+INPUT = Path("data/processed/processed_speeches/final_chars_speeches_non_trivial_RHD_normalized.csv")
 
 def main():
     movie_counts = Counter()

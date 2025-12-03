@@ -1,0 +1,890 @@
+annotation_id,movie,character,speech_id,text,annotation_label
+1,sorcerer_s_stone,DUMBLEDORE,1,"I should have known you'd be here,",Duty
+2,sorcerer_s_stone,DUMBLEDORE,5,"I would trust Hagrid with my life, Professor.",Relationship
+3,sorcerer_s_stone,DUMBLEDORE,7,"No problems, I take it, Hagrid?",Informative
+4,sorcerer_s_stone,DUMBLEDORE,11,Exactly. It would be enough to turn,Informative
+5,sorcerer_s_stone,DUMBLEDORE,12,"There, there, Hagrid. It's not eally goodbye, after all.",Relationship
+6,sorcerer_s_stone,DUMBLEDORE,13,"Good luck, Harry Potter.",Relationship
+7,sorcerer_s_stone,DUMBLEDORE,383,"Everyone will please not panic. Prefects, lead your Houses back to the dormitories. Teachers, follow me to the dungeons.",Danger
+8,chamber_of_secrets,DUMBLEDORE,196,"Splendid. Now, I suggest we return to the feast. There's a delicious-looking custard tart I want to sample.",Informative
+9,chamber_of_secrets,DUMBLEDORE,289,"She's not dead, Argus. She's been Petrified.",Magic
+10,chamber_of_secrets,DUMBLEDORE,291,But how she's been Petrified... I cannot say.,Magic
+11,chamber_of_secrets,DUMBLEDORE,299,Innocent until proven guilty.,Storyline
+12,chamber_of_secrets,DUMBLEDORE,301,"We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth",Magic
+13,chamber_of_secrets,DUMBLEDORE,368,There's been another attack.,Danger
+14,chamber_of_secrets,DUMBLEDORE,369,"It means our students are in great danger, Minerva. Mr. Creevey was fortunate. If not for this...",Danger
+15,chamber_of_secrets,DUMBLEDORE,427,About time too. He's been looking dreadful for days. Pity you had,Informative
+16,chamber_of_secrets,DUMBLEDORE,428,"Fascinating creatures, phoenixes.",Magic
+17,chamber_of_secrets,DUMBLEDORE,432,HAGRID! I do not think that Harry has attacked anyone.,Relationship
+18,chamber_of_secrets,DUMBLEDORE,435,"No, Harry. But I must ask you... is there anything you'd like to tell me. Anything at all?",Relationship
+19,chamber_of_secrets,DUMBLEDORE,539,"It's not wise to be wandering around this late, Tom.",Relationship
+20,chamber_of_secrets,DUMBLEDORE,542,"Headmaster Dippet may have no choice, I'm afraid.",Informative
+21,chamber_of_secrets,DUMBLEDORE,544,"Is there something you wish to tell me, Tom?",Relationship
+22,chamber_of_secrets,DUMBLEDORE,545,Very well then. Hurry along.,Duty
+23,chamber_of_secrets,DUMBLEDORE,587,"Good evening, Hagrid.",Relationship
+24,chamber_of_secrets,DUMBLEDORE,590,"I want it understood, Cornelius, that Hagrid has my full confidence.",Relationship
+25,chamber_of_secrets,DUMBLEDORE,602,"Calm yourself, Hagrid!",Danger
+26,chamber_of_secrets,DUMBLEDORE,757,Ingenious. Simply... ingenious.,Informative
+27,chamber_of_secrets,DUMBLEDORE,760,"Wiser wizards than you have been hoodwinked by Lord Voldemort, Miss Weasley. No, I think you've endured enough. I would suggest a bit of bed rest, however. And perhaps a large mug of hot chocolate. I always find that cheers me up. Minerva, will you show Arthur and Molly up to the hospital wing?",Danger
+28,chamber_of_secrets,DUMBLEDORE,762,"You two realize, of course, that in the last few hours, you have broken perhaps a dozen school rules?",Danger
+29,chamber_of_secrets,DUMBLEDORE,763,"Therefore, it seems only fitting...",Informative
+30,chamber_of_secrets,DUMBLEDORE,764,"Now, Mr. Weasley, if you would, have an owl deliver these release papers to Azkaban. We need our gamekeeper back.",Duty
+31,chamber_of_secrets,DUMBLEDORE,765,"First, Harry, I want to thank you. You must have shown me real loyalty down in the Chamber. Nothing but that could have called Fawkes to you. Secondly, I sense you're troubled by something. Am I right?",Relationship
+32,chamber_of_secrets,DUMBLEDORE,767,"You can speak Parseltongue, Harry, because Lord Voldemort can speak Parseltongue. Unless I'm much",Magic
+33,chamber_of_secrets,DUMBLEDORE,769,"Not intentionally, but... yes.",Informative
+34,chamber_of_secrets,DUMBLEDORE,771,"It's true, Harry. You do possess many of the qualities Voldemort himself prizes. Resourcefulness. Determination. A certain disregard for the rules. Yet the",Relationship
+35,chamber_of_secrets,DUMBLEDORE,773,"Exactly. Which makes you very different from Voldemort. It's not our abilities that show what we truly are, Harry. It's our choices.",Relationship
+36,chamber_of_secrets,DUMBLEDORE,775,Only a true Gryffindor could have pulled that out of the Hat.,Magic
+37,chamber_of_secrets,DUMBLEDORE,778,Yes. When the governors heard that Arthur Weasley's daughter had,Storyline
+38,chamber_of_secrets,DUMBLEDORE,780,Oh yes. It was Voldemort. Only,Storyline
+39,chamber_of_secrets,DUMBLEDORE,781,"Fortunately, our young Mr. Potter discovered it.",Storyline
+40,chamber_of_secrets,DUMBLEDORE,798,"Before we begin our feast, let's give a round of applause to",Informative
+41,chamber_of_secrets,DUMBLEDORE,799,"Also, in the wake of recent events, as a school treat, all exams have been cancelled. Everyone cheers, save for Hermione.",Informative
+42,the_order_phoenix,DUMBLEDORE,99,Albus Percival Wulfric Brian Dumbledore.,Informative
+43,the_order_phoenix,DUMBLEDORE,101,I must have missed it. But due to,Duty
+44,the_order_phoenix,DUMBLEDORE,112,"Pardon me, Minister, but as it happens...we can.",Duty
+45,the_order_phoenix,DUMBLEDORE,118,"Oh, I don't think any of us believe",Informative
+46,the_order_phoenix,DUMBLEDORE,120,"That would be disturbing indeed, Madame Undersecretary...which is why I'm confident the Ministry will be making a full inquiry into why two Dementors were so very far",Magic
+47,the_order_phoenix,DUMBLEDORE,121,Cornelius...I implore you to listen to reason. The evidence that the Dark Lord has returned is incontravert--,Danger
+48,the_order_phoenix,DUMBLEDORE,123,In the matter of Harry Potter: the law plainly states that magic may be used before Muggles in life- threatening situations.,Informative
+49,the_order_phoenix,DUMBLEDORE,125,Clearly--if it has become practice to hold a full criminal trial to deal with a simple matter of underage magic.,Mockery
+50,the_order_phoenix,DUMBLEDORE,157,"...We have two changes in staffing this year. We are pleased to welcome back Professor Grubbly- Plank, who will be taking Care of Magical Creatures while Professor",Magic
+51,the_order_phoenix,DUMBLEDORE,158,"...We also wish to welcome our new Defense Against the Dark Arts teacher--Professor Dolores Umbridge. DUMBLEDORE (O.S.) [I'm sure I'm not alone in saying good luck, Professor...]",Magic
+52,the_order_phoenix,DUMBLEDORE,161,"...As usual, our Caretaker Mr. Filch has asked me to remind you--",Informative
+53,the_order_phoenix,DUMBLEDORE,166,"Thank you Professor Umbridge; that was most...illuminating. As I was saying, Mr. Filch has asked me... 31. DUMBLEDORE (O.S.) [...to remind you all that magic is not permitted in corridors between classes, nor are any number of other things, all of which can be checked on the extensive list now fastened to Mr. Filch's office door. First-years ought to know that the Forest in",Magic
+54,the_order_phoenix,DUMBLEDORE,282,"--you have the right to dismiss my teachers. You do not, however,",Relationship
+55,the_order_phoenix,DUMBLEDORE,283,I trust you all have studying to do?,Duty
+56,the_order_phoenix,DUMBLEDORE,371,"...in the dream, were you standing beside the victim, or looking down",Informative
+57,the_order_phoenix,DUMBLEDORE,375,Phineas: I need you to go to your portrait at Grimmauld Place. Tell,Duty
+58,the_order_phoenix,DUMBLEDORE,378,"Yes, Severus. I'm afraid we daren't wait even until morning.",Danger
+59,the_order_phoenix,DUMBLEDORE,438,"Ah, I thought we might hit that little snag. You seem to be laboring under the delusion that I am going to--what is the phrase? 'Come quietly.' But I'm afraid I have no intention of going to Azkaban.",Danger
+60,the_order_phoenix,DUMBLEDORE,645,Harry--,Relationship
+61,the_order_phoenix,DUMBLEDORE,646,"It was foolish of you to come here tonight, Tom. The Aurors are on",Danger
+62,the_order_phoenix,DUMBLEDORE,650,Harry! Stay where you are--!,Danger
+63,the_order_phoenix,DUMBLEDORE,653,Don't fight him Harry! You can't,Danger
+64,the_order_phoenix,DUMBLEDORE,657,Harry...it's not how you are alike--it's how you're not.,Relationship
+65,the_order_phoenix,DUMBLEDORE,663,Please. Come in?,Relationship
+66,the_order_phoenix,DUMBLEDORE,664,Harry...I know how you must be feeling... 135.,Relationship
+67,the_order_phoenix,DUMBLEDORE,665,"No, Harry....the fault is mine.",Relationship
+68,the_order_phoenix,DUMBLEDORE,666,"Harry...as much as it pains me to disillusion you, I am all too fallible...and this war that has now begun may just as easily be lost as won.",Danger
+69,the_order_phoenix,DUMBLEDORE,667,"I knew it was only a matter of time before Voldemort became aware of the connection between you, and tried to exploit it. I thought by distancing myself from you, as I",Danger
+70,goblet_of_fire,DUMBLEDORE,103,"Now we're all settled in and sorted, I'd like to make an announcement. This castle will not only be your home this year but home to some very special guests as well. You see Hogwarts has been choosen...",Storyline
+71,goblet_of_fire,DUMBLEDORE,104,"So Hogwarts has been choosen to host a legendary event. The Tri-Wizard tournament. Now for those of you who do not know, the tri-wizard tournament brings together three schools for a series of magical contests. From each school a single contestant is selected to compete. Now let me be clear, if choosen you stand alone. And trust me when I say these contests are not for the faint hearted, but more of that later. For now please join me in welcoming the lovely ladies of the Beauxbatons Academy of magic",Storyline
+72,goblet_of_fire,DUMBLEDORE,106,"And now our friends from the north, please greet the proud sons of Durmstrang and the high master Igor Karkaroff.",Storyline
+73,goblet_of_fire,DUMBLEDORE,110,"Not to worry Madame Maxime, our gamekeeper Hagrid's more than capable of seeing",Informative
+74,goblet_of_fire,DUMBLEDORE,113,"Your attention please! I would like to say a few words. Eternal glory, that is what awaits the student who wins the tri-wizard tournament. But to do this that student must survive three tasks. Three extremely dangerous tasks.",Danger
+75,goblet_of_fire,DUMBLEDORE,115,For this reason the ministry has seen fit to impose a new rule. To explain all this we have the head of the department of international magic cooperation Mister Bartimus Crouch.,Magic
+76,goblet_of_fire,DUMBLEDORE,117,"My dear old friend, thanks for coming.",Relationship
+77,goblet_of_fire,DUMBLEDORE,123,The goblet of fire. Anyone wishing to submit themselves for the tournament,Storyline
+78,goblet_of_fire,DUMBLEDORE,145,"Sit down please. And now the moment you've all been waiting for, the champions selection!",Informative
+79,goblet_of_fire,DUMBLEDORE,146,The Durmstrang champion is ... Viktor Krum!,Informative
+80,goblet_of_fire,DUMBLEDORE,147,The champion from Beauxbatons... Fleur Delacour,Informative
+81,goblet_of_fire,DUMBLEDORE,148,The Hogwarts champion... Cedric Diggory.,Informative
+82,goblet_of_fire,DUMBLEDORE,149,"Excellent! we now have our three champions! But in the end only one will go down in history. Only one will hoist this chalice of champions, this vessel of victory the tri-wizard cup!",Storyline
+83,goblet_of_fire,DUMBLEDORE,153,Harry! Did you put your name in the goblet of fire?,Informative
+84,goblet_of_fire,DUMBLEDORE,155,Did you ask one of the older students to do it for you?,Informative
+85,goblet_of_fire,DUMBLEDORE,157,You're absolutely sure?,Informative
+86,goblet_of_fire,DUMBLEDORE,160,That doesn't help Alastor. Leave this to you Barty.,Duty
+87,goblet_of_fire,DUMBLEDORE,163,What do you suggest Minerva?,Informative
+88,goblet_of_fire,DUMBLEDORE,165,You heard Barty the rules are clear.,Informative
+89,goblet_of_fire,DUMBLEDORE,167,"I agree with Severus. Alastor, keep an eye on Harry will you?",Duty
+90,goblet_of_fire,DUMBLEDORE,274,"Good day champions. Gather round please. Now you've waited, you've wondered and at last the moment has arrived. The moment only four of you can fully appreciate.",Informative
+91,goblet_of_fire,DUMBLEDORE,275,What are you doing here Miss Granger?,Relationship
+92,goblet_of_fire,DUMBLEDORE,277,Barty. The bag.,Informative
+93,goblet_of_fire,DUMBLEDORE,286,Very well. Good luck champions. Mr Diggory the sound of the cannon...,Informative
+94,goblet_of_fire,DUMBLEDORE,462,Harry!,Relationship
+95,goblet_of_fire,DUMBLEDORE,463,I want all the judges over here now.,Relationship
+96,goblet_of_fire,DUMBLEDORE,472,Attention! Attention! The winner is... Mr Diggory!,Informative
+97,goblet_of_fire,DUMBLEDORE,473,"For showing unique command of the bubblehead shark. The way I see it, Mr Potter would have finished first had it not been",Storyline
+98,goblet_of_fire,DUMBLEDORE,485,"But surely that is what's right, no matter what others think.",Informative
+99,goblet_of_fire,DUMBLEDORE,489,"Oh not necessary Harry the minister and I are done. I'll be back in a moment. Minister, after you. Harry do feel free to indulge in a liquorice snack in my absence, but I have to warn you they're a little bit sharp.",Informative
+100,goblet_of_fire,DUMBLEDORE,503,The counsel is very much aware you have given evidence on this matter. Severus Snape was indeed a deatheater and prior to Lord Voldemort's downfall turned spy for us at great personal risk. Today he's no more a deatheater than I am.,Magic
+101,goblet_of_fire,DUMBLEDORE,516,"Curiosity's not a sin Harry, but you should exercise caution. It's a pensieve, useful if like me you find your mind a wee bit stretched. It allows me to see what small things I've already seen. You see Harry I've searched and searched for something, some small detail. Something I might have overlooked, something that would explain why these terrible things have happened. Every time I get close to an answer it slips away, it's maddedning.",Magic
+102,goblet_of_fire,DUMBLEDORE,519,Have there been other dreams like this?,Relationship
+103,goblet_of_fire,DUMBLEDORE,521,"I think it's unwise for you to linger over these dreams Harry, I think it's best that you simply...",Relationship
+104,goblet_of_fire,DUMBLEDORE,531,Earlier today Professor Moody placed the tri-wizards cup deep within the,Informative
+105,goblet_of_fire,DUMBLEDORE,532,On the count of three... ONE...  The cannon goes off.,Informative
+106,goblet_of_fire,DUMBLEDORE,583,Harry! Harry!,Relationship
+107,goblet_of_fire,DUMBLEDORE,584,Tell me what happened!,Relationship
+108,goblet_of_fire,DUMBLEDORE,586,"It's alright Harry. It's alright, he's home, you both are.",Relationship
+109,goblet_of_fire,DUMBLEDORE,595,Do you know who I am?,Relationship
+110,goblet_of_fire,DUMBLEDORE,596,Are you Alastor Moody? Are ya?,Relationship
+111,goblet_of_fire,DUMBLEDORE,597,Are you alright Alastor?,Danger
+112,goblet_of_fire,DUMBLEDORE,601,Now we know who's been stealing it from your store Severus.,Informative
+113,goblet_of_fire,DUMBLEDORE,602,We'll get you up in a minute.,Informative
+114,goblet_of_fire,DUMBLEDORE,604,Your arm Harry.,Relationship
+115,goblet_of_fire,DUMBLEDORE,606,"Send an owl to Azkaban, think they'll find they're missing a prisoner.",Danger
+116,goblet_of_fire,DUMBLEDORE,608,Perhaps. Personally I've never had much time for heroes.,Relationship
+117,goblet_of_fire,DUMBLEDORE,609,"I never liked these curtains. Set them on fire in my fourth year, by accident of course. I put you in terrible danger this year Harry I'm sorry.",Danger
+118,goblet_of_fire,DUMBLEDORE,611,Priorium Contatum. You saw your parents that night didn't you? They reappeared.,Magic
+119,goblet_of_fire,DUMBLEDORE,612,"No spell can reawaken the dead Harry I trust you know that. Dark and diffiult times lie ahead. Soon we must all face the choice between what is right what is easy. But remember this, you have friends here. You're not alone.",Magic
+120,deathly_hallows_part2,DUMBLEDORE,487,That wasnÃÂ¢ÃÂÃÂt my intention.,Informative
+121,deathly_hallows_part2,DUMBLEDORE,488,"Stand up, Severus. I havenÃÂ¢ÃÂÃÂt much time. What message do you bring from Lord Voldemort this time?",Relationship
+122,deathly_hallows_part2,DUMBLEDORE,489,Is this about the Prophecy?,Magic
+123,deathly_hallows_part2,DUMBLEDORE,491,How much did you relay?,Informative
+124,deathly_hallows_part2,DUMBLEDORE,493,"If she means so much to you, surely Lord Voldemort would spare",Informative
+125,deathly_hallows_part2,DUMBLEDORE,495,You disgust me. You would sacrifice the life of an innocent child over a schoolboy crush?,Relationship
+126,deathly_hallows_part2,DUMBLEDORE,496,"And should I do so, what will you give me in return, Severus?",Relationship
+127,deathly_hallows_part2,DUMBLEDORE,500,"If you loved Lily Evans, Severus. If you truly loved her. Then your way is clear.",Relationship
+128,deathly_hallows_part2,DUMBLEDORE,502,My word that I shall never reveal,Duty
+129,deathly_hallows_part2,DUMBLEDORE,503,"Sometimes we see what we expect to see, Severus. Other teachers indicate the boy is modest, likeable and while no prodigy, possesses above-average gifts. Personally, I find him rather engaging.",Relationship
+130,deathly_hallows_part2,DUMBLEDORE,505,Perhaps. Oh. Severus.,Relationship
+131,deathly_hallows_part2,DUMBLEDORE,507,I was... foolish... greedy...,Relationship
+132,deathly_hallows_part2,DUMBLEDORE,509,For the time being?,Informative
+133,deathly_hallows_part2,DUMBLEDORE,513,"Well, this makes matters much more straightforward.",Informative
+134,deathly_hallows_part2,DUMBLEDORE,514,"Do not ignore me, Severus. Was it not you who told me of Lord VoldemortÃÂ¢ÃÂÃÂs plan to have the Malfoy boy murder me?",Relationship
+135,deathly_hallows_part2,DUMBLEDORE,515,You must agree.,Duty
+136,deathly_hallows_part2,DUMBLEDORE,516,"Yes. You must be the one to kill me, Severus. It is the only way. Only then will the Dark Lord trust you completely.",Duty
+137,deathly_hallows_part2,DUMBLEDORE,518,There will come a time when Harry Potter must be told something. But you must wait until Voldemort,Duty
+138,deathly_hallows_part2,DUMBLEDORE,519,"On the night Lord Voldemort went to GodricÃÂ¢ÃÂÃÂs Hollow to kill Harry, and Lily Potter cast herself",Storyline
+139,deathly_hallows_part2,DUMBLEDORE,520,ThereÃÂ¢ÃÂÃÂs a reason Harry can speak,Storyline
+140,deathly_hallows_part2,DUMBLEDORE,522,Yes. And Voldemort himself must do it. That is essential.,Storyline
+141,deathly_hallows_part2,DUMBLEDORE,524,"But this is touching, Severus. DonÃÂ¢ÃÂÃÂt tell me youÃÂ¢ÃÂÃÂve grown to care for the boy?",Relationship
+142,deathly_hallows_part2,DUMBLEDORE,526,Lily. After all this time?,Relationship
+143,deathly_hallows_part2,DUMBLEDORE,561,You cannot help.,Duty
+144,deathly_hallows_part2,DUMBLEDORE,562,"Harry. You wonderful boy. You brave, brave man. Let us walk.",Relationship
+145,deathly_hallows_part2,DUMBLEDORE,566,"Ah. That is the question, isnÃÂ¢ÃÂÃÂt it? On the whole I think not.",Informative
+146,deathly_hallows_part2,DUMBLEDORE,570,"And that will, I think, have made all the difference. I suspect you now realize that you and Voldemort have been connected by something other than fate since that night in GodricÃÂ¢ÃÂÃÂs Hollow all those years ago, Harry.",Storyline
+147,deathly_hallows_part2,DUMBLEDORE,572,Did. It was just destroyed only moments ago by none other than,Informative
+148,deathly_hallows_part2,DUMBLEDORE,573,"You were the seventh Horcrux,",Magic
+149,deathly_hallows_part2,DUMBLEDORE,575,"Certain? No. Little is certain in this world, Harry. Call it an educated guess. Dumbledore smiles.",Informative
+150,deathly_hallows_part2,DUMBLEDORE,577,Something beyond either of our help.,Informative
+151,deathly_hallows_part2,DUMBLEDORE,579,I was going to ask you that. Where would you say that we are?,Relationship
+152,deathly_hallows_part2,DUMBLEDORE,581,KingÃÂ¢ÃÂÃÂs Cross! Is that right?,Informative
+153,deathly_hallows_part2,DUMBLEDORE,583,"You will have to forgive me, Harry. You see... I didnÃÂ¢ÃÂÃÂt trust you.",Relationship
+154,deathly_hallows_part2,DUMBLEDORE,584,"I feared that you would make the same mistake I made, that you would be intoxicated by the power",Relationship
+155,deathly_hallows_part2,DUMBLEDORE,586,You are the worthy possessor of,Informative
+156,deathly_hallows_part2,DUMBLEDORE,590,True. But ask yourself this: were you calling them? Or were they calling you?,Relationship
+157,deathly_hallows_part2,DUMBLEDORE,592,That is up to you.,Duty
+158,deathly_hallows_part2,DUMBLEDORE,594,"Oh yes. We are in KingÃÂ¢ÃÂÃÂs Cross, you say? I think, should you so decide, you would be able to, letÃÂ¢ÃÂÃÂs say, board a train.",Duty
+159,deathly_hallows_part2,DUMBLEDORE,602,ÃÂ¢ÃÂÃÂHelp will always be given at Hogwarts to those who ask for it.ÃÂ¢ÃÂÃÂ,Informative
+160,deathly_hallows_part2,DUMBLEDORE,603,"I have always prized my ability to turn a phrase -- words are, in my not so humble opinion, our most inexhaustible source of magic, capable both of inflicting injury and remedying it. But I would -- in this case -- amend my original statement to this:",Relationship
+161,deathly_hallows_part2,DUMBLEDORE,605,"IÃÂ¢ÃÂÃÂve never put much stock in miracles, Harry. On the other hand, I can attest wholly to the extensive advantages of a related phenomenon.",Informative
+162,deathly_hallows_part2,DUMBLEDORE,608,"Do not pity the dead, Harry. Pity",Relationship
+163,deathly_hallows_part2,DUMBLEDORE,610,"Actually, if I think about it... it doesnÃÂ¢ÃÂÃÂt seem curious at all.",Informative
+164,deathly_hallows_part2,DUMBLEDORE,613,"Of course it is happening inside your head, Harry. But why should that mean that it is not real?",Relationship
+165,half_blood_prince,DUMBLEDORE,38,I once knew a Muggle girl from Liverpool with hair like spun silk. No light could resist it...,Magic
+166,half_blood_prince,DUMBLEDORE,40,"Rather unpleasant to behold, isnt it? The tale is thrilling if I do say so myself, but Im afraid now is not the time to tell it. Take my arm.",Duty
+167,half_blood_prince,DUMBLEDORE,42,Indeed. And quite successfully I might add. Most people vomit,Relationship
+168,half_blood_prince,DUMBLEDORE,44,"Welcome to the charming village of Budleigh Babberton, Harry. I assume right about now youre wondering why Ive brought you here, am I right?",Relationship
+169,half_blood_prince,DUMBLEDORE,45,"Wand out, Harry.",Magic
+170,half_blood_prince,DUMBLEDORE,46,Lumos...,Magic
+171,half_blood_prince,DUMBLEDORE,49,"I must say, you make a very convincing armchair, Horace.",Mockery
+172,half_blood_prince,DUMBLEDORE,52,"Ah yes. Introductions. Harry, this is an old friend and colleague of mine, Horace Slughorn. Horace, this is, well, you know who this is.",Storyline
+173,half_blood_prince,DUMBLEDORE,53,"So why all the theatrics, Horace? You werent perhaps expecting someone else, were you?",Relationship
+174,half_blood_prince,DUMBLEDORE,56,"Well, I think it should be put",Informative
+175,half_blood_prince,DUMBLEDORE,57,That was fun. May I use the loo? ,Informative
+176,half_blood_prince,DUMBLEDORE,65,Mind if I take this? I do love knitting patterns.,Relationship
+177,half_blood_prince,DUMBLEDORE,67,"I think I know a lost cause when I see one. Regrettable. I would have considered it a personal triumph had you consented to return to Hogwarts, Horace. You are, like my friend Mr. Potter -- one of a kind.",Relationship
+178,half_blood_prince,DUMBLEDORE,70,"You are talented, famous and powerful -- everything Horace values. Professor Slughorn is going to try to collect you, Harry. You would be his crowning",Storyline
+179,half_blood_prince,DUMBLEDORE,71,"I fear I may have stolen a wondrous night from you, Harry.",Relationship
+180,half_blood_prince,DUMBLEDORE,73,"Youll not be going back to Little Whinging tonight, Harry.",Informative
+181,half_blood_prince,DUMBLEDORE,75,Both are waiting for you.,Informative
+182,half_blood_prince,DUMBLEDORE,178,"Professor Slughorn, Im happy to",Relationship
+183,half_blood_prince,DUMBLEDORE,179,"Now, as you know, each and every one of you was searched upon your arrival tonight. You have a right to know why.",Informative
+184,half_blood_prince,DUMBLEDORE,180,"Today, of course, the world knows",Informative
+185,half_blood_prince,DUMBLEDORE,181,"Just something to keep in mind. Now, off to bed. Pip pip!",Relationship
+186,half_blood_prince,DUMBLEDORE,215,"Good evening, Harry. You got my message, I see. Come, come. Sit.",Relationship
+187,half_blood_prince,DUMBLEDORE,216,So. How are you?,Relationship
+188,half_blood_prince,DUMBLEDORE,218,"Enjoying your classes? Professor Slughorn, for one, is most impressed with you.",Relationship
+189,half_blood_prince,DUMBLEDORE,222,And what of your activities,Relationship
+190,half_blood_prince,DUMBLEDORE,224,I notice you spend a great deal of time with Miss Granger. One cant help but wonder if --,Relationship
+191,half_blood_prince,DUMBLEDORE,226,"Forgive me, Harry, I...",Relationship
+192,half_blood_prince,DUMBLEDORE,227,... I was merely curious.,Relationship
+193,half_blood_prince,DUMBLEDORE,228,What you see before you are memories. In this case pertaining to one individual: Voldemort. Or,Magic
+194,half_blood_prince,DUMBLEDORE,229,This vial contains a most particular memory -- of the day I first met him. Id like you to see it. If you would...,Storyline
+195,half_blood_prince,DUMBLEDORE,231,I am not family. But his name has been known to me since birth.,Informative
+196,half_blood_prince,DUMBLEDORE,234,Perhaps you could give me an example.,Informative
+197,half_blood_prince,DUMBLEDORE,236,"How do you do, Tom.",Relationship
+198,half_blood_prince,DUMBLEDORE,239,"As you wish. Riddle looks away and Dumbledore, for the first time,",Relationship
+199,half_blood_prince,DUMBLEDORE,241,No. I am a Professor.,Informative
+200,half_blood_prince,DUMBLEDORE,244,Hogwarts is not a place for mad people.,Informative
+201,half_blood_prince,DUMBLEDORE,245,Its a school. A school of... magic. ,Informative
+202,half_blood_prince,DUMBLEDORE,246,"You can do things, cant you, Tom? Things the other children cant.",Magic
+203,half_blood_prince,DUMBLEDORE,248,"Tell me some of the things you can do, Tom.",Relationship
+204,half_blood_prince,DUMBLEDORE,250,"Im like you, Tom. Different.",Relationship
+205,half_blood_prince,DUMBLEDORE,252,"I think there is something trying to get out of your wardrobe, Tom. Open it. Open. It.",Magic
+206,half_blood_prince,DUMBLEDORE,253,"Take it out. As Riddles fingers touch the box, the flames engulfing",Magic
+207,half_blood_prince,DUMBLEDORE,254,Is there anything in that box you ought not to have?,Relationship
+208,half_blood_prince,DUMBLEDORE,255,"Why did you want these things, Tom?",Relationship
+209,half_blood_prince,DUMBLEDORE,256,"Thievery is not tolerated at Hogwarts. At Hogwarts, you will be taught not only how to use magic, but to control it. Understood?",Magic
+210,half_blood_prince,DUMBLEDORE,258,It is unusual. But not unheard of.,Informative
+211,half_blood_prince,DUMBLEDORE,260,Did I know that I had just met the most dangerous Dark Wizard of all time? No. Had I...,Danger
+212,half_blood_prince,DUMBLEDORE,261,"Over time, while here at Hogwarts,",Informative
+213,half_blood_prince,DUMBLEDORE,263,"No. I did not. You see, Professor Slughorn possesses something I desire very dearly.",Storyline
+214,half_blood_prince,DUMBLEDORE,517,Confused? I would be surprised if you werent.,Informative
+215,half_blood_prince,DUMBLEDORE,519,This is perhaps the most important memory Ive collected. Its also,Informative
+216,half_blood_prince,DUMBLEDORE,520,I suspect he is ashamed of it.,Relationship
+217,half_blood_prince,DUMBLEDORE,523,I asked you to get to know Professor Slughorn and youve done so.,Duty
+218,half_blood_prince,DUMBLEDORE,525,"Youre the Chosen One, Harry. And Horace is, at heart, a decent man. Provide the proper circumstances",Duty
+219,half_blood_prince,DUMBLEDORE,526,"This memory is everything, Harry. Without it, we are blind. Without it, we leave the fate of our world to chance. You have no choice. You must not fail.",Duty
+220,half_blood_prince,DUMBLEDORE,590,"Quick thinking on your part, Harry. Using a Bezoar. You must be very proud of your student, eh, Horace?",Magic
+221,half_blood_prince,DUMBLEDORE,593,"This appears to be a gift, Horace. You dont by chance remember who gave you this bottle, do you -- which by the way possesses remarkably subtle hints of licorice and cherry when not polluted with poison.",Danger
+222,half_blood_prince,DUMBLEDORE,595,To whom might I ask?,Informative
+223,half_blood_prince,DUMBLEDORE,605,"Ah, to be young and feel loves keen sting. Come, everyone, I think Mr. Weasley is well tended.",Relationship
+224,half_blood_prince,DUMBLEDORE,721,"Its a Horcrux, yes. Four years ago, when you saved Ginny Weasleys life in the Chamber of Secrets, when you brought me this --",Magic
+225,half_blood_prince,DUMBLEDORE,723,Belonged to Voldemorts mother. It was difficult to find and...,Storyline
+226,half_blood_prince,DUMBLEDORE,725,One destroys Voldemort.,Duty
+227,half_blood_prince,DUMBLEDORE,727,"True. But magic, especially Dark magic...",Magic
+228,half_blood_prince,DUMBLEDORE,730,Yes. And I think... perhaps... I may have found another. But this time I cannot hope to destroy it alone.,Duty
+229,half_blood_prince,DUMBLEDORE,731,"Once again, I shall ask too much of you.",Duty
+230,half_blood_prince,DUMBLEDORE,745,"Whether it has or hasnt is irrelevant. I will not negotiate this with you, Severus. You agreed. Theres nothing more to discuss.",Relationship
+231,half_blood_prince,DUMBLEDORE,746,"Harry. You need a shave, my friend.",Mockery
+232,half_blood_prince,DUMBLEDORE,747,At times I forget how much youve grown. At times I still see the small boy from the cupboard.,Relationship
+233,half_blood_prince,DUMBLEDORE,749,"Like your mother, you are unfailingly kind.",Relationship
+234,half_blood_prince,DUMBLEDORE,751,"Understand what Im saying. Should I tell you to hide, you must hide.",Duty
+235,half_blood_prince,DUMBLEDORE,752,"Should I tell you to run, you will * run.",Duty
+236,half_blood_prince,DUMBLEDORE,753,And should I tell you to abandon * me and save yourself... You will do so. *,Duty
+237,half_blood_prince,DUMBLEDORE,754,"Your word, Harry.",Duty
+238,half_blood_prince,DUMBLEDORE,756,Take my arm.,Duty
+239,half_blood_prince,DUMBLEDORE,758,Being me has its privileges.,Relationship
+240,half_blood_prince,DUMBLEDORE,760,"This is the place. Oh yes, this place has known magic.",Informative
+241,half_blood_prince,DUMBLEDORE,762,"In order to gain passage, payment must be made, payment intended to weaken any intruder.",Informative
+242,half_blood_prince,DUMBLEDORE,764,"Oh, no, Harry. Your blood is much more precious than mine.",Relationship
+243,half_blood_prince,DUMBLEDORE,765,Careful. The water.,Danger
+244,half_blood_prince,DUMBLEDORE,766,Its there. The only question is how do we get to it?,Informative
+245,half_blood_prince,DUMBLEDORE,770,"If you would, Harry...",Relationship
+246,half_blood_prince,DUMBLEDORE,772,"Only recreationally. You see, I believe one creates ones own luck.",Informative
+247,half_blood_prince,DUMBLEDORE,775,Remember... the water.,Danger
+248,half_blood_prince,DUMBLEDORE,777,Oh yes.,Informative
+249,half_blood_prince,DUMBLEDORE,778,It has to be drunk.,Informative
+250,half_blood_prince,DUMBLEDORE,779,"This potion might paralyze me. It might cause me to forget why Im here. It might create so much pain I beg for relief. You are not to indulge these requests, Harry. It is your job to make sure I keep drinking this potion even if you have to force it down my throat. Understood?",Danger
+251,half_blood_prince,DUMBLEDORE,781,"Because I am much older, much cleverer... and much less valuable.",Relationship
+252,half_blood_prince,DUMBLEDORE,784,Dont... dont make me...,Danger
+253,half_blood_prince,DUMBLEDORE,787,Make it stop... Please... make it stop...,Danger
+254,half_blood_prince,DUMBLEDORE,789,My fault. Its all my fault...,Danger
+255,half_blood_prince,DUMBLEDORE,790,"Too much... I cant... take it... I want... to die... kill... kill me... KILL ME, HARRY!",Danger
+256,half_blood_prince,DUMBLEDORE,792,"Your word, Harry! Your word!",Duty
+257,half_blood_prince,DUMBLEDORE,794,KILL ME! ITS THE ONLY WAY!,Duty
+258,half_blood_prince,DUMBLEDORE,804,We have to... go.,Duty
+259,half_blood_prince,DUMBLEDORE,806,"I am not worried, Harry. I am with you.",Relationship
+260,half_blood_prince,DUMBLEDORE,808,No. Severus... Severus is who I,Storyline
+261,half_blood_prince,DUMBLEDORE,811,Hide yourself below. And do not speak or show yourself without my permission. No matter what.,Duty
+262,half_blood_prince,DUMBLEDORE,812,"Do as I say, Harry.",Duty
+263,half_blood_prince,DUMBLEDORE,814,"Good evening, Draco. What brings you out on such a fine Spring evening? Or is it Summer? Draco stands poised, wand in hand, eyes darting about.",Relationship
+264,half_blood_prince,DUMBLEDORE,816,"I often talk aloud to myself. I find it extraordinarily useful. That which sounds sane at a whisper can seem utterly mad when said for all the world to hear. Havent been whispering to yourself, have you, Draco?",Relationship
+265,half_blood_prince,DUMBLEDORE,817,"You are not an assassin, Draco.",Relationship
+266,half_blood_prince,DUMBLEDORE,819,Like cursing Katie Bell and hoping,Magic
+267,half_blood_prince,DUMBLEDORE,821,Then I shall make it easy for you.,Informative
+268,half_blood_prince,DUMBLEDORE,822,"Well done, Draco. But I warn you. * Killing is not nearly as easy. *",Relationship
+269,half_blood_prince,DUMBLEDORE,823,Youre not alone. Are you. There are others. How?,Relationship
+270,half_blood_prince,DUMBLEDORE,824,That cabinet has been broken for years.,Informative
+271,half_blood_prince,DUMBLEDORE,826,Ingenious. Let me guess. It has,Informative
+272,half_blood_prince,DUMBLEDORE,828,"Say that again, Draco. But aloud this time.",Relationship
+273,half_blood_prince,DUMBLEDORE,830,"Good evening, Bellatrix. I think introductions are in order.",Relationship
+274,prisoner_azkaban,DUMBLEDORE,133,"Welcome! Welcome to another year at Hogwarts! I have a few things to say, before we become befuddled by our excellent feast. I myself am particularly looking forward to",Informative
+275,prisoner_azkaban,DUMBLEDORE,134,"Mm. Yes. First, I'm pleased to welcome Professor R.J. Lupin, who has kindly consented to fill the post of Defense Against the Dark Arts. Good luck to you, Professor.",Magic
+276,prisoner_azkaban,DUMBLEDORE,135,"As some of you may know, Professor Kettleburn, our Care of Magical Creatures teacher for many years, has decided to retire in order to",Magic
+277,prisoner_azkaban,DUMBLEDORE,246,Mr. Filch. Round up the ghosts.,Magic
+278,prisoner_azkaban,DUMBLEDORE,248,Dear lady. Who did this to you?,Danger
+279,prisoner_azkaban,DUMBLEDORE,249,"Secure the castle, Mr. Filch. The rest of you... to the Great Hall.",Danger
+280,prisoner_azkaban,DUMBLEDORE,253,I do not believe a single,Informative
+281,prisoner_azkaban,DUMBLEDORE,254,No... I feel quite confident the castle is safe. And I'm more than willing to let the students return,Informative
+282,prisoner_azkaban,DUMBLEDORE,255,It's astonishing what the body can endure when the mind allows itself to rest.,Informative
+283,prisoner_azkaban,DUMBLEDORE,583,"I do, Miss Granger. But I'm sorry to say the word of three thirteen- year-old wizards will convince few others. A child's voice, however honest and true, is meaningless to those who have forgotten how to listen.",Informative
+284,prisoner_azkaban,DUMBLEDORE,584,"Ah... a shooting star. If ever one was to make a wish, now would be the time. But time, I'm afraid, is precisely our problem...",Informative
+285,prisoner_azkaban,DUMBLEDORE,585,"Mysterious thing, time. Powerful. And, when meddled with... dangerous. Sirius Black is in the topmost cell of the Dark Tower.",Storyline
+286,prisoner_azkaban,DUMBLEDORE,586,"By the way, when in doubt, I find retracing my steps to be a wise place to begin... Good luck.",Relationship
+287,prisoner_azkaban,DUMBLEDORE,627,"I'm quite sure the Minister isn't suggesting that you had anything to do with it, Hagrid. How could you? You've been with us all along.",Relationship
+288,prisoner_azkaban,DUMBLEDORE,629,"Search the skies if you must, Minister. In the meantime, I wouldn't say no to a cup of tea, Hagrid. Or... a large brandy.",Informative
+289,prisoner_azkaban,DUMBLEDORE,684,"By the way, when in doubt, I always find retracing my steps to be a wise place to begin... Good luck.",Relationship
+290,goblet_of_fire,RON,368,Traditional?? They're ancient! I look like my great aunt Tessie.,Mockery
+291,goblet_of_fire,RON,96,"Loads according to Dad, that's what",Informative
+292,goblet_of_fire,RON,52,"Blimey Dad, how far up ARE we?",Mockery
+293,goblet_of_fire,RON,394,Doubt it. He's way too old.,Mockery
+294,goblet_of_fire,RON,214,You're probably just practicing for your next interview I expect.,Mockery
+295,goblet_of_fire,RON,210,Who you talking to?,Relationship
+296,goblet_of_fire,RON,173,"Yeah that's me, Ron Weasley... Harry Potter's stupid friend.",Mockery
+297,goblet_of_fire,RON,116,"Bloody hell, it's Mad-Eye Moody.",Mockery
+298,goblet_of_fire,RON,90,"Just the drewbals, thanks.",Informative
+299,goblet_of_fire,RON,381,No. Absolutely not.,Informative
+300,goblet_of_fire,RON,338,Come on. It's one thing for a bloke to show up alone. For a girl it's just sad.,Mockery
+301,goblet_of_fire,RON,88,"On second thought, just the drewbals.",Magic
+302,goblet_of_fire,RON,359,What else? I ran for it. I'm not cut out for this Harry. I don't know what got into me.,Relationship
+303,goblet_of_fire,RON,313,What are you on about?,Relationship
+304,goblet_of_fire,RON,63,There's no one like Krum. He's like,Relationship
+305,goblet_of_fire,RON,480,We're still misfits.,Mockery
+306,goblet_of_fire,RON,388,He's a Durmstrang. You're fraternising with the enemy.,Magic
+307,goblet_of_fire,RON,171,You know bloody well what.,Mockery
+308,goblet_of_fire,RON,396,Yeah that is what I think.,Informative
+309,goblet_of_fire,RON,335,Now I'm really depressed.,Relationship
+310,goblet_of_fire,RON,366,"Well they're alright. No lace, no dodgy little collar.",Informative
+311,goblet_of_fire,RON,169,Never mind. Doesn't matter. You could have let your best friend know though.,Mockery
+312,goblet_of_fire,RON,310,I told him I'd get him Harry's autograph. Oh look mum's sent me something. Mum sent me a dress??,Relationship
+313,goblet_of_fire,RON,357,"There she was walking by. You know I like it when they walk. I couldn't help it, it just sort of slipped out.",Informative
+314,goblet_of_fire,RON,333,"Well, us and Neville!",Relationship
+315,goblet_of_fire,RON,252,You think so?,Informative
+316,goblet_of_fire,RON,475,Blimey even when you go wrong it turns out right.,Mockery
+317,half_blood_prince,RON,85,Harry? Did someone say Harry?,Relationship
+318,half_blood_prince,RON,561,No. Can you introduce me?,Relationship
+319,half_blood_prince,RON,570,"Hello, darling. Fancy a drink?",Relationship
+320,half_blood_prince,RON,135,Youre barking. What would You- Know-Who want with a sod like Malfoy?,Magic
+321,half_blood_prince,RON,553,Do you think she knows I exist?,Relationship
+322,half_blood_prince,RON,342,What do you suppose Dean sees in,Relationship
+323,half_blood_prince,RON,309,Id like to leave.,Informative
+324,half_blood_prince,RON,279,"Have to admit, thought I was going to miss that last one. Hope Cormacs not taking it too hard.",Relationship
+325,half_blood_prince,RON,134,One of what?,Informative
+326,half_blood_prince,RON,175,"Oi! Turn around, you lunatic.",Mockery
+327,half_blood_prince,RON,737,No. I got an owl from Dad this * morning. The one at Borgin & Burkes? Its still there.,Magic
+328,half_blood_prince,RON,611,Tell me again how I broke up with Lavender?,Relationship
+329,half_blood_prince,RON,115,But Im your brother!,Relationship
+330,half_blood_prince,RON,114,How much for me?,Informative
+331,half_blood_prince,RON,324,Um... Youve got a little...,Informative
+332,half_blood_prince,RON,635,"Still no luck with Slughorn, I take it?",Magic
+333,half_blood_prince,RON,311,That happens to be my sister.,Relationship
+334,half_blood_prince,RON,559,Its no joke! Im in love with,Relationship
+335,half_blood_prince,RON,449,"Its just, well, you cant break an Unbreakable Vow.",Magic
+336,half_blood_prince,RON,274,"Really? Strapping guy like you, youve got a Beaters build, dont you think? Keeper needs to be agile, quick --",Magic
+337,half_blood_prince,RON,92,Youve a bit of...,Informative
+338,half_blood_prince,RON,349,"Hermiones got nice skin. Wouldnt you say? As skin goes, I mean.",Relationship
+339,half_blood_prince,RON,400,"Cmon, Harry. Weve got a game to win.",Magic
+340,half_blood_prince,RON,116,Cmon. Lets go.,Duty
+341,half_blood_prince,RON,562,How do I look?,Informative
+342,half_blood_prince,RON,566,Wheres Romilda?,Relationship
+343,half_blood_prince,RON,408,Whats with the birds?,Informative
+344,half_blood_prince,RON,280,"Has a bit of a thing for you, Hermione. Cormac.",Relationship
+345,half_blood_prince,RON,322,Whatre you playing at?,Mockery
+346,half_blood_prince,RON,174,Don't you worry. He'll be along soon enough,Informative
+347,half_blood_prince,RON,113,How much for this?,Informative
+348,half_blood_prince,RON,550,She could never annoy me. I think... I think I love her.,Relationship
+349,prisoner_azkaban,RON,463,Now behave yourself.,Relationship
+350,prisoner_azkaban,RON,149,Well. He's got a wonky sort of cross -- that's trials and suffering. But this lot here could be the sun -- that's great happiness. So... he's going to suffer but be very happy about it.,Relationship
+351,prisoner_azkaban,RON,580,It's Scabbers who did it!,Magic
+352,prisoner_azkaban,RON,239,Huh? Oh. Yeah. Dead depressing. Hang on. I almost forgot. I got you something wicked at Dervish,Magic
+353,prisoner_azkaban,RON,109,Let me get this straight. Sirius Black escaped from Azkaban to come after you?,Danger
+354,prisoner_azkaban,RON,688,How'd you two get over there? I was just talking to you... over there.,Danger
+355,prisoner_azkaban,RON,112,"Sure -- Of course, no one's ever broken out of Azkaban before and he's a raving, murderous lunatic...",Danger
+356,prisoner_azkaban,RON,286,"There's something else you should know, Harry. Your Nimbus -- when it blew away? -- it sort of landed",Magic
+357,prisoner_azkaban,RON,170,Hagrid. Exactly what is that?,Relationship
+358,prisoner_azkaban,RON,332,Those weasels! Never told me about any Marauder's Map!,Magic
+359,prisoner_azkaban,RON,449,Scabbers! You're alive!,Relationship
+360,prisoner_azkaban,RON,283,You fell off your broom.,Magic
+361,prisoner_azkaban,RON,128,"Well, you sort of went... rigid. We thought maybe you were having a fit or something.",Relationship
+362,prisoner_azkaban,RON,708,"Stand back, I said! I'll take it upstairs if you don't settle!",Danger
+363,prisoner_azkaban,RON,260,"Yeah, we'll call you... if we ever need someone mental.",Mockery
+364,prisoner_azkaban,RON,140,Where'd you come from?,Danger
+365,prisoner_azkaban,RON,482,"It's a trap, Harry. He's the dog. He's an Animagus...",Danger
+366,prisoner_azkaban,RON,106,You know everything. How is it,Informative
+367,prisoner_azkaban,RON,452,Right. Next time I see,Informative
+368,prisoner_azkaban,RON,388,I find it astonishing that someone who prides herself on being so logical can be in such denial.,Mockery
+369,prisoner_azkaban,RON,158,Ancient Runes? Exactly how many classes are you taking this term?,Magic
+370,prisoner_azkaban,RON,391,"Really? Wasn't you had to roll under the bed last night to avoid getting cut to ribbons! A person could die being your friend, Harry!",Danger
+371,prisoner_azkaban,RON,468,Harry!,Relationship
+372,prisoner_azkaban,RON,137,"Good to be home, eh, Harry?",Relationship
+373,prisoner_azkaban,RON,117,There's something moving out there. I think... people are coming aboard.,Informative
+374,prisoner_azkaban,RON,242,"Oh, careful of those, they'll make your...",Danger
+375,prisoner_azkaban,RON,448,I'm not kissing Fang if that's what you're thinking...,Mockery
+376,the_order_phoenix,RON,601,Better keep running.,Mockery
+377,the_order_phoenix,RON,323,"Who are you, and what have you done with Hermione Granger?",Mockery
+378,the_order_phoenix,RON,369,"One person can't feel all that at once, they'd explode!",Mockery
+379,the_order_phoenix,RON,181,"As a matter of fact, I do! So unless you want a fistful of Weasley you'll shut your mouth!",Danger
+380,the_order_phoenix,RON,670,Feast's about to start.,Informative
+381,the_order_phoenix,RON,167,Illuminating? What a load of waffle!,Mockery
+382,the_order_phoenix,RON,607,Department of Mysteries... Got,Magic
+383,the_order_phoenix,RON,453,Whatever it is...it's not a happy sound.,Mockery
+384,the_order_phoenix,RON,264,Wha'? Ah'm 'ungry...,Informative
+385,the_order_phoenix,RON,570,"Maybe you don't have to do this all by yourself, mate.",Relationship
+386,the_order_phoenix,RON,241,"...I'm not asking you to write all of it for me, just...most of it.",Relationship
+387,the_order_phoenix,RON,364,Well? How was it?,Informative
+388,the_order_phoenix,RON,442,...you did everything you could. No one could win against that old hag.,Mockery
+389,the_order_phoenix,RON,298,Look on the bright side--you can't be any worse than old toad-face.,Mockery
+390,the_order_phoenix,RON,473,Are you all right?,Relationship
+391,the_order_phoenix,RON,566,Told 'em I was hungry and wanted,Informative
+392,the_order_phoenix,RON,329,"So, say you really needed a toilet...?",Mockery
+393,the_order_phoenix,RON,306,"Why? Because You-Know-Who is back, you tosspot!",Mockery
+394,the_order_phoenix,RON,444,"Yeah, we talked you into it.",Relationship
+395,sorcerer_s_stone,RON,505,Want to go visit Hagrid?,Relationship
+396,sorcerer_s_stone,RON,277,"Whew! We made it, mate. Can you imagine old McGonagall's face if we were late first day out...",Relationship
+397,sorcerer_s_stone,RON,387,Smells like Fred's socks. Only...worse.,Mockery
+398,sorcerer_s_stone,RON,276,I hate her.,Relationship
+399,sorcerer_s_stone,RON,373,"It'sLevi-ohhhhh-sa. Not Levi-o- saaaah. She's a nightmare,",Mockery
+400,sorcerer_s_stone,RON,691,He'll be torn to pieces..,Danger
+401,sorcerer_s_stone,RON,565,"But it's crazy. And worse, Malfoy, knows.",Relationship
+402,sorcerer_s_stone,RON,542,So Snape wants piles of gold and to live forever. Who wouldn't?,Relationship
+403,sorcerer_s_stone,RON,769,Of course! And now that he's,Informative
+404,sorcerer_s_stone,RON,713,Do you want to stop Snape from getting the Stone or not!,Duty
+405,sorcerer_s_stone,RON,583,A baby that breaths fire.,Magic
+406,sorcerer_s_stone,RON,483,"Well, let's see then. Put it on. ",Informative
+407,sorcerer_s_stone,RON,699,"All right. Harry, you take the empty Bishop's square. HermioneÃÂ¢ÃÂÃÂ you'll be the Queenside castle. As for me...",Magic
+408,sorcerer_s_stone,RON,477,I think we've had a bad influence,Relationship
+409,sorcerer_s_stone,RON,452,"Come on, Hermione...",Relationship
+410,sorcerer_s_stone,RON,342,That's it. We're done for.,Mockery
+411,sorcerer_s_stone,RON,762,D'you think Dumbledore meant for it all to happen? And for you to do it? Sending you your father's cloak and all?,Magic
+412,sorcerer_s_stone,RON,528,'Dumbledore is particularly famous,Relationship
+413,sorcerer_s_stone,RON,526,"All right then, Neville, who shall it be? Me, Hermione, or...",Relationship
+414,sorcerer_s_stone,RON,218,Um...Ron Weasley.,Relationship
+415,sorcerer_s_stone,RON,205,"I've about six of him. Trade you Scabbers though, if you get Agrippa or Ptolemy.",Magic
+416,sorcerer_s_stone,RON,245,Harry? What is it?,Relationship
+417,sorcerer_s_stone,RON,278,That was bloody brilliant!,Informative
+418,sorcerer_s_stone,RON,645,To people. Not us.,Mockery
+419,sorcerer_s_stone,RON,296,Turn it to rum. Actually managed a weak tea yesterday before it...,Informative
+420,sorcerer_s_stone,RON,697,"It's obvious, isn't it? We've got to play our way across the room. Excuse me...are we meant to join you?",Duty
+421,sorcerer_s_stone,RON,609,"But if he comes back, you don't think he'd try to...kill you? Do you?",Danger
+422,sorcerer_s_stone,RON,208,"Well, you can't expect him to hang around all day, can you?",Mockery
+423,sorcerer_s_stone,RON,474,Change of plans. My parents decided to go to Romania to visit my brother Charlie. He's studying dragons there.,Magic
+424,sorcerer_s_stone,RON,472,That's chess. I see you're packed.,Magic
+425,sorcerer_s_stone,RON,652,Wait a minute. He's...,Danger
+426,sorcerer_s_stone,RON,507,"Harry, I know what you're thinking. But don't. There's something not right about that mirror.",Danger
+427,sorcerer_s_stone,RON,538,I know what it meansÃÂ¢ÃÂÃÂ,Mockery
+428,sorcerer_s_stone,RON,385,Not on its own. Trolls are really stupid. Probably Peeves' playing jokes...,Magic
+429,sorcerer_s_stone,RON,560,That's not just a dragon! That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.,Magic
+430,sorcerer_s_stone,RON,192,"IÃÂ¢ÃÂÃÂm Ron, by the way.",Informative
+431,sorcerer_s_stone,RON,665,Wo! ,Informative
+432,sorcerer_s_stone,RON,705,"Yes, Hermione? I think this is going to be exactly like wizard's chess.",Magic
+433,sorcerer_s_stone,RON,391,"Don't worry, Hermione! We're here!",Relationship
+434,sorcerer_s_stone,RON,429,"That's not a broomstick, Harry. That's a Nimbus Two Thousand.",Magic
+435,sorcerer_s_stone,RON,578,"Why bother? Even with Malfoy losing points, Slytherin's a lock for the House Cup. And look. Malfoy knows it.",Storyline
+436,sorcerer_s_stone,RON,399,"No need to kill it, after all.",Informative
+437,sorcerer_s_stone,RON,485,"Harry, do you know what this is? ItÃÂ¢ÃÂÃÂs an invisibility cloak. They're really rare. Who gave you this?",Magic
+438,sorcerer_s_stone,RON,660,Yuck! What's this ruddy stuffÃÂ¢ÃÂÃÂ,Mockery
+439,sorcerer_s_stone,RON,781,"Come on now, Harry.",Relationship
+440,sorcerer_s_stone,RON,190,Mind? Everywhere else is full.,Informative
+441,sorcerer_s_stone,RON,704,You there...d5,Informative
+442,sorcerer_s_stone,RON,521,YouÃÂ¢ÃÂÃÂve got to start standing up to,Relationship
+443,sorcerer_s_stone,RON,640,Trevor! Shh! Go! You shouldn't be here.,Danger
+444,sorcerer_s_stone,RON,661,That was...cool.,Mockery
+445,sorcerer_s_stone,RON,670,What are we going to do now!,Duty
+446,sorcerer_s_stone,RON,519,Crib off you.,Mockery
+447,sorcerer_s_stone,RON,669,Kill us faster? Oh now I can relax.,Mockery
+448,sorcerer_s_stone,RON,611,And to think I've been worrying about my Potions final.,Magic
+449,sorcerer_s_stone,RON,410,"Take a bit of toast, mate. Go on.",Relationship
+450,deathly_hallows_part2,RON,178,"Harry, what do we do? Harry...?",Duty
+451,deathly_hallows_part2,RON,529,"We thought youÃÂ¢ÃÂÃÂd gone to the forest, we thought you might be --",Relationship
+452,deathly_hallows_part2,RON,334,So we were thinking --,Relationship
+453,deathly_hallows_part2,RON,239,I say we jump!,Storyline
+454,deathly_hallows_part2,RON,306,"Shut up, Seamus.",Mockery
+455,deathly_hallows_part2,RON,157,What dÃÂ¢ÃÂÃÂyou think?,Relationship
+456,deathly_hallows_part2,RON,137,You heard Ollivander. ItÃÂ¢ÃÂÃÂs HarryÃÂ¢ÃÂÃÂs now.,Relationship
+457,deathly_hallows_part2,RON,201,No. ItÃÂ¢ÃÂÃÂs not possible...,Danger
+458,deathly_hallows_part2,RON,439,RUN! GoyleÃÂ¢ÃÂÃÂs set the bloody place on fire!,Danger
+459,deathly_hallows_part2,RON,140,"How will we know what it is when we get in there? After all, a Horcrux can be anything.",Storyline
+460,deathly_hallows_part2,RON,253,Maybe itÃÂ¢ÃÂÃÂs because of the,Informative
+461,deathly_hallows_part2,RON,446,"IF WE DIE FOR THEM, IÃÂ¢ÃÂÃÂLL KILL YOU, HARRY!",Danger
+462,deathly_hallows_part2,RON,246,Never mind! What did you see?,Storyline
+463,deathly_hallows_part2,RON,30,Harry! WhatÃÂ¢ÃÂÃÂre we going to do? We canÃÂ¢ÃÂÃÂt just leave Hermione alone,Relationship
+464,deathly_hallows_part2,RON,659,I need to tell you something!,Duty
+465,deathly_hallows_part2,RON,189,WhatÃÂ¢ÃÂÃÂs that? Up ahead.,Informative
+466,deathly_hallows_part2,RON,236,That was brilliant! BRILLIANT!,Informative
+467,deathly_hallows_part2,RON,37,"We have to do something, Harry!",Duty
+468,deathly_hallows_part2,RON,112,And if we find one? HowÃÂ¢ÃÂÃÂre we supposed to destroy it if weÃÂ¢ÃÂÃÂve given Griphook the sword?,Duty
+469,deathly_hallows_part2,RON,533,Rubbish! You canÃÂ¢ÃÂÃÂt just give,Mockery
+470,deathly_hallows_part2,RON,677,"IÃÂ¢ÃÂÃÂm just saying. ThatÃÂ¢ÃÂÃÂs the Elder Wand! ItÃÂ¢ÃÂÃÂs the most powerful bloody wand in the world! With that, we could, we could --",Magic
+471,deathly_hallows_part2,RON,164,Bloody hell... thatÃÂ¢ÃÂÃÂs a sight.,Mockery
+472,deathly_hallows_part2,RON,50,Shell Cottage on the outskirts of Tinworth.,Informative
+473,deathly_hallows_part2,RON,336,"You destroyed Tom RiddleÃÂ¢ÃÂÃÂs Diary with a Basilisk fang, right? Well, we know where we might find one, donÃÂ¢ÃÂÃÂt we?",Magic
+474,deathly_hallows_part2,RON,279,I donÃÂ¢ÃÂÃÂt remember this being on the MarauderÃÂ¢ÃÂÃÂs Map.,Magic
+475,deathly_hallows_part2,RON,94,Then youÃÂ¢ÃÂÃÂre on our side.,Relationship
+476,deathly_hallows_part2,RON,300,Excuse me. But would someone tell me: whatÃÂ¢ÃÂÃÂs a bloody diadem?,Magic
+477,deathly_hallows_part2,RON,414,Bloody hell. WeÃÂ¢ÃÂÃÂll never find him on this.,Storyline
+478,deathly_hallows_part2,RON,62,Expelliarmus!,Magic
+479,deathly_hallows_part2,RON,133,YouÃÂ¢ÃÂÃÂre sure itÃÂ¢ÃÂÃÂs hers?,Informative
+480,deathly_hallows_part2,RON,449,YouÃÂ¢ÃÂÃÂre bloody well welcome!,Mockery
+481,chamber_of_secrets,RON,553,What? What's happened...?,Informative
+482,chamber_of_secrets,RON,409,Exactly. And now the whole,Informative
+483,chamber_of_secrets,RON,749,You're alive. I can't believe it.,Mockery
+484,chamber_of_secrets,RON,471,Yeah. That's better.,Informative
+485,chamber_of_secrets,RON,167,Take my hand!,Danger
+486,chamber_of_secrets,RON,217,Bloody bird's a menace -- Oh... no.,Danger
+487,chamber_of_secrets,RON,461,Harry?,Danger
+488,chamber_of_secrets,RON,660,You're the Defense Against the Dark Arts teacher! You can't go now!,Magic
+489,chamber_of_secrets,RON,505,"'To Miss Granger. Wishing you a speedy recovery, from your concerned teacher Gilderoy Lockhart.' You sleep with this under your pillow?",Mockery
+490,chamber_of_secrets,RON,373,"Enlighten me. Why are we brewing this potion in broad daylight, in the middle of a girls' lavatory? Don't you think we'll get caught?",Magic
+491,chamber_of_secrets,RON,183,What kind of tree is this?,Informative
+492,chamber_of_secrets,RON,470,Don't swing your arms like that.,Mockery
+493,chamber_of_secrets,RON,610,They're heading into the Dark Forest.,Magic
+494,chamber_of_secrets,RON,578,But you heard McGonagall. We're not allowed to leave the tower except for class --,Relationship
+495,chamber_of_secrets,RON,565,"Hey, Ginny! Going to the match?",Relationship
+496,chamber_of_secrets,RON,179,STOP! STOP! STOP!,Danger
+497,chamber_of_secrets,RON,570,"That's Hermione. When in doubt, go to the library",Mockery
+498,chamber_of_secrets,RON,246,Those are Nimbus Two Thousand Ones.,Magic
+499,chamber_of_secrets,RON,327,Wicked! Malfoy'll tell us anything!,Relationship
+500,chamber_of_secrets,RON,556,We don't even know this Riddle.,Relationship
+501,chamber_of_secrets,RON,525,Tin Marvolo Riddle? Hang on. I know that name...,Storyline
+502,chamber_of_secrets,RON,319,"Of course! You heard him: 'You'll be next, Mudbloods'!",Magic
+503,chamber_of_secrets,RON,382,What's the fun in that?,Mockery
+504,chamber_of_secrets,RON,460,Think I'm gonna be sick...,Informative
+505,chamber_of_secrets,RON,398,You're a Parselmouth! Why didn't you tell us?,Relationship
+506,chamber_of_secrets,RON,152,Who says we're driving?,Mockery
+507,chamber_of_secrets,RON,200,I should think you'd mind your own business.,Relationship
+508,chamber_of_secrets,RON,186,Dad's going to kill me.,Relationship
+509,chamber_of_secrets,RON,81,Dad works at the Ministry of Magic. In the Misuse of Muggle Artefacts Office.,Magic
+510,chamber_of_secrets,RON,302,A Squib's someone who's born into a wizarding family but hasn't got,Magic
+511,chamber_of_secrets,RON,67,"Hold on, Harry!",Relationship
+512,chamber_of_secrets,RON,500,Is that thing ever going away?,Storyline
+513,chamber_of_secrets,RON,748,Ginny!,Relationship
+514,chamber_of_secrets,RON,191,"Honestly, Professor Snape, I think it did more damage to us.",Mockery
+515,chamber_of_secrets,RON,574,Hermione!,Relationship
+516,chamber_of_secrets,RON,694,Bloody hell. Whatever shed this must be twenty feet long. Or more.,Magic
+517,chamber_of_secrets,RON,61,"Hiya, Harry.",Relationship
+518,chamber_of_secrets,RON,82,"That's when wizards bewitch something to drive Muggles mad. Shrinking door keys, that kind of thing. Dad loves Muggles. Thinks they're fascinating.",Magic
+519,chamber_of_secrets,RON,517,Fifty points if you can get it,Storyline
+520,chamber_of_secrets,RON,78,"Ginny. Been talking about you all summer. Dead annoying, really.",Relationship
+521,chamber_of_secrets,RON,567,No... don't tell me...,Danger
+522,chamber_of_secrets,RON,608,What are you doing?,Relationship
+523,chamber_of_secrets,RON,70,"By the way, Harry. Happy Birthday.",Relationship
+524,chamber_of_secrets,RON,282,What's that? Hanging underneath?,Informative
+525,chamber_of_secrets,RON,558,"That'd be a cheerful visit. Hullo, Hagrid. Tell us, have you been setting anything mad and hairy loose in the castle lately?",Relationship
+526,chamber_of_secrets,RON,459,Ugh. Essence of Crabbe...,Relationship
+527,chamber_of_secrets,RON,195,"Well, you're going to expel us, aren't you?",Storyline
+528,chamber_of_secrets,RON,225,'What is Gilderoy Lockhart's greatest achievement to date?',Informative
+529,chamber_of_secrets,RON,440,"Okay, so half the school thinks you're nipping off to the Chamber of Secrets every night. Who cares?",Magic
+530,chamber_of_secrets,RON,679,"Say something, Harry. Say something in Parseltongue.",Magic
+531,chamber_of_secrets,RON,668,Is there anything you can do?,Mockery
+532,chamber_of_secrets,RON,154,"Look, who knows when Mum and Dad will get back. And we've got to get to school, haven't we? And even underage wizards are allowed to use magic if it's an absolute emergency. Least that's what Fred",Relationship
+533,chamber_of_secrets,RON,754,What's with the bird?,Danger
+534,chamber_of_secrets,RON,611,Why spiders. Why couldn't it be 'Follow the butterflies'?,Mockery
+535,chamber_of_secrets,RON,472,What are you doing here?,Danger
+536,chamber_of_secrets,RON,329,Hang on now. I'm drinking nothing with Crabbe's toenails in it.,Magic
+537,chamber_of_secrets,RON,175,IT'S NOT WORKING!,Danger
+538,chamber_of_secrets,RON,145,We better hurry.,Duty
+539,chamber_of_secrets,RON,622,Harry...,Relationship
+540,chamber_of_secrets,RON,376,Who's Moaning Myrtle?,Storyline
+541,chamber_of_secrets,RON,313,Three glasses who?,Relationship
+542,deathly_hallows_part1,RON,475,Fine. I get it. I saw you two,Relationship
+543,deathly_hallows_part1,RON,469,NO! YOU DONÃÂ¢ÃÂÃÂT KNOW WHAT ITÃÂ¢ÃÂÃÂS LIKE! YOUR PARENTS ARE DEAD! YOU HAVE NO FAMILY!,Relationship
+544,deathly_hallows_part1,RON,570,"And we did, didnÃÂ¢ÃÂÃÂt we?",Duty
+545,deathly_hallows_part1,RON,689,That treacherous old bleeder! Is there no one we can trust!,Relationship
+546,deathly_hallows_part1,RON,142,"TonightÃÂ¢ÃÂÃÂs not the night, mate. YouÃÂ¢ÃÂÃÂd only be doing him a favor.",Relationship
+547,deathly_hallows_part1,RON,654,"Yeah, all right...",Informative
+548,deathly_hallows_part1,RON,640,Keep off the dirigible plums.,Mockery
+549,deathly_hallows_part1,RON,639,Luna?,Relationship
+550,deathly_hallows_part1,RON,172,"Mum used to read me those! The Wizard and the Hopping Pot,",Relationship
+551,deathly_hallows_part1,RON,143,Do you think he knows?,Relationship
+552,deathly_hallows_part1,RON,467,"Do you know why I listen to that radio, every night? Do you! To make sure I donÃÂ¢ÃÂÃÂt hear GinnyÃÂ¢ÃÂÃÂs name or Fred or George or Mum or --",Relationship
+553,deathly_hallows_part1,RON,428,"Yeah. Brilliant. Only, correct me if IÃÂ¢ÃÂÃÂm wrong... wasnÃÂ¢ÃÂÃÂt that yesterdayÃÂ¢ÃÂÃÂs plan? And the day before that? And the day before that? Walk. Sleep. Walk. Sleep.",Mockery
+554,deathly_hallows_part1,RON,173,"Oh, cÃÂ¢ÃÂÃÂmon! BeedleÃÂ¢ÃÂÃÂs stories are famous! Babbity Rabbitty? No...?",Relationship
+555,deathly_hallows_part1,RON,348,Long story. Nice meeting you.,Relationship
+556,deathly_hallows_part1,RON,257,"WeÃÂ¢ÃÂÃÂve got to get off the streets, get somewhere safe.",Danger
+557,deathly_hallows_part1,RON,672,"Yeah, but imagine what a short wicked life youÃÂ¢ÃÂÃÂd lead.",Mockery
+558,deathly_hallows_part1,RON,605,"It doesn't just turn off lights. I don't know exactly how it works, but Christmas morning I -- I was sleeping -- in this little pub-- I'd given some Snatchers the slip",Danger
+559,deathly_hallows_part1,RON,564,No. I reckoned it was you.,Relationship
+560,deathly_hallows_part1,RON,230,"They were after you, mate. WeÃÂ¢ÃÂÃÂd just put everyone in danger going back.",Danger
+561,deathly_hallows_part1,RON,710,Piss off! Arthur WeasleyÃÂ¢ÃÂÃÂs ten times the wizard you are!,Relationship
+562,deathly_hallows_part1,RON,252,CanÃÂ¢ÃÂÃÂt be. The Trace breaks at seventeen. ItÃÂ¢ÃÂÃÂs Wizarding law.,Magic
+563,deathly_hallows_part1,RON,373,Not bloody likely. Smells like something Ginny would cook.,Mockery
+564,deathly_hallows_part1,RON,690,IÃÂ¢ÃÂÃÂll do the enchantments.,Magic
+565,deathly_hallows_part1,RON,676,Not like HarryÃÂ¢ÃÂÃÂs. IÃÂ¢ÃÂÃÂve seen a fair few. Dad used to bring home,Relationship
+566,deathly_hallows_part1,RON,145,"What IÃÂ¢ÃÂÃÂm saying is, if we do this thing right, if we find the Horcruxes and begin to destroy",Storyline
+567,deathly_hallows_part1,RON,562,"Well, yeah. Bit obvious, I'd think.",Mockery
+568,deathly_hallows_part1,RON,610,My name. Just my name. Like a whisper.,Informative
+569,deathly_hallows_part1,RON,670,"YouÃÂ¢ÃÂÃÂre supposed to say the Cloak, but who wants to spend all day being invisible. Dead boring if you ask me. But an unbeatable wand!",Magic
+570,deathly_hallows_part1,RON,679,For the tea.,Relationship
+571,deathly_hallows_part1,RON,14,CÃÂ¢ÃÂÃÂmon. MumÃÂ¢ÃÂÃÂs got dinner ready.,Relationship
+572,deathly_hallows_part1,RON,169,Dumbledore left this? For me? Brilliant. Er -- what is it?,Relationship
+573,deathly_hallows_part1,RON,313,Right. So letÃÂ¢ÃÂÃÂs do it. Who gets * who? *,Duty
+574,deathly_hallows_part1,RON,247,YouÃÂ¢ÃÂÃÂre the boss.,Relationship
+575,deathly_hallows_part1,RON,708,Weasley...,Informative
+576,deathly_hallows_part1,RON,614,"I could feel it inside me. It was warm, like the first sip of a good cup of tea. And I knew it would take me where I needed to go.",Storyline
+577,deathly_hallows_part1,RON,592,Wo -- hey -- ouch!,Danger
+578,deathly_hallows_part1,RON,647,ArenÃÂ¢ÃÂÃÂt you the one who keeps,Relationship
+579,deathly_hallows_part1,RON,560,Are -- you -- mental?,Mockery
+580,deathly_hallows_part1,RON,260,What was that about?,Informative
+581,deathly_hallows_part1,RON,633,But what does it mean?,Informative
+582,deathly_hallows_part1,RON,112,Hey ya -- Well... thanks.,Relationship
+583,deathly_hallows_part1,RON,161,Dumbledore? And me? I dunno. I reckon I was just another Weasley,Relationship
+584,deathly_hallows_part1,RON,636,"Sorry, Harry. Looks like itÃÂ¢ÃÂÃÂs",Relationship
+585,deathly_hallows_part1,RON,11,What are those?,Relationship
+586,deathly_hallows_part1,RON,619,"Bloody hell. I just realized. You need a wand, right?",Magic
+587,deathly_hallows_part1,RON,226,"YouÃÂ¢ÃÂÃÂre amazing, you are.",Relationship
+588,deathly_hallows_part1,RON,465,"DonÃÂ¢ÃÂÃÂt lie! You said it, too, you said you were disappointed --",Relationship
+589,deathly_hallows_part1,RON,308,Piece of advice. LetÃÂ¢ÃÂÃÂs not rehash old times. Got it... mate?,Relationship
+590,goblet_of_fire,HERMIONE,268,Pssst! Harry? Is that you?,Relationship
+591,goblet_of_fire,HERMIONE,385,Hot isn't it? Viktor's gone to get drinks. Care to join us?,Relationship
+592,goblet_of_fire,HERMIONE,409,"I mean these tasks are supposed to test you, in the most brutal way they're almost cruel. And um, I'm scared for you. You got by the dragon mostly on nerve, I'm not sure it's going to be enough this time.",Magic
+593,goblet_of_fire,HERMIONE,469,Are you alright? You must be freezing! Personally I think you behaved admirably.,Relationship
+594,goblet_of_fire,HERMIONE,397,You know the solution then don't you.,Mockery
+595,goblet_of_fire,HERMIONE,130,"There's a reason those curses are unforgivable,",Magic
+596,goblet_of_fire,HERMIONE,138,You see this? This is an age line. Dumbledore drew it himself.,Mockery
+597,goblet_of_fire,HERMIONE,622,Promise you'll write this summer. Both of you.,Relationship
+598,goblet_of_fire,HERMIONE,140,So a genius like Dumbledore couldn't possibly be fooled by something pathetically dimwitted such as an age potion.,Magic
+599,goblet_of_fire,HERMIONE,15,Wake up. Wake up Ronald!,Relationship
+600,goblet_of_fire,HERMIONE,407,"I wouldn't know, we didn't actually talk about the tournament. Actually we didn't really talk at all, Viktor's more of a physical being. I just mean",Relationship
+601,goblet_of_fire,HERMIONE,428,"Harry, tell me again.",Relationship
+602,goblet_of_fire,HERMIONE,276,Oh um.. Sorry I'll just go.,Relationship
+603,goblet_of_fire,HERMIONE,471,Next to last.,Mockery
+604,goblet_of_fire,HERMIONE,399,"Next time there's a ball pluck up the courage and ask me before somebody else does, and not as a last resort.",Relationship
+605,goblet_of_fire,HERMIONE,432,"Again obvious, though I must admit potentially problematic",Mockery
+606,goblet_of_fire,HERMIONE,220,Ronald would like me to tell you that,Relationship
+607,goblet_of_fire,HERMIONE,223,Dean was told by Parvati that... Please don't ask me say it again. Hagrid's looking for you.,Relationship
+608,goblet_of_fire,HERMIONE,620,Everything's going to change now isn't it?,Relationship
+609,goblet_of_fire,HERMIONE,387,What's got your wand in a knot?,Magic
+610,goblet_of_fire,HERMIONE,95,"This is horrible, how can the ministry not know who conjured it. Isn't there any security or?",Danger
+611,goblet_of_fire,HERMIONE,11,Are you alright?,Relationship
+612,goblet_of_fire,HERMIONE,355,No of course.,Informative
+613,half_blood_prince,HERMIONE,192,"Granger, sir. That one there is Veritaserum. And that would be Polyjuice Potion. And that...",Magic
+614,half_blood_prince,HERMIONE,614,"Does, doesnt she? And you say you dont remember a thing from that night? Not one thing?",Mockery
+615,half_blood_prince,HERMIONE,193,... is Amortentia! The most powerful love potion in the world.,Magic
+616,half_blood_prince,HERMIONE,119,How is it Fred and George are doing it? Half the alleys closed down.,Relationship
+617,half_blood_prince,HERMIONE,426,"Hm? Oh, Ive just escaped -- I mean, left Cormac. Under the mistletoe.",Relationship
+618,half_blood_prince,HERMIONE,734,If one wants it to be. Why?,Informative
+619,half_blood_prince,HERMIONE,500,What would Draco want with a Vanishing Cabinet?,Magic
+620,half_blood_prince,HERMIONE,617,Thats Katie. Thats Katie Bell.,Informative
+621,half_blood_prince,HERMIONE,284,"Id like to know just whose book that was. Lets take a look, shall we?",Informative
+622,half_blood_prince,HERMIONE,328,Ill get someone --,Informative
+623,half_blood_prince,HERMIONE,133,"Stop, Harry, I know where youre going with this --",Relationship
+624,half_blood_prince,HERMIONE,405,You didnt put it in?,Informative
+625,half_blood_prince,HERMIONE,637,Well? How do you feel?,Relationship
+626,half_blood_prince,HERMIONE,406,Charms spell. Just practicing.,Magic
+627,half_blood_prince,HERMIONE,732,Harry. Its time.,Duty
+628,half_blood_prince,HERMIONE,98,Theres been a lot of chatter,Informative
+629,half_blood_prince,HERMIONE,428,I thought it would annoy Ron most.,Relationship
+630,half_blood_prince,HERMIONE,120,Oh no. Look.,Informative
+631,half_blood_prince,HERMIONE,360,My parents are dentists. They tend to peoples teeth.,Relationship
+632,half_blood_prince,HERMIONE,498,So tell me what Arthur said.,Informative
+633,half_blood_prince,HERMIONE,602,"Hes been poisoned, you daft dimbo! And for the record, Ive",Danger
+634,half_blood_prince,HERMIONE,609,Ron. Stop. Youre making it snow.,Magic
+635,half_blood_prince,HERMIONE,397,"Dont drink that, Ron! ",Danger
+636,half_blood_prince,HERMIONE,297,"Stinksap? Youre not sick, are you?",Danger
+637,half_blood_prince,HERMIONE,288,"For weeks you carry around this book, practically sleep with it... and you have no desire to find out who The Half-Blood Prince is?",Storyline
+638,half_blood_prince,HERMIONE,209,No. The instructions specifically say to cut.,Informative
+639,half_blood_prince,HERMIONE,429,No thank you.,Informative
+640,half_blood_prince,HERMIONE,608,Oh shut up.,Mockery
+641,half_blood_prince,HERMIONE,543,Thats... not possible. No one can leave the castle these days.,Danger
+642,half_blood_prince,HERMIONE,740,What if there are?,Informative
+643,half_blood_prince,HERMIONE,136,I told you. I dont know what I saw.,Informative
+644,half_blood_prince,HERMIONE,295,"Whatve you got there, Hagrid?",Relationship
+645,prisoner_azkaban,HERMIONE,564,Harry!,Relationship
+646,prisoner_azkaban,HERMIONE,439,That felt good.,Informative
+647,prisoner_azkaban,HERMIONE,683,We have to go.,Informative
+648,prisoner_azkaban,HERMIONE,125,"It was searching the train, Harry. For Sirius Black.",Storyline
+649,prisoner_azkaban,HERMIONE,77,"You know, the ancient Egyptians of",Informative
+650,prisoner_azkaban,HERMIONE,714,It's a mystery. Though... this fell out of the wrapping.,Informative
+651,prisoner_azkaban,HERMIONE,635,Here comes Snape.,Informative
+652,prisoner_azkaban,HERMIONE,611,Fudge is coming and... we're not leaving... why aren't we leaving?,Relationship
+653,prisoner_azkaban,HERMIONE,141,Me? I've been here all along.,Informative
+654,prisoner_azkaban,HERMIONE,672,Quiet! I'm trying to think.,Relationship
+655,prisoner_azkaban,HERMIONE,599,Hurry! Malfoy's coming!,Relationship
+656,prisoner_azkaban,HERMIONE,320,Should we move a bit closer?,Informative
+657,prisoner_azkaban,HERMIONE,591,Seven-thirty. Where were we at seven-thirty?,Informative
+658,prisoner_azkaban,HERMIONE,389,Harry. Will you explain to your,Duty
+659,prisoner_azkaban,HERMIONE,184,"Hagrid. He's got to be taken to a hospital. I'll go with you, if you like --",Relationship
+660,prisoner_azkaban,HERMIONE,460,"Nothing, I just thought I saw... Never mind.",Informative
+661,prisoner_azkaban,HERMIONE,120,"Harry? Harry, are you all right?",Relationship
+662,prisoner_azkaban,HERMIONE,335,That's Madam Rosmerta. Ron,Relationship
+663,prisoner_azkaban,HERMIONE,467,I've got you --,Relationship
+664,prisoner_azkaban,HERMIONE,396,"You mustn't blame yourself, Hagrid.",Relationship
+665,prisoner_azkaban,HERMIONE,199,Boggarts are shape-shifters.,Magic
+666,prisoner_azkaban,HERMIONE,547,Don't worry. He's under the Somnambulist Charm. It's primarily used to transport the seriously deranged.,Magic
+667,prisoner_azkaban,HERMIONE,606,"No! Fudge has to see Buckbeak before we steal him. Otherwise,",Magic
+668,prisoner_azkaban,HERMIONE,432,I can't believe they're going to kill Buckbeak! It's too horrible.,Magic
+669,prisoner_azkaban,HERMIONE,598,Yes. Dumbledore wanted us to return to this moment. Clearly something happened he wants us to change.,Duty
+670,prisoner_azkaban,HERMIONE,670,Dunamis! Liberare! Annihilare! Emancipare! No. No. No. No.,Magic
+671,prisoner_azkaban,HERMIONE,608,"No, Harry! You can't!",Duty
+672,prisoner_azkaban,HERMIONE,618,"Now, Harry!",Duty
+673,prisoner_azkaban,HERMIONE,157,"Death omens. Honestly. If you ask me, Divination's a very wooly discipline. Now Ancient Runes. That's a fascinating subject.",Magic
+674,prisoner_azkaban,HERMIONE,188,Yes. But I hear Draco's father's furious. I don't think we've heard the end of this...,Relationship
+675,prisoner_azkaban,HERMIONE,650,It's happened. Lupin's transformed.,Magic
+676,prisoner_azkaban,HERMIONE,159,A fair few.,Informative
+677,prisoner_azkaban,HERMIONE,664,"HARRY, NO!",Danger
+678,prisoner_azkaban,HERMIONE,198,No one knows.,Informative
+679,prisoner_azkaban,HERMIONE,392,"How'd it go, Hagrid?",Informative
+680,prisoner_azkaban,HERMIONE,668,Out of the way!,Duty
+681,prisoner_azkaban,HERMIONE,610,Yes! You Must!,Duty
+682,prisoner_azkaban,HERMIONE,596,"This is a Time-Turner, Harry. McGonagall gave it to me first term. This is how I've been getting to my lessons all year.",Magic
+683,prisoner_azkaban,HERMIONE,461,Ron! No!,Danger
+684,prisoner_azkaban,HERMIONE,238,"But, I mean, after awhile, it got a bit boring. Don't you think, Ron?",Relationship
+685,prisoner_azkaban,HERMIONE,577,No. It's worse. Much worse. You go on living. But you have no memory. No sense of self. You're just a shall. An empty shell...,Relationship
+686,prisoner_azkaban,HERMIONE,453,I meant me.,Duty
+687,prisoner_azkaban,HERMIONE,689,"What d'you think, Harry? Too much",Relationship
+688,prisoner_azkaban,HERMIONE,493,Since Professor Snape set the essay.,Duty
+689,prisoner_azkaban,HERMIONE,646,Here we come.,Informative
+690,prisoner_azkaban,HERMIONE,384,That's a lie!,Informative
+691,prisoner_azkaban,HERMIONE,637,'Least someone's enjoying himself.,Mockery
+692,prisoner_azkaban,HERMIONE,522,Harry. You attacked a teacher.,Relationship
+693,prisoner_azkaban,HERMIONE,105,C'mon. We're in here.,Informative
+694,the_order_phoenix,HERMIONE,150,"Nothing's pulling the carriage, Harry. It's pulling itself--like always.",Magic
+695,the_order_phoenix,HERMIONE,472,Grawp. GRAWP. Listen. Carefully: Put. Me. DOWN.,Danger
+696,the_order_phoenix,HERMIONE,318,You're right Harry. We don't. That's why we need your help. Because if we're to have any chance of beating V-Voldemort...,Danger
+697,the_order_phoenix,HERMIONE,599,Ron--!,Duty
+698,the_order_phoenix,HERMIONE,252,Then help us to.,Duty
+699,the_order_phoenix,HERMIONE,53,--and this hearing at the Ministry--it's just outrageous!,Magic
+700,the_order_phoenix,HERMIONE,51,HARRY--!,Duty
+701,the_order_phoenix,HERMIONE,296,We've got to be able to defend ourselves. And if Umbridge refuses to teach us how...,Duty
+702,the_order_phoenix,HERMIONE,168,There was important stuff hidden in that waffle.,Informative
+703,the_order_phoenix,HERMIONE,610,"It's just an empty archway! Please Harry, they'll be here any--",Danger
+704,the_order_phoenix,HERMIONE,248,Harry...You've got to report this. It's a simple matter of--,Duty
+705,the_order_phoenix,HERMIONE,188,There's nothing in here about actually using defensive spells.,Magic
+706,the_order_phoenix,HERMIONE,327,"You've done it, Neville! You've found the Room of Requirement!",Informative
+707,the_order_phoenix,HERMIONE,394,Harry? Time to go.,Duty
+708,the_order_phoenix,HERMIONE,608,"There aren't any voices, Harry. Let's get out of here--",Danger
+709,the_order_phoenix,HERMIONE,519,"Harry, please, just listen. What if Voldemort meant for you to see this? What if he's only hurting",Danger
+710,the_order_phoenix,HERMIONE,565,How did you get away?,Informative
+711,the_order_phoenix,HERMIONE,159,You know her?,Informative
+712,the_order_phoenix,HERMIONE,60,Only Dumbledore made us swear not to tell you anything.,Duty
+713,the_order_phoenix,HERMIONE,170,It means the Ministry's interfering at Hogwarts.,Magic
+714,the_order_phoenix,HERMIONE,370,Just because you've got the emotional range of a teaspoon...,Mockery
+715,the_order_phoenix,HERMIONE,575,But V-Voldemort...,Danger
+716,the_order_phoenix,HERMIONE,303,"Oh, just a couple of people...",Informative
+717,the_order_phoenix,HERMIONE,443,"He's right. Not even Dumbledore saw this coming. Besides, if it's anyone's fault it's ours...",Duty
+718,the_order_phoenix,HERMIONE,517,"Harry, are you sure?",Informative
+719,the_order_phoenix,HERMIONE,552,STOP IT! STOP!,Relationship
+720,the_order_phoenix,HERMIONE,52,Are you all right? We overheard,Relationship
+721,the_order_phoenix,HERMIONE,368,"Well obviously she's feeling sad about Cedric, and therefore confused about liking Harry and",Relationship
+722,sorcerer_s_stone,HERMIONE,535,"Oh, honestly, don't you two read?",Mockery
+723,sorcerer_s_stone,HERMIONE,219, Pleasure. Do either of you know what House you'll be in? I'm hoping for Gryffindor--I hear Dumbledore himself was in it--but I think I,Magic
+724,sorcerer_s_stone,HERMIONE,534,Of course! Here it is!,Informative
+725,sorcerer_s_stone,HERMIONE,397,Is it--dead?,Informative
+726,sorcerer_s_stone,HERMIONE,418,But why would anyone go near that dog?,Mockery
+727,sorcerer_s_stone,HERMIONE,333,You won't make a fool of yourself.,Duty
+728,sorcerer_s_stone,HERMIONE,763,"Well, if he did I meanthat's terrible. You could have been killed. Come to think of it, I could've been killed...",Danger
+729,sorcerer_s_stone,HERMIONE,685,What's wrong with its wing?,Magic
+730,sorcerer_s_stone,HERMIONE,559,Is that...a dragon?,Magic
+731,sorcerer_s_stone,HERMIONE,346,Shhh! Filch is...gone.,Informative
+732,sorcerer_s_stone,HERMIONE,413,That was...disturbing.,Informative
+733,sorcerer_s_stone,HERMIONE,347,It was locked.,Informative
+734,sorcerer_s_stone,HERMIONE,351,"It was standing on a trapdoor, which means-it's not there by accident. It's...",Informative
+735,sorcerer_s_stone,HERMIONE,701,What happens now?,Informative
+736,sorcerer_s_stone,HERMIONE,216,Didn't you know? I'd have found out everything I could if it was me.,Mockery
+737,sorcerer_s_stone,HERMIONE,703,"Ron, you don't suppose this is going to be like real wizard's chess, do you?",Magic
+738,sorcerer_s_stone,HERMIONE,518,"And what, may I ask, do you plan to do should you get that question on final exams?",Mockery
+739,sorcerer_s_stone,HERMIONE,679,Curious. I've never seen birds like these...,Informative
+740,sorcerer_s_stone,HERMIONE,716,"You're a great wizard, Harry Potter! You are, you know!",Magic
+741,sorcerer_s_stone,HERMIONE,426,"Bit early for mail, isn't it?",Mockery
+742,sorcerer_s_stone,HERMIONE,687,Harry?,Relationship
+743,sorcerer_s_stone,HERMIONE,544,"I don't want to scare you, Harry. It's just...if all Snape wants is",Relationship
+744,sorcerer_s_stone,HERMIONE,532,How could I be so stupid! I checked this out weeks ago for a bit of light reading.,Informative
+745,sorcerer_s_stone,HERMIONE,231,"Well, he's rather disagreeable,",Mockery
+746,sorcerer_s_stone,HERMIONE,368,"Honestly. You're going to take someone's eye out. Besides, you're saying it wrong. It's Levi-ohhhh- sa. Not Levi-o-saaaah.",Magic
+747,sorcerer_s_stone,HERMIONE,612,No. We're forgetting one thing. Who's the one wizard Voldemort always feared?,Storyline
+748,sorcerer_s_stone,HERMIONE,214,"Goodness. You're Harry Potter, aren't you? I know all about you, of course. I was doing a little recreational reading and you're in Modern Magical History, The Rise and Fall of the Dark Arts and Great Wizarding Events of the 20th Century.",Magic
+749,sorcerer_s_stone,HERMIONE,605,Harry!,Relationship
+750,sorcerer_s_stone,HERMIONE,692,I don't like this. I don't like this at all.,Informative
+751,sorcerer_s_stone,HERMIONE,334,It's in your blood.,Duty
+752,sorcerer_s_stone,HERMIONE,318,Harry! No! You heard what Madame Hooch said. Besides you don't even know how to...fly.,Magic
+753,sorcerer_s_stone,HERMIONE,668,"I know, Harry. But you must. If you don't, it'll only kill you faster.",Duty
+754,sorcerer_s_stone,HERMIONE,411,"Ron's right, Harry. You're going to need your strength today.",Informative
+755,sorcerer_s_stone,HERMIONE,674,"It's deadly fun, but will...sulk in the sunl That's it! Light! Devil's Snare hates the light!",Magic
+756,sorcerer_s_stone,HERMIONE,696,But what're we to do?,Duty
+757,sorcerer_s_stone,HERMIONE,613,I'd always heard Hogwarts' end of year exams were frightful. But I found that rather enjoyable. Werent you stunned not to be asked about Elfric the Eager?,Magic
+758,sorcerer_s_stone,HERMIONE,539,"The only stone currently in existence belongs to Mr. Nicolas Flamel, the noted alchemist, who",Magic
+759,sorcerer_s_stone,HERMIONE,213,"Are you sure that's a real spell? Well, it's not very good, is it? I've only tried a few simple ones myself but they've all worked for me. For example...",Magic
+760,sorcerer_s_stone,HERMIONE,673,"Devil's Snare, Devil's Snare. Dances in the dark, delights in the damp...",Magic
+761,sorcerer_s_stone,HERMIONE,581,"Well, that's good, isn't it? He'll",Informative
+762,sorcerer_s_stone,HERMIONE,392,I heard that!,Informative
+763,sorcerer_s_stone,HERMIONE,349,"You don't use yqur eyes, do you? Didn't you see what it was standing on?",Mockery
+764,deathly_hallows_part2,HERMIONE,231,Ive got something. But its mad.,Informative
+765,deathly_hallows_part2,HERMIONE,138,But I hate that thing -- thats,Informative
+766,deathly_hallows_part2,HERMIONE,670,Something my mum used to say.,Relationship
+767,deathly_hallows_part2,HERMIONE,250,Tonight? But we have to plan. We have to figure out what --,Duty
+768,deathly_hallows_part2,HERMIONE,480,Where is everyone?,Informative
+769,deathly_hallows_part2,HERMIONE,335,You were thinking. Its Rons idea. And its brilliant.,Mockery
+770,deathly_hallows_part2,HERMIONE,259,Harry! I can see you! In here!,Informative
+771,deathly_hallows_part2,HERMIONE,370,No. Of course not.,Informative
+772,deathly_hallows_part2,HERMIONE,248,You saw it?,Informative
+773,deathly_hallows_part2,HERMIONE,33,I dont know what youre talking about.,Informative
+774,deathly_hallows_part2,HERMIONE,172,Hes right. I was being stupid.,Relationship
+775,deathly_hallows_part2,HERMIONE,229,We cant just stand here! Whos got an idea?,Duty
+776,deathly_hallows_part2,HERMIONE,212,No wonder Bellatrix thought it was real.,Magic
+777,deathly_hallows_part2,HERMIONE,374,I didnt expect it to be like this.,Informative
+778,deathly_hallows_part2,HERMIONE,111,"Harry, are you thinking theres a Horcrux in Bellatrixs vault?",Magic
+779,deathly_hallows_part2,HERMIONE,145,"Its perfect. Thank you, Fleur.",Relationship
+780,deathly_hallows_part2,HERMIONE,272,Mr. Dumbledore... thank you.,Relationship
+781,deathly_hallows_part2,HERMIONE,372,Im scared.,Danger
+782,deathly_hallows_part2,HERMIONE,254,They were ready for us.,Danger
+783,deathly_hallows_part2,HERMIONE,534,"What is it, Harry? What is it you know?",Informative
+784,deathly_hallows_part2,HERMIONE,211,Look. ,Informative
+785,deathly_hallows_part2,HERMIONE,215,"Ron, your foot!",Informative
+786,deathly_hallows_part2,HERMIONE,242,How is it you --,Informative
+787,deathly_hallows_part2,HERMIONE,444,Cmon! This way!,Informative
+788,chamber_of_secrets,HERMIONE,297,That's why Ron and I went looking,Relationship
+789,chamber_of_secrets,HERMIONE,458,We separate it into three glasses,Informative
+790,chamber_of_secrets,HERMIONE,320,I heard him. But Malfoy? The Heir of Slytherin?,Storyline
+791,chamber_of_secrets,HERMIONE,305,I hardly think someone with,Mockery
+792,chamber_of_secrets,HERMIONE,122,"Isn't it thrilling! Gilderoy Lockhart's going to be there! We can actually meet him! I mean, he's written almost the whole booklist!",Informative
+793,chamber_of_secrets,HERMIONE,452,Remember. Just make sure Crabbe,Duty
+794,chamber_of_secrets,HERMIONE,333,You didn't have to tell me that.,Relationship
+795,chamber_of_secrets,HERMIONE,116,"Hello, Hagrid. Oh, it's wonderful to see you two again.",Relationship
+796,chamber_of_secrets,HERMIONE,378,She's a little sensitive.,Informative
+797,chamber_of_secrets,HERMIONE,498,"Oh, good. Put those anywhere.",Informative
+798,chamber_of_secrets,HERMIONE,386,Do you think he's all right?,Relationship
+799,chamber_of_secrets,HERMIONE,450,I've already got mine.,Duty
+800,chamber_of_secrets,HERMIONE,454,Did you get it?,Duty
+801,chamber_of_secrets,HERMIONE,455,I sneaked those out of the laundry.,Informative
+802,chamber_of_secrets,HERMIONE,499,"I've got to keep up, haven't I?",Relationship
+803,chamber_of_secrets,HERMIONE,449,You know how greedy Crabbe and,Informative
+804,chamber_of_secrets,HERMIONE,281,'The Chamber of Secrets has been opened...?',Storyline
+805,chamber_of_secrets,HERMIONE,317,Yes. Couldn't you tell: McGonagall's worried. All the teachers are.,Danger
+806,chamber_of_secrets,HERMIONE,533,"I don't know, Harry. But I think you should be careful with this. Something tells me Ron might be right. It could be dangerous.",Danger
+807,chamber_of_secrets,HERMIONE,199,I should think you'd count yourself lucky that's all you got.,Mockery
+808,chamber_of_secrets,HERMIONE,496,It was cat hair I plucked off Millicent Bulstrode's robes! Look at my face!,Magic
+809,chamber_of_secrets,HERMIONE,314,Muggle-borns.,Magic
+810,chamber_of_secrets,HERMIONE,444,"Because, in a few days, the Polyjuice Potion's will be ready. In a few days... we may truly know who is the Heir of Slytherin.",Magic
+811,chamber_of_secrets,HERMIONE,312,"Yes, Professor. But there seems to be very little written about",Magic
+812,chamber_of_secrets,HERMIONE,249,At least no one on the Gryffindor,Magic
+813,chamber_of_secrets,HERMIONE,311,"Professor, I was wondering if you could tell us about the Chamber of Secrets?",Magic
+814,chamber_of_secrets,HERMIONE,374,Never. No one over comes in here.,Informative
+815,chamber_of_secrets,HERMIONE,445,Everything's set. We just need a bit of who you're changing into.,Magic
+816,chamber_of_secrets,HERMIONE,328,"Exactly. But it's tricky. I've never seen a more complicated potion. Lacewing flies, leeches, fluxweed. And, of course, we'll need a bit of whoever we want to change into too.",Magic
+817,chamber_of_secrets,HERMIONE,535,"I'm scared, Harry. But not of you.",Danger
+818,chamber_of_secrets,HERMIONE,324,"Here it is: 'The Polyjuice Potion. Properly brewed, the Polyjuice Potion allows the drinker to transform himself temporarily into the physical form of another...'",Magic
+819,chamber_of_secrets,HERMIONE,310,"No, Harry. Even in the wizarding world, hearing voices isn't a good sign.",Danger
+820,chamber_of_secrets,HERMIONE,253,Ron! Say something!,Relationship
+821,deathly_hallows_part1,HERMIONE,402,I think he just hopes he doesnt,Informative
+822,deathly_hallows_part1,HERMIONE,544,It was something Dumbledore came up with. He believed wizards were superior and should rule over,Magic
+823,deathly_hallows_part1,HERMIONE,519,"Harry, Im not sure about this.",Danger
+824,deathly_hallows_part1,HERMIONE,385,Whatre you doing?,Informative
+825,deathly_hallows_part1,HERMIONE,484,"I thought it was a picture of an eye, but now I dont think it is. It isnt a rune and its not in Spellmans Syllabary either. And its been inked in -- somebody drew it -- it isnt part of the book.",Magic
+826,deathly_hallows_part1,HERMIONE,533,You wanted to know who the boy in,Storyline
+827,deathly_hallows_part1,HERMIONE,9,Obliviate.,Magic
+828,deathly_hallows_part1,HERMIONE,681,"No matter, sir. We really ought to be go--",Duty
+829,deathly_hallows_part1,HERMIONE,476,"What? Ron, no -- please --",Relationship
+830,deathly_hallows_part1,HERMIONE,408,Take it off. Now.,Relationship
+831,deathly_hallows_part1,HERMIONE,551,Maybe we can --,Relationship
+832,deathly_hallows_part1,HERMIONE,493,Dont ever let me give you a haircut again.,Relationship
+833,deathly_hallows_part1,HERMIONE,609,And what may I ask did I say?,Mockery
+834,deathly_hallows_part1,HERMIONE,415,He could smell it. My perfume.,Informative
+835,deathly_hallows_part1,HERMIONE,650,Do you see that?,Informative
+836,deathly_hallows_part1,HERMIONE,499,Harry.,Relationship
+837,deathly_hallows_part1,HERMIONE,307,Stop lying! ,Relationship
+838,deathly_hallows_part1,HERMIONE,442,"Harry. You already destroyed one Horcrux, right? Tom Riddles diary -- in the Chamber of Secrets.",Magic
+839,deathly_hallows_part1,HERMIONE,433,I want to go.,Informative
+840,deathly_hallows_part1,HERMIONE,531,"Wendell and Monica Wilkens now reside happily in Sydney,",Relationship
+841,deathly_hallows_part1,HERMIONE,596,And exactly how is it you have the Sword of Gryffindor?,Magic
+842,deathly_hallows_part1,HERMIONE,625,Whats going on in there?,Informative
+843,deathly_hallows_part1,HERMIONE,513,I dont think this is a good idea.,Informative
+844,deathly_hallows_part1,HERMIONE,268,Its from your Mum. To Sirius.,Relationship
+845,deathly_hallows_part1,HERMIONE,496,"Harry, I think its Christmas Eve! ListenÃÂ",Relationship
+846,deathly_hallows_part1,HERMIONE,231,"Rons right. Cappuccino, please.",Relationship
+847,deathly_hallows_part1,HERMIONE,360,Salvio Hexia... Protego Totalum...,Magic
+848,deathly_hallows_part1,HERMIONE,628,See this? Its a letter Dumbledore wrote to Grindelwald. Look at the signature. Its the mark again.,Storyline
+849,deathly_hallows_part1,HERMIONE,652,No! Dont go near it!,Danger
+850,deathly_hallows_part1,HERMIONE,490,"Its dangerous, Harry. But I have to admit, recently even Ive been thinking we might have to go. I think its possible something else is hidden there.",Danger
+851,deathly_hallows_part1,HERMIONE,487,Why would someone have drawn it in a childrens book?,Informative
+852,deathly_hallows_part1,HERMIONE,368,"It scares me a bit, that, thinking its a piece of Vol--",Danger
+853,deathly_hallows_part1,HERMIONE,234,"Too dangerous. If Voldemorts taken over the Ministry, none of",Danger
+854,deathly_hallows_part1,HERMIONE,534,It was in Bathildas sitting room.,Informative
+855,deathly_hallows_part1,HERMIONE,517,Omigod. Harry...,Mockery
+856,deathly_hallows_part1,HERMIONE,346,Harry... theyve seen you. Weve got to get out of here.,Danger
+857,deathly_hallows_part1,HERMIONE,634,"Harry, you dont have a clue where",Informative
+858,deathly_hallows_part1,HERMIONE,365,Howre the mushrooms? Seem to be,Mockery
+859,deathly_hallows_part1,HERMIONE,311,Youve still got it.,Relationship
+860,deathly_hallows_part1,HERMIONE,287,Ron! RON! ,Relationship
+861,deathly_hallows_part1,HERMIONE,264,Were alone.,Informative
+862,deathly_hallows_part1,HERMIONE,181,"Where is your guard, sir?",Informative
+863,deathly_hallows_part1,HERMIONE,221,Shaftesbury Avenue. I used to come here to the theater with my mum and dad. Just popped into my head. I dont know why...,Relationship
+864,deathly_hallows_part1,HERMIONE,351,"Harry, quickly, in my bag, theres a small bottle labeled ÃÂEssence of Dittany.",Magic
+865,deathly_hallows_part1,HERMIONE,626,We need to talk.,Relationship
+866,deathly_hallows_part1,HERMIONE,486,What dyou mean -- wearing it?,Mockery
+867,deathly_hallows_part1,HERMIONE,228,Thatll be the books.,Informative
+868,deathly_hallows_part1,HERMIONE,430,None of us do.,Relationship
+869,deathly_hallows_part1,HERMIONE,661,Its in here.,Informative
+870,deathly_hallows_part1,HERMIONE,489,And its exactly where You-Know- Who will expect you to go. Because it means something to you.,Storyline
+871,deathly_hallows_part1,HERMIONE,663,Granger. Well... all right.,Informative
+872,deathly_hallows_part1,HERMIONE,285,But was it here? Did you ever see it?,Informative
+873,deathly_hallows_part1,HERMIONE,719,A Stinging Jinx.,Magic
+874,deathly_hallows_part1,HERMIONE,438,Alright. The Sword of Gryffindor? Its Goblin made.,Magic
+875,deathly_hallows_part1,HERMIONE,405,I dont know. It takes time. Im doing all I can.,Duty
+876,deathly_hallows_part1,HERMIONE,537,For a time.,Informative
+877,deathly_hallows_part1,HERMIONE,528,Harry...,Relationship
+878,deathly_hallows_part1,HERMIONE,671,Its owner grew drunk with power and was murdered.,Informative
+879,deathly_hallows_part1,HERMIONE,249,Obliviate.,Magic
+880,deathly_hallows_part1,HERMIONE,411,Its cold. Even though its been lying against your skin for days.,Magic
+881,deathly_hallows_part1,HERMIONE,601,What happened out there?,Informative
+882,deathly_hallows_part1,HERMIONE,270,"Harry. I can imagine why youd want to go there, but... I dont think Bathilda Bagshot is going to",Relationship
+883,deathly_hallows_part1,HERMIONE,444,"Dont you see! In the Chamber of Secrets, you stabbed the basilisk with the Sword of Gryffindor.",Storyline
+884,deathly_hallows_part1,HERMIONE,432,I dont like this place.,Danger
+885,deathly_hallows_part1,HERMIONE,223,We need to change.,Danger
+886,deathly_hallows_part1,HERMIONE,464,"Harry, we werent --",Relationship
+887,deathly_hallows_part1,HERMIONE,554,"He loved you, Harry. I know he loved you.",Relationship
+888,deathly_hallows_part1,HERMIONE,254,"We didnt celebrate your birthday, Harry. Ginny and I -- wed prepared a cake. We were going to bring it out at the end of the wedding...",Relationship
+889,deathly_hallows_part1,HERMIONE,509,Harry...,Relationship

@@ -599,7 +599,7 @@ annotation_id,movie,character,speech_id,text,annotation_label
 598,goblet_of_fire,HERMIONE,140,So a genius like Dumbledore couldn't possibly be fooled by something pathetically dimwitted such as an age potion.,Magic
 599,goblet_of_fire,HERMIONE,15,Wake up. Wake up Ronald!,Relationship
 600,goblet_of_fire,HERMIONE,407,"I wouldn't know, we didn't actually talk about the tournament. Actually we didn't really talk at all, Viktor's more of a physical being. I just mean",Relationship
-601,goblet_of_fire,HERMIONE,428,"Harry, tell me again.",
+601,goblet_of_fire,HERMIONE,428,"Harry, tell me again.",Relationship
 602,goblet_of_fire,HERMIONE,276,Oh um.. Sorry I'll just go.,
 603,goblet_of_fire,HERMIONE,471,Next to last.,
 604,goblet_of_fire,HERMIONE,399,"Next time there's a ball pluck up the courage and ask me before somebody else does, and not as a last resort.",
@@ -888,3 +888,4 @@ annotation_id,movie,character,speech_id,text,annotation_label
 887,deathly_hallows_part1,HERMIONE,554,"He loved you, Harry. I know he loved you.",
 888,deathly_hallows_part1,HERMIONE,254,"We didn’t celebrate your birthday, Harry. Ginny and I -- we’d prepared a cake. We were going to bring it out at the end of the wedding...",
 889,deathly_hallows_part1,HERMIONE,509,Harry...,
+
